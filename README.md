@@ -331,16 +331,16 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
+| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- |
 | ______ | ![img]() |
-| Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                              |
+| Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                      |
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]() |
-| Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                              |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]() |
-| Alumno: Joseph Manuel Chavez Viera Código: Carrera: |                                                              |
+| Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                      |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![profile-Juan.jpeg](assets/profile-Juan.jpeg) |
+| Alumno: Joseph Manuel Chavez Viera Código: Carrera: |                                                      |
 | ______ | ![img]() |
-| Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                              |
+| Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                      |
 | _____ | ![img]() |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
