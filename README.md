@@ -331,17 +331,17 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera:  |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ______ | ![img]() |
+| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                              |
+| ---------------------------------------------------- |--------------------------------------------------------------|
+| ______ | ![img]()                                                     |
 | Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                              |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]() |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]()                                                     |
 | Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                              |
-| ______ | ![img]() |
-| Alumno: Joseph Manuel Chavez Viera Código: Carrera:  |                                                              |
-| ______ | ![img]() |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo.| ![profile-Juan.jpeg](assets/profile-Juan.jpeg)               |
+| Alumno: Joseph Manuel Chavez Viera Código: Carrera: |                                                              |
+| ______ | ![img]()                                                     |
 | Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                              |
-| _____ | ![img]() |
+| _____ | ![img]()                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 1.2. Solution Profile
@@ -468,8 +468,63 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
 
+#### 2.2.2. Registro de entrevistas
+
+**Segmento objetivo #1: Amantes de Perros (Usuarios)**
+
+**Entrevista 1:**
+
+![Segmento1-Entrevista 1.png](assets/Segmento1-Entrevista%201.png)
+
+**Nombre: Eduardo Alonso Rojas Torres**
+
+**Edad: 20 años**
+
+**Ocupación: Estudiante**
+
+**Vive solo en Magdalena del Mar**
+
+**Estado civil: Soltero**
+
+**Se considera una persona divertida, introvertida y tranquila, con habilidades como la disciplina, la responsabilidad y la capacidad para redactar (aunque menciona "reactar", se infiere que quiso decir "redactar").**
+
+**Resumen: Eduardo es un estudiante de 20 años que vive solo en Magdalena del Mar y se describe como una persona tranquila, introvertida y divertida, destacando su disciplina y responsabilidad. Utiliza frecuentemente dispositivos como el celular y la laptop, e interactúa activamente en redes sociales, sintiéndose motivado por marcas como Nike debido a su vínculo con el deporte. Convive con tres perros a los que considera parte de su familia, y aunque disfruta pasar tiempo con ellos, menciona como desafío que no siempre hagan sus necesidades fuera de casa. Él se encarga principalmente de los paseos, mientras que su madre y abuelo colaboran con el resto del cuidado. La entrevista refleja su compromiso con el bienestar de sus mascotas y la importancia que da a una rutina organizada para su correcto cuidado.**
 
 
+**Entrevista 2:**
+
+![Segmento1-Entrevista 2.png](assets/Segmento1-Entrevista%202.png)
+
+**Nombre: Frank Gen Saldaña Kannan**
+
+**Edad: 20 años**
+
+
+**Residencia: Actualmente en Monterrico (antes Surquillo)**
+
+
+**Estado civil: Soltero**
+**Resumen: Frank Gen Saldaña es un estudiante de 20 años de Ingeniería y Sistemas en la Universidad de Lima, originario de Tarapoto y con ascendencia japonesa, que actualmente vive solo en Monterrico. Utiliza principalmente su laptop y celular para comunicarse, prefiriendo redes sociales como Instagram, WhatsApp y Facebook. Se describe como una persona amigable, paciente y tranquila, con una actitud abierta a probar cosas nuevas. Para él, su perro es mucho más que una mascota; es un miembro de la familia que le ha enseñado a amar y cuidar, y con quien comparte momentos de juego y paseos diarios. Aunque disfruta de esta relación cercana, reconoce que le resulta difícil organizar el cuidado médico del animal, como las vacunas, debido a su tendencia a olvidarse, por lo que valora la idea de un sistema automatizado que le ayude a recordar estas responsabilidades, las cuales también son compartidas con su madre y hermano.**
+
+**Segmento objetivo #2: Amantes de Perros (Veterinarios y Cuidadores)**
+
+**Entrevista 1:**
+
+![Segmento 2 - Entrevista 1.png](assets/Segmento%202%20-%20Entrevista%201.png)
+
+**Nombre: Fabrizio Chong.**
+
+**Edad: 25 años.**
+
+**Ocupación: Médico Veterinario.**
+
+**Residencia: La Molina, Lima.**
+
+**Datos Personales: Soltero, vive de forma independiente.**
+
+**Personalidad (Autodescrita): Se define como alegre, solidario y coqueto. Esto sugiere una persona sociable, empática y con confianza en sí misma.**
+
+**Resumen: Fabrizio Chong, un joven y apasionado médico veterinario en Lima, se enfrenta diariamente al desafío de diagnosticar a sus pacientes basándose en la observación y en la información, a menudo imprecisa, que proporcionan los dueños. Actualmente, utiliza principalmente Instagram para la comunicación y conexión con su clientela. Destacó que el mayor obstáculo para los dueños de mascotas es la desinformación en línea, lo que sugiere que una herramienta digital que centralice el historial clínico del paciente y ofrezca una fuente de información fiable marcaría una diferencia sustancial en su práctica. Subrayó la importancia de poder obtener datos precisos del estado del animal para acertar en el diagnóstico y evitar complicaciones, como la deshidratación. Concluyó que una solución de este tipo no solo optimizaría la gestión de las consultas, sino que elevaría la calidad de la atención al fortalecer el vínculo informativo entre el veterinario y el cliente. Su testimonio confirma la necesidad de herramientas especializadas que profesionalicen la recopilación de información clínica en el sector veterinario y combatan la desinformación.**
 
 
 
