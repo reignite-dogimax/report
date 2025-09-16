@@ -470,6 +470,116 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 ## 2.3. Needfinding.
+## 2.1. Competidores.
+### 2.1.2 Análisis competitivo.
+# Competitive Analysis Landscape
+
+## Pregunta clave / objetivo del análisis
+**¿Cómo puede DogiMax diferenciarse y posicionarse frente a las apps y servicios peruanos que ya ofrecen soluciones digitales para el cuidado de mascotas (cartilla digital, comunidad, marketplace, identificación), aprovechando sus debilidades y blindándose frente a sus fortalezas?**
+
+---
+
+## Landscape: Perfil General
+
+|                | DogiMax (startup)                                                                 | Dimu (Perú)                                                                                      | GoPetsApp (Perú)                                                                 | PetCard / MyPetCard (Perú)                                                             | QPet / iPets (Perú)                                                                                   |
+|----------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Overview**   | Plataforma digital (agenda para perros + IA de recomendaciones personalizadas según raza y necesidades). Enfoque integral: agenda + historial + IA + alianzas. | App peruana: cartilla digital, reservas de veterinarios, servicios a domicilio, tienda online. Ecosistema de servicios integrados. | Red social peruana para dueños de mascotas: cartilla virtual, recordatorios, comunidad, tienda, eventos. | Cartilla digital con QR; registro de vacunas e historial. Se usa como “carnet digital” para compartir con veterinarios. | Servicios de identificación (placas QR, microchip) + apps de ficha; algunos con recordatorio de vacunas y emergencias. |
+| **Ventaja competitiva** | IA personalizada validada + posibilidad de alianzas clínicas. Diferenciación en recomendaciones inteligentes. | Ecosistema ya consolidado en Perú; acceso inmediato a servicios y compras. | Fuerte en comunidad y engagement social; ecosistema de dueños conectados. | Simplicidad y confiabilidad en la gestión del historial clínico. | Seguridad e identificación en casos de extravío; valor muy alto para dueños preocupados. |
+| **Perfil de marketing** | Segmento: dueños jóvenes–adultos en Lima y principales ciudades, con perro como miembro familiar. Estrategia: diferenciación por IA + educación en cuidado responsable. | Segmento: dueños digitales en Lima que buscan conveniencia. Marketing: Instagram, alianzas con marcas de delivery/vet. | Segmento: dueños jóvenes, comunidad pet lovers. Marketing: redes sociales, eventos locales, comunidad activa. | Segmento: dueños que buscan solución práctica de historial/vacunas. Marketing: clínicas, ferias de mascotas. | Segmento: dueños preocupados por seguridad. Marketing: venta directa en web/ferias; veterinarias y tiendas físicas. |
+
+---
+
+## Perfil de Producto
+
+|                         | DogiMax                                                                                          | Dimu                                                                                      | GoPetsApp                                                                                  | PetCard / MyPetCard                                                                      | QPet / iPets                                                                                          |
+|-------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Productos & Servicios** | Agenda digital, historial clínico, recordatorios, IA de recomendaciones (alimentación, ejercicio, cuidados), alianzas con clínicas y marcas. | Cartilla digital, reservas online, veterinarios a domicilio, servicios complementarios (paseo, grooming), tienda online. | Cartilla virtual, recordatorios, red social/comunidad, eventos, tienda. | Cartilla digital, QR de identificación, historial clínico para compartir con veterinarias. | Placas inteligentes QR, microchips, registro online, alertas de extravío, recordatorios básicos de vacunas. |
+| **Precios & Costos**    | Freemium: gratis (agenda + recordatorios básicos), Premium (IA avanzada, historial clínico compartible, teleconsulta). | Gratis el registro básico; monetiza con comisión en reservas y compras. | Gratis; monetiza con publicidad y venta de productos/servicios. | Pago único por tarjeta/QR o plan básico económico. | Pago único por placas/microchip; ingresos por ventas físicas. |
+| **Canales de distribución** | Web + App móvil (iOS, Android). | App móvil, web, campañas digitales, presencia en ferias. | App móvil, redes sociales (Instagram, TikTok), ferias. | Venta directa web, clínicas veterinarias, ferias de mascotas. | Venta directa (web, clínicas, ferias, veterinarias). |
+
+---
+
+## Análisis SWOT
+
+### DogiMax (startup)
+- **Fortalezas:** IA personalizada (único en Perú), diseño integral (agenda + recomendaciones + alianzas).  
+- **Debilidades:** Falta de base de usuarios inicial, credibilidad clínica depende de alianzas.  
+- **Oportunidades:** Mercado peruano en crecimiento, hueco en personalización clínica; posibilidad de alianzas con clínicas y marcas.  
+- **Amenazas:** Dimu y GoPets ya posicionados; riesgo de que adopten IA rápido.  
+
+---
+
+### Dimu
+- **Fortalezas:** Ecosistema completo (cartilla, reservas, tienda, domicilios), base activa en Perú.  
+- **Debilidades:** Poca diferenciación en personalización; foco comercial más que clínico.  
+- **Oportunidades:** Ampliar servicios IA; alianzas con DogiMax en datos/IA.  
+- **Amenazas:** Si DogiMax logra aliarse con clínicas y ofrecer IA validada, puede restarles usuarios más exigentes.  
+
+---
+
+### GoPetsApp
+- **Fortalezas:** Comunidad y engagement social, eventos, alta presencia en redes.  
+- **Debilidades:** Menor profundidad clínica, poca validación médica.  
+- **Oportunidades:** Crecimiento en social commerce (tienda + comunidad).  
+- **Amenazas:** DogiMax puede atraer a usuarios que buscan un cuidado más serio y profesional.  
+
+---
+
+### PetCard / MyPetCard
+- **Fortalezas:** Solución simple y confiable de cartilla digital e identificación QR.  
+- **Debilidades:** Limitado a historial; sin IA ni servicios integrados.  
+- **Oportunidades:** Integrarse con apps más completas como DogiMax.  
+- **Amenazas:** Si amplían funciones (agenda, IA), podrían competir directamente.  
+
+---
+
+### QPet / iPets
+- **Fortalezas:** Valor alto en seguridad y prevención de extravío; placas/microchip demandados.  
+- **Debilidades:** Poca relevancia en historial clínico y agenda.  
+- **Oportunidades:** Alianzas con apps como DogiMax para integrar ID y salud.  
+- **Amenazas:** Si lanzan app propia con historial y recordatorios, entran al mismo nicho.  
+
+---
+
+## Estrategias y Tácticas de DogiMax frente a competidores en Perú
+
+### Diferenciación con IA validada localmente
+- Integrar datos de razas comunes en Perú y enfermedades locales.  
+- Publicar aval clínico con veterinarios peruanos → credibilidad.  
+
+### Alianzas estratégicas para complementar servicios
+- Con QPet/iPets → integración de placas QR en el perfil DogiMax.  
+- Con clínicas peruanas → ofrecer panel de gestión gratuito y validación de historiales.  
+
+### Modelo de negocio Freemium competitivo
+- Gratis: agenda, recordatorios, cartilla básica.  
+- Premium: IA avanzada, teleconsulta, historial clínico compartible, descuentos en marcas peruanas.  
+
+### Posicionamiento en marketing digital local
+- Contenido educativo en Instagram/TikTok: vacunación en Perú, tips de clima y alimentación local.  
+- Embajadores: microinfluencers con mascotas peruanas.  
+
+### Entrar por clínicas antes que por comunidad
+- **Táctica:** onboarding gratuito en 5 clínicas de Lima → cada clínica recomienda DogiMax a sus clientes.  
+
+---
+
+## Propuesta de valor frente a competidores
+
+- **Vs Dimu:**  
+  - Dimu: conveniencia y marketplace.  
+  - DogiMax: personalización e innovación clínica → *“Tu perro no es genérico, su cuidado tampoco”*.  
+
+- **Vs GoPetsApp:**  
+  - GoPets: comunidad social.  
+  - DogiMax: cuidado serio y validado.  
+  - **Táctica:** permitir compartir logros de cuidado en redes, pero con base médica.  
+
+- **Vs PetCard:**  
+  - PetCard: historial básico.  
+  - DogiMax: historial inteligente con recomendaciones dinámicas.  
+  - **Táctica:** ofrecer importación de datos de PetCard.  
+
 ### 2.3.1. User Personas.
 Las User Personas representaron a los usuarios clave del sistema: Eduardo, un dueño de perro joven y estudiante universitario que enfrenta dificultades para organizar el cuidado de sus tres perros debido a su apretada rutina, y Fabricio, un veterinario de 25 años que necesita una herramienta digital que centralice toda la información médica de los perros para mejorar la calidad de la atención. Cada persona tiene sus responsabilidades, frustraciones, motivaciones y metas, lo que proporciona una guía para la creación de la solución.
 ### 2.3.2. User Task Matrix.
