@@ -529,14 +529,19 @@ La User Task Matrix mapea las tareas clave que los usuarios realizan al interact
 ### 2.3.3. User Journey Mapping.
 
 El User Journey Mapping describe cómo los usuarios, Eduardo y Fabricio, interactúan con la plataforma en cada fase de su recorrido. Desde el descubrimiento de la plataforma hasta la integración de sus actividades diarias, se detallan los pasos que los usuarios dan, los problemas que enfrentan y las oportunidades que la solución podría ofrecerles para mejorar su experiencia. Se identifican los momentos clave y cómo la plataforma puede hacer más eficientes estas interacciones.
+
 ### 2.3.4. Empathy Mapping.
 
 En el Empathy Mapping, se busca entender profundamente las emociones, pensamientos y comportamientos de los usuarios. A través de las respuestas de Eduardo y Fabricio, se exploran lo que piensan, lo que dicen, lo que hacen, lo que ven, lo que oyen y cómo se sienten. Esto ayuda a comprender las barreras emocionales y cognitivas que los usuarios enfrentan en su día a día y cómo la solución puede aliviar esas tensiones y mejorar su experiencia.
+
  ###  2.3.5. As-is Scenario Mapping.
 
 El As-is Scenario Mapping describe cómo los usuarios gestionan actualmente el cuidado de sus perros sin la solución propuesta. En este escenario, Eduardo y Fabricio emplean métodos dispersos y poco organizados, como calendarios, notas y recordatorios en diferentes dispositivos, lo que resulta en desorganización y olvidos. Este escenario identifica las ineficiencias actuales, proporcionando un punto de partida para la mejora.
+
 ###  2.4. Ubiquitous Language.
+
 El Ubiquitous Language establece los términos clave usados a lo largo del desarrollo, asegurando una comprensión común entre todos los involucrados. En este caso, se definen términos como dueños de perros, plataforma digital, recordatorios automáticos y recomendaciones personalizadas, asegurando que todos los participantes en el proyecto tengan una visión clara y consistente del sistema.
+
 <table border="1">
   <thead>
     <tr>
@@ -568,13 +573,17 @@ El Ubiquitous Language establece los términos clave usados a lo largo del desar
     </tr>
   </tbody>
 </table>
+
 ## Capítulo III: Requirements Specification
+
 ###  3.1. To-Be Scenario Mapping.
 
 En el To-Be Scenario Mapping, se describe la situación ideal después de la implementación de la plataforma. Para los dueños de perros y veterinarios, la plataforma centraliza todas las actividades relacionadas con el cuidado de los perros, proporcionando recordatorios automáticos y recomendaciones personalizadas. Esto mejora la organización, reduce el estrés de los dueños y optimiza la eficiencia del proceso de atención médica, ofreciendo una experiencia mucho más fluida y organizada.
 
 ###  3.2. User Stories.
+
 Las User Stories definen las funcionalidades del sistema desde la perspectiva de los usuarios. Por ejemplo, se describe cómo un dueño de perro podría querer recibir notificaciones automáticas de citas médicas para no olvidarlas. Estas historias guían el desarrollo de la plataforma, enfocándose en necesidades clave y asegurando que se ofrezcan soluciones específicas que resuelvan los problemas de los usuarios.
+
 <table border="1">
   <thead>
     <tr>
@@ -1256,9 +1265,13 @@ Las User Stories definen las funcionalidades del sistema desde la perspectiva de
 </tr>
   </tbody>
 </table>
+
 ###  3.3. Impact Mapping.
+
 El Impact Mapping conecta las funcionalidades del sistema con los resultados que se desean lograr. Se examinan cómo las funcionalidades de recordatorios automáticos y recomendaciones personalizadas pueden impactar positivamente en el bienestar de los perros, en el crecimiento de la base de usuarios y en la satisfacción de los veterinarios. Esta estrategia de mapeo asegura que las acciones del sistema estén alineadas con los objetivos comerciales y de impacto social.
+
 ### 3.4. Product Backlog.
+
 El Product Backlog es una lista priorizada de las tareas y funcionalidades que deben implementarse para desarrollar la plataforma. Incluye tareas como la gestión de citas médicas, el desarrollo de recordatorios automáticos y la integración con marcas y veterinarias. Esta lista se mantiene actualizada durante el desarrollo para garantizar que las funcionalidades más importantes se implementen primero, brindando valor a los usuarios de forma constante.
 <table border="1">
   <thead>
