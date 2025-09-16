@@ -467,6 +467,49 @@ Necesitamos entender cómo los dueños de perros organizan actualmente el cuidad
 Realizar encuestas y entrevistas con dueños de perros para entender sus hábitos, necesidades y dificultades en la gestión del cuidado de sus mascotas, así como entrevistas con veterinarias y marcas para conocer cómo podrían colaborar y aportar valor dentro de la plataforma.
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
+#### 2.2.1 Diseño de entrevistas
+
+### **Preguntas Generales**
+
+#### **1. Datos Demográficos y de Contacto**
+* **Nombre y Apellido:**
+* **Edad:**
+* **Distrito de Residencia:**
+* **Estado Civil:**
+* **Ocupación:**
+* **Familia:**
+
+#### **2. Antecedentes (Background)**
+* **Biografía o Background:** "Cuéntanos un poco sobre tu historia, tu educación y tu experiencia laboral."
+
+#### **3. Tecnología y Preferencias Digitales**
+* **Dispositivos de preferencia:** "¿Qué tipo de dispositivos tecnológicos usas con más frecuencia?"
+* **Canales digitales de interacción:** "¿Cuáles redes sociales o plataformas digitales sueles usar para comunicarte o informarte?"
+* **Marcas e Influencias:** "¿Qué marcas o figuras públicas te inspiran o sigues regularmente?"
+
+#### **4. Aspectos de Personalidad y Habilidades**
+* **Personalidad:** "Describe tu personalidad en 3 palabras."
+* **Habilidades:** "¿Qué habilidades consideras que te distinguen?"
+
+---
+
+### **Preguntas Específicas por Segmento**
+
+### **Segmento 1: Amantes de Perros (Usuarios)**
+
+* **Pregunta sobre el Vínculo:** "¿Qué significa tu perro para ti?"
+* **Pregunta sobre Rutina:** "Cuéntame cómo es un día normal con tu perro. ¿Qué actividades hacen juntos?"
+* **Pregunta sobre Frustraciones:** "¿Qué es lo más frustrante del día a día con tu perro? ¿Qué situación te hace pensar, 'Ojalá hubiera una forma más fácil de hacer esto'?"
+* **Pregunta sobre Cuidado:** "¿Cómo te organizas para el cuidado de tu perro? Por ejemplo, ¿quién lo saca a pasear o lo lleva al veterinario?"
+
+---
+
+### **Segmento 2: Amantes de Perros (Veterinarios y Cuidadores)**
+
+* **Pregunta sobre el Flujo de Trabajo:** "¿Cuál es la parte más tediosa o que más tiempo te quita al gestionar tu trabajo?"
+* **Pregunta sobre la Comunicación con los Clientes:** "Cuando un cliente te contacta con una pregunta o un problema, ¿cuál es el tipo de consulta que más se repite?"
+* **Pregunta sobre la Relación Cliente-Proveedor:** "En tu experiencia, ¿qué crees que es lo más difícil para un dueño de perro al buscar ayuda o información sobre el cuidado de su mascota?"
+* **Pregunta sobre la Tecnología:** "Para ti, ¿qué rol juega la tecnología en tu trabajo? ¿Hay alguna herramienta que te haya facilitado la vida o que te parezca indispensable?"
 
 #### 2.2.2. Registro de entrevistas
 
