@@ -589,6 +589,79 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Resumen: Fabrizio Chong, un joven y apasionado médico veterinario en Lima, se enfrenta diariamente al desafío de diagnosticar a sus pacientes basándose en la observación y en la información, a menudo imprecisa, que proporcionan los dueños. Actualmente, utiliza principalmente Instagram para la comunicación y conexión con su clientela. Destacó que el mayor obstáculo para los dueños de mascotas es la desinformación en línea, lo que sugiere que una herramienta digital que centralice el historial clínico del paciente y ofrezca una fuente de información fiable marcaría una diferencia sustancial en su práctica. Subrayó la importancia de poder obtener datos precisos del estado del animal para acertar en el diagnóstico y evitar complicaciones, como la deshidratación. Concluyó que una solución de este tipo no solo optimizaría la gestión de las consultas, sino que elevaría la calidad de la atención al fortalecer el vínculo informativo entre el veterinario y el cliente. Su testimonio confirma la necesidad de herramientas especializadas que profesionalicen la recopilación de información clínica en el sector veterinario y combatan la desinformación.**
 
+## 2.2.3 Análisis de entrevistas
+
+### Segmento 1: Amantes de Perros (Usuarios)
+
+**Entrevistas consideradas:** 2 (Eduardo y Frank).
+
+#### Características objetivas:
+- **Edad:** Ambos tienen 20 años (100%). Esto sugiere que el perfil principal en este segmento son jóvenes adultos.  
+- **Estado civil:** Ambos son solteros (100%).  
+- **Distrito de residencia:** Diferentes (Magdalena del Mar y Monterrico), lo que indica variedad geográfica dentro de Lima.  
+- **Ocupación:** Ambos son estudiantes universitarios (100%).  
+- **Dispositivos usados con más frecuencia:** Celular y laptop (100%).  
+- **Canales digitales de interacción:**  
+  - Instagram: 100% (2/2).  
+  - WhatsApp: 50% (1/2).  
+  - Facebook: 50% (1/2).  
+
+#### Características subjetivas:
+- **Personalidad:**  
+  - Introvertido: 50% (1/2).  
+  - Tranquilo: 100% (2/2).  
+  - Divertido/amigable: 100% (2/2).  
+  - Paciente: 50% (1/2).  
+- **Habilidades destacadas:**  
+  - Disciplina y responsabilidad: 50% (1/2).  
+  - Redacción: 50% (1/2).  
+  - Apertura a probar cosas nuevas: 50% (1/2).  
+
+#### Relación con los perros:
+- **Vínculo emocional:** Ambos consideran al perro como miembro de la familia (100%).  
+- **Rutina:** Paseos y juegos diarios (100%).  
+- **Frustraciones comunes:**  
+  - Problemas de higiene/entrenamiento: 50% (1/2).  
+  - Dificultad en recordar cuidados médicos (vacunas, consultas): 50% (1/2).  
+- **Cuidado compartido:** En ambos casos participan familiares (100%), aunque ellos mismos asumen parte del rol principal (paseos).  
+
+#### Conclusión del segmento:
+Este segmento refleja jóvenes universitarios solteros de 20 años, tranquilos, responsables y con alta vinculación emocional hacia sus perros, a quienes consideran familia. Usan principalmente celular y laptop para su vida diaria, con preferencia marcada por Instagram como canal digital. Sus frustraciones se centran en la higiene y el seguimiento de la salud del perro, donde manifiestan interés por soluciones automatizadas que les ayuden a organizar recordatorios y rutinas.
+
+---
+
+### Segmento 2: Amantes de Perros (Veterinarios y Cuidadores)
+
+**Entrevistas consideradas:** 1 (Fabrizio Chong).
+
+#### Características objetivas:
+- **Edad:** 25 años (100%).  
+- **Estado civil:** Soltero (100%).  
+- **Distrito de residencia:** La Molina.  
+- **Ocupación:** Médico Veterinario (100%).  
+- **Dispositivos de preferencia:** Smartphone (para redes sociales).  
+- **Canales digitales:** Principalmente Instagram (100%).  
+
+#### Características subjetivas:
+- **Personalidad:** Alegre, solidario y coqueto (100%). Se percibe como sociable, empático y seguro.  
+- **Habilidades implícitas:** Comunicación con clientes, empatía, resolución de problemas.  
+
+#### Relación con el trabajo:
+- **Flujo de trabajo:** El mayor reto es el diagnóstico con información incompleta o inexacta que dan los dueños.  
+- **Comunicación con clientes:** El problema más recurrente es la desinformación por consultas basadas en internet.  
+- **Relación cliente-proveedor:** Lo más difícil para los dueños es la falta de información confiable sobre el cuidado de su mascota.  
+- **Rol de la tecnología:** Considera que una herramienta digital centralizada de historial clínico sería muy útil para mejorar diagnósticos y evitar complicaciones.  
+
+#### Conclusión del segmento:
+Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera independiente, con un perfil empático y comunicativo, y que usan Instagram como medio de conexión con clientes. Su mayor preocupación está en la desinformación y la falta de datos precisos, lo que evidencia la necesidad de plataformas tecnológicas confiables que organicen información clínica y mejoren la comunicación con los dueños.
+
+---
+
+### Comparación rápida entre segmentos:
+- Ambos segmentos coinciden en el uso de **Instagram** como canal principal.  
+- Los usuarios tienen **dificultades para organizar cuidados** de sus mascotas, mientras que los veterinarios señalan la **falta de información confiable** como su principal obstáculo.  
+- Esto crea un punto de encuentro: una solución tecnológica que apoye tanto a dueños como a veterinarios mediante **recordatorios, historial clínico y educación confiable**.
+
 
 
 
