@@ -472,7 +472,8 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 ## 2.3. Needfinding.
 ## 2.1. Competidores.
 ### 2.1.2 Análisis competitivo.
-# Competitive Analysis Landscape
+
+Competitive Analysis Landscape
 
 ## Pregunta clave / objetivo del análisis
 **¿Cómo puede DogiMax diferenciarse y posicionarse frente a las apps y servicios peruanos que ya ofrecen soluciones digitales para el cuidado de mascotas (cartilla digital, comunidad, marketplace, identificación), aprovechando sus debilidades y blindándose frente a sus fortalezas?**
@@ -541,7 +542,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 ---
 
-## Estrategias y Tácticas de DogiMax frente a competidores en Perú
+## 2.1.2. Estrategias y Tácticas de DogiMax frente a competidores en Perú
 
 ### Diferenciación con IA validada localmente
 - Integrar datos de razas comunes en Perú y enfermedades locales.  
