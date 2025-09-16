@@ -468,8 +468,6 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
 
-
-## 2.3. Needfinding.
 ## 2.1. Competidores.
 ### 2.1.2 Análisis competitivo.
 
@@ -580,6 +578,8 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
   - PetCard: historial básico.  
   - DogiMax: historial inteligente con recomendaciones dinámicas.  
   - **Táctica:** ofrecer importación de datos de PetCard.  
+
+## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 Las User Personas representaron a los usuarios clave del sistema: Eduardo, un dueño de perro joven y estudiante universitario que enfrenta dificultades para organizar el cuidado de sus tres perros debido a su apretada rutina, y Fabricio, un veterinario de 25 años que necesita una herramienta digital que centralice toda la información médica de los perros para mejorar la calidad de la atención. Cada persona tiene sus responsabilidades, frustraciones, motivaciones y metas, lo que proporciona una guía para la creación de la solución.
