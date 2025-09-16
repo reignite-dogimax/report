@@ -549,6 +549,26 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 **Estado civil: Soltero**
 **Resumen: Frank Gen Saldaña es un estudiante de 20 años de Ingeniería y Sistemas en la Universidad de Lima, originario de Tarapoto y con ascendencia japonesa, que actualmente vive solo en Monterrico. Utiliza principalmente su laptop y celular para comunicarse, prefiriendo redes sociales como Instagram, WhatsApp y Facebook. Se describe como una persona amigable, paciente y tranquila, con una actitud abierta a probar cosas nuevas. Para él, su perro es mucho más que una mascota; es un miembro de la familia que le ha enseñado a amar y cuidar, y con quien comparte momentos de juego y paseos diarios. Aunque disfruta de esta relación cercana, reconoce que le resulta difícil organizar el cuidado médico del animal, como las vacunas, debido a su tendencia a olvidarse, por lo que valora la idea de un sistema automatizado que le ayude a recordar estas responsabilidades, las cuales también son compartidas con su madre y hermano.**
 
+**Entrevista 3:**
+
+![Segmento1-Entrevista 3.png](https://github.com/reignite-dogimax/report/blob/dcd05d69b1f56ec0c683449b3984f2eee37a66f4/assets/Segmento1-Entrevista%203.png)
+
+**Nombre: Janet Linda Ramos Gomez**
+
+**Edad: 50 años**
+
+**Ocupación: Docente**
+
+**Vive con su familia en Villa el Salvador**
+
+**Estado civil: Conviviente**
+
+**Se considera una persona seria, responsable y solidaria, con habilidades como la resilencia, la responsabilidad ademas de querer apoyar siempre en los proyectos que se realizan.**
+
+**Resumen: Janet es una docente de 50 años, actualmente vive con sus hijos y su conviviente, usa principalmente su celular para mantenerse conectados y principalmente conectada a facebook, se considera una persona seria, pero a su vez muy amable y solidaria, Tiene un perro el cual considera como un miembro de su familia, lo que mas le preocupa es que no siempre puede darle el tiempo que ella quisiera, debido a su trabajo o a diversos temas pasearlo se le complica muchas veces, lo cual ella siente que le puede generar estres a su mascota ya que para mucho tiempo en su casa y aunque aveces su mascota le da algunas problemas como que muerda o rompa su zapatilla o ropa, ella trata de darle toda la atencion que puede y le gustaria que esta tarea fuera un poco mas sencilla.**
+
+
+
 **Segmento objetivo #2: Amantes de Perros (Veterinarios y Cuidadores)**
 
 **Entrevista 1:**
