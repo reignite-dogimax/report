@@ -640,9 +640,29 @@ feature:Ramas temporales creadas a partir de develop, destinadas a implementar n
 
 Develop: Es la rama principal de desarrollo en la que se integran y validan nuevas funcionalidades antes de ser llevadas a producción.
 
-
     
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Para garantizar la coherencia, la claridad y la calidad del código en el desarrollo tanto de la landing page como de la aplicación web, implementamos un conjunto de convenciones específicas para cada tecnología empleada.
+
+- HTML:
+
+  * Tipo de Documento: Cada archivo HTML inicia con <!DOCTYPE html> para garantizar que los navegadores lo interpreten correctamente.
+  * Uso del elemento <title>: El título de la página no se omite, ya que es importante para la accesibilidad.
+  * Formato de las etiquetas y atributos: Las etiquetas y atributos van en minuscula
+  * Verificacion de etiquetas: Se realiza una verificacion final de que todas las etiquetas esten cerradas correctamente para evitar errores
+  * Valores de atributos: Deben ir entre comillas dobles
+  * Adaptacion de imagenes: Usamos diferentes atributos como widht,alt,height para que las imagenes se adapte al tamaño correcto y sean accesibles
+
+- CSS :
+
+  * Recursos externos: Por seguridad los recursos externos son cargados por https
+  * Atributos : Los atributos deben ir en comillas simples
+  * Reglas de puntuaciones y espacio: Las lineas terminan en punto y coma, ademas se debe dejar un especio al poner dos puntos y dentro de las llaves de los bloques
+  * Orden de las propiedades: En CSS para un mejor organizacion las propiedades van en orden alfabetico
+  * Abreviacion de propiedades: Por optimizacion se abrevian las propiedades, para tener un mejor codigo
+  * Minuscula en los estilos: Para tener un estilo uniforme se usa minuscula en propiedades,valores y selectores.
+
     
 ### 5.1.4. Software Deployment Configuration.
     
