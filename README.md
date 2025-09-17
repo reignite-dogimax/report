@@ -572,3 +572,97 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
+# Capítulo V: Product Implementation, Validation & Deployment
+    
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration.
+
+En este punto detallaremos todas las herramientas de software usadas para el desarrollo de nuestro proyecto:
+
+Gestión del proyecto:
+
+- **WhatsApp**: [LINK WhatsApp](https://www.whatsapp.com)   
+  Usamos whatsapp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades.
+
+- **Discord**: [LINK Discord](https://discord.com/)  
+  Usamos discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revizamos el flujo de trabajo de cada miembro.
+
+Diseño UX/UI del Producto:
+
+- **Figma**: [LINK Figma](https://www.figma.com/es-es/)                                                                     
+   Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows.
+
+- **UXPressia**: [LINK UXPressia](https://uxpressia.com/)                                                                     
+   Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping.
+
+Software Development:
+
+- **Visual Studio Code**: [Mas informacion sobre Studio Code](https://code.visualstudio.com/)                                                                      
+   Es un entorno de desarrollo integral que facilita la creación de aplicaciones web utilizando HTML5 para la estructura, CSS para el diseño y JavaScript para la lógica de programación
+
+- **CSS**: [Mas informacion sobre CSS](https://developer.mozilla.org/es/docs/Web/CSS)                                                                      
+  Es un lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías.
+
+- **JavaScript**: [Mas informacion sobre JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)                                                                      
+  Se trata de un lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, y que además es compatible con frameworks y librerías como React, Angular o Vue.
+  
+- **HTML**: [Mas informacion sobre HTML](https://developer.mozilla.org/es/docs/Web/HTML)                                                                      
+  Es un lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos.
+
+
+Despliegue del software:
+
+- **GIT**: [LINK Git](https://git-scm.com/)                                                                      
+Es un sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de  software.
+
+Documentacion del proyecto:
+
+- **GitHub**: [LINK GitHub](https://github.com/)                                                                      
+  Es una plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo.
+
+    
+### 5.1.2. Source Code Management.
+
+Para administrar y organizar las modificaciones del proyecto, se estableció un repositorio en GitHub que funcionó como núcleo central del desarrollo.
+
+Organizaciones:
+
+* Repositorio de GitHub: [LINK Repositorio](https://github.com/reignite-dogimax)
+  
+* Landing Page: [LINK Landing Page](https://github.com/reignite-dogimax/landing)
+
+Ramas principales:
+
+Main : Aloja la versión estable del proyecto, preparada para su despliegue en producción.
+
+feature:Ramas temporales creadas a partir de develop, destinadas a implementar nueva informacion al documento.
+
+Develop: Es la rama principal de desarrollo en la que se integran y validan nuevas funcionalidades antes de ser llevadas a producción.
+
+
+    
+### 5.1.3. Source Code Style Guide & Conventions.
+    
+### 5.1.4. Software Deployment Configuration.
+    
+## 5.2. Landing Page, Services & Applications Implementation.
+    
+## 5.2.1. Sprint 1
+    
+### 5.2.1.1. Sprint Planning 1.
+    
+### 5.2.1.2. Aspect Leaders and Collaborators.
+    
+### 5.2.1.3. Sprint Backlog 1.
+    
+### 5.2.1.4. Development Evidence for Sprint Review.
+    
+### 5.2.1.5. Execution Evidence for Sprint Review.
+    
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+    
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+    
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
