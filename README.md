@@ -583,6 +583,12 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 ### 2.3.1. User Personas.
 Las User Personas representaron a los usuarios clave del sistema: Eduardo, un dueño de perro joven y estudiante universitario que enfrenta dificultades para organizar el cuidado de sus tres perros debido a su apretada rutina, y Fabricio, un veterinario de 25 años que necesita una herramienta digital que centralice toda la información médica de los perros para mejorar la calidad de la atención. Cada persona tiene sus responsabilidades, frustraciones, motivaciones y metas, lo que proporciona una guía para la creación de la solución.
+Veterinario:
+<img src="images/Fabricio_Chong.png" alt="Fabricio_Chong.png" width="400" />
+
+Cuidador de Perros:
+<img src="images/Eduardo_Torres.png" alt="Eduardo_Torres.png" width="400" />
+
 ### 2.3.2. User Task Matrix.
 La User Task Matrix mapea las tareas clave que los usuarios realizan al interactuar con la plataforma. Se identifican tareas como la gestión de citas médicas, el seguimiento de la salud de los perros y la consulta de recomendaciones personalizadas. Estas tareas se analizan para determinar cómo los usuarios interactúan con la plataforma, la frecuencia con que realizan cada tarea y los beneficios que obtienen de ella.
 <table border="1">
@@ -641,13 +647,34 @@ La User Task Matrix mapea las tareas clave que los usuarios realizan al interact
 
 El User Journey Mapping describe cómo los usuarios, Eduardo y Fabricio, interactúan con la plataforma en cada fase de su recorrido. Desde el descubrimiento de la plataforma hasta la integración de sus actividades diarias, se detallan los pasos que los usuarios dan, los problemas que enfrentan y las oportunidades que la solución podría ofrecerles para mejorar su experiencia. Se identifican los momentos clave y cómo la plataforma puede hacer más eficientes estas interacciones.
 
+Veterinario:
+<img src="images/Journey _Fabricio.png" alt="Journey _Fabricio.png" width="400" />
+
+Cuidador de Perros:
+<img src="images/Journey_Eduardo.png" alt="Journey_Eduardo.png" width="400" />
+
 ### 2.3.4. Empathy Mapping.
 
 En el Empathy Mapping, se busca entender profundamente las emociones, pensamientos y comportamientos de los usuarios. A través de las respuestas de Eduardo y Fabricio, se exploran lo que piensan, lo que dicen, lo que hacen, lo que ven, lo que oyen y cómo se sienten. Esto ayuda a comprender las barreras emocionales y cognitivas que los usuarios enfrentan en su día a día y cómo la solución puede aliviar esas tensiones y mejorar su experiencia.
+Veterinario:
+
+<img src="images/Fabricio.png" alt="Fabricio.png" width="400" />
+
+
+Cuidador de Perros:
+<img src="images/Eduardo.png" alt="Eduardo.png" width="400" />
+
 
  ###  2.3.5. As-is Scenario Mapping.
 
 El As-is Scenario Mapping describe cómo los usuarios gestionan actualmente el cuidado de sus perros sin la solución propuesta. En este escenario, Eduardo y Fabricio emplean métodos dispersos y poco organizados, como calendarios, notas y recordatorios en diferentes dispositivos, lo que resulta en desorganización y olvidos. Este escenario identifica las ineficiencias actuales, proporcionando un punto de partida para la mejora.
+
+Veterinario:
+<img src="images/AS_IS_VETERINARIOS.png" alt="AS_IS_VETERINARIOS.png" width="400" />
+
+
+Cuidador de Perros:
+<img src="images/AS_IS_Dueños_de_Perros.png" alt="AS_IS_Dueños_de_Perros.png" width="400" />
 
 ###  2.4. Ubiquitous Language.
 
@@ -690,6 +717,12 @@ El Ubiquitous Language establece los términos clave usados a lo largo del desar
 ###  3.1. To-Be Scenario Mapping.
 
 En el To-Be Scenario Mapping, se describe la situación ideal después de la implementación de la plataforma. Para los dueños de perros y veterinarios, la plataforma centraliza todas las actividades relacionadas con el cuidado de los perros, proporcionando recordatorios automáticos y recomendaciones personalizadas. Esto mejora la organización, reduce el estrés de los dueños y optimiza la eficiencia del proceso de atención médica, ofreciendo una experiencia mucho más fluida y organizada.
+
+Veterinario:
+<img src="images/TO_BE_VETERINARIOS.png" alt="TO_BE_VETERINARIOS.png" width="400" />
+
+Cuidador de Perros:
+<img src="images/TO_BE_DUEÑO_DE_PERROS.png" alt="TO_BE_DUEÑO_DE_PERROS.png" width="400" />
 
 ###  3.2. User Stories.
 
@@ -1380,6 +1413,12 @@ Las User Stories definen las funcionalidades del sistema desde la perspectiva de
 ###  3.3. Impact Mapping.
 
 El Impact Mapping conecta las funcionalidades del sistema con los resultados que se desean lograr. Se examinan cómo las funcionalidades de recordatorios automáticos y recomendaciones personalizadas pueden impactar positivamente en el bienestar de los perros, en el crecimiento de la base de usuarios y en la satisfacción de los veterinarios. Esta estrategia de mapeo asegura que las acciones del sistema estén alineadas con los objetivos comerciales y de impacto social.
+
+Veterinario:
+<img src="images/Fabricio_Chong _impact_map.png" alt="Fabricio_Chong _impact_map.png" width="400" />
+
+Cuidador de Perros:
+<img src="images/IMPACT_Dueño_de_Perro.png" alt="IMPACT_Dueño_de_Perro.png" width="400" />
 
 ### 3.4. Product Backlog.
 
