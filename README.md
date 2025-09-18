@@ -1766,6 +1766,57 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 <img src="images/Landing5.png" alt="Landing5.png" />
 
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+<img src="images/wireframe1.png" alt="wireframe1.png" />
+
+<img src="images/wireframe2.png" alt="wireframe2.png" />
+
+<img src="images/wireframe3.png" alt="wireframe3.png" />
+
+<img src="images/wireframe4.png" alt="wireframe4.png" />
+
+<img src="images/wireframe45.png" alt="wireframe45.png" />
+
+<img src="images/wireframe5.png" alt="wireframe5.png" />
+
+<img src="images/wireframe6.png" alt="wireframe6.png" />
+
+<img src="images/wireframe7.png" alt="wireframe7.png" />
+
+<img src="images/wireframe8.png" alt="wireframe8.png" />
+
+<img src="images/wireframe9.png" alt="wireframe9.png" />
+
+<img src="images/wireframe10.png" alt="wireframe10.png" />
+
+<img src="images/wireframe11.png" alt="wireframe11.png" />
+
+
+### 4.4.2. Web Applications Wireflow Diagrams
+<img src="images/wireflow.png" alt="wireflow.png" />
+
+
+### 4.4.3. Web Applications Mock-ups
+
+<img src="images/login.png" alt="login.png" />
+<img src="images/mockup.png" alt="mockup.png" />
+<img src="images/mockup2.png" alt="mockup2.png" />
+<img src="images/mockup3.png" alt="mockup3.png" />
+<img src="images/mockup4.png" alt="mockup4.png" />
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+
+<img src="images/userflow.png" alt="userflow.png" />
+
+### 4.5. Web Applications Prototyping
+
+<img src="images/login.png" alt="login.png" />
+
+<img src="images/mockup.png" alt="mockup.png" />
 
 ### 4.6 Domain Driven Software Architecture ###
 En esta sección se presenta la arquitectura de software basada en el dominio para DogiMax. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
