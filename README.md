@@ -1701,6 +1701,180 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 <img src="images/Landing5.png" alt="Landing5.png" />
 
 
+### 4.6 Domain Driven Software Architecture ###
+En esta sección se presenta la arquitectura de software basada en el dominio para DogiMax. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
+
+### 4.6.1. Software Architecture Context Diagram ###
+Este diagrama muestra cómo interactúan los usuarios (Dueños de Perros y Veterinarios) con la plataforma DogiMax. Los usuarios usan la aplicación para gestionar y monitorear el cuidado de sus mascotas. Además, DogiMax se conecta con servicios de terceros para funcionalidades especializadas como la entrega de recomendaciones basadas en IA, el envío de notificaciones y la gestión de pagos.
+
+![4.6.1..png](images/4.6.1..png)
 
 
+### 4.6.2. Software Architecture Container Diagrams ###
+Este diagrama ilustra los diferentes contenedores o componentes tecnológicos de DogiMax y cómo interactúan entre sí. Los contenedores representan las diferentes capas y servicios que componen la plataforma, como la interfaz de usuario (Web Application), la lógica de negocio (API Application) y la base de datos.
 
+![4.6.2..png](images/4.6.2..png)
+
+### 4.6.3. Software Architecture Components Diagrams ###
+**Mi Perro Bounded Context** 
+Este diagrama representa los componentes encargados de la gestión de las mascotas. Los usuarios pueden crear perfiles de perros, registrar información de salud y acceder a recomendaciones personalizadas.
+
+![4.6.3..png](images/4.6.3..png)
+
+
+**Citas Bounded Context**
+Este diagrama se centra en la gestión de las citas y la agenda de las mascotas. Aquí se muestran los componentes involucrados en el proceso de agendar, modificar y cancelar citas con los veterinarios.
+
+![4.6.33..png](images/4.6.33..png)
+
+
+**Notificaciones Bounded Context**
+Este diagrama describe los componentes que gestionan las notificaciones, esenciales para mantener a los usuarios informados sobre los próximos eventos y recordatorios importantes.
+
+![4.6.333..png](images/4.6.333..png)
+
+
+### 4.7. Software Object-Oriented Design ###
+En esta sección se presenta el diseño de software orientado a objetos para DogiMax. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
+
+### 4.7.1. Class Diagrams ###
+El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
+
+![Diagrama de clases.png](images/Diagrama%20de%20clases.png)
+
+
+### 4.7.2. Class Dictionary ###
+
+**Clase: Usuario**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único del usuario.	INT
+
+2	nombre	Nombre completo del usuario.	VARCHAR
+
+3	correo	Correo electrónico de contacto.	VARCHAR
+
+**Clase: Mascota**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único de la mascota.	INT
+
+2	usuarioId	Referencia al usuario propietario.	INT
+
+3	nombre	Nombre de la mascota.	VARCHAR
+
+4	raza	Raza de la mascota.	VARCHAR
+
+5	edad	Edad de la mascota.	INT
+
+6	fotoUrl	URL de la foto de la mascota.	TEXT
+
+**Clase: HistorialMedico**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único del evento médico.	INT
+
+2	mascotaId	Referencia a la mascota.	INT
+
+3	fecha	Fecha del evento médico.	DATE
+
+4	tipo	Tipo de evento médico.	VARCHAR
+
+5	descripcion	Detalles del evento médico.	TEXT
+
+**Clase: Recomendacion**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único de la recomendación.	INT
+
+2	mascotaId	Referencia a la mascota.	INT
+
+3	tipo	Categoría de la recomendación.	VARCHAR
+
+4	contenido	Detalles de la recomendación.	TEXT
+
+**Clase: Cita**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único de la cita.	INT
+
+2	mascotaId	Referencia a la mascota.	INT
+
+3	fechaHora	Fecha y hora programada de la cita.	DATETIME
+
+4	veterinarioId	Referencia al veterinario asignado.	INT
+
+5	estado	Estado actual de la cita.	VARCHAR
+
+**Clase: Veterinario**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único del veterinario.	INT
+
+2	nombre	Nombre completo del veterinario.	VARCHAR
+
+3	especialidad	Área de especialización.	VARCHAR
+
+**Clase: Disponibilidad**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único del bloque de disponibilidad.	INT
+
+2	veterinarioId	Referencia al veterinario.	INT
+
+3	fecha	Fecha disponible.	DATE
+
+4	horaInicio	Hora de inicio del bloque.	TIME
+
+5	horaFin	Hora de fin del bloque.	TIME
+
+**Clase: PreferenciasUsuario**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	usuarioId	Referencia al usuario (clave primaria).	INT
+
+2	canalPreferido	Canal preferido de notificación.	VARCHAR
+
+3	horarioPreferido	Horario preferido para recibir notificaciones.	TIME
+
+**Clase: Notificacion**
+
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único de la notificación.	INT
+
+2	usuarioId	Referencia al usuario destinatario.	INT
+
+3	tipo	Tipo de notificación.	VARCHAR
+
+4	mensaje	Contenido del mensaje.	TEXT
+
+5	fechaEnvio	Fecha y hora de envío.	DATETIME
+
+6	canal	Canal de entrega utilizado.	VARCHAR
+
+**Clase: Recordatorio**
+Nº	Nombre de atributo	Descripción	Tipo de dato
+
+1	id	Identificador único del recordatorio.	INT
+
+2	eventoRelacionado	Evento vinculado al recordatorio.	VARCHAR
+
+3	fechaProgramada	Fecha y hora programada para el recordatorio.	DATETIME
+
+
+### 4.8. Database Design ###
+
+Esta sección presenta la estructura lógica del sistema DogiMax desde el punto de vista del almacenamiento y organización de los datos. Se describen las entidades principales del sistema, sus atributos, tipos de datos y las relaciones entre ellas. El modelo de base de datos ha sido diseñado para garantizar integridad, consistencia y eficiencia en el acceso a la información.
+
+### 4.8.1. Database Diagram ###
+
+El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema DogiMax, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes. Este modelo permite garantizar la integridad referencial, la consistencia de los datos y la eficiencia en las operaciones de consulta y actualización.
