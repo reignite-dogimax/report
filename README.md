@@ -1794,6 +1794,7 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 <img src="images/wireframe11.png" alt="wireframe11.png" />
 
+[wireframes en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 <img src="images/wireflow.png" alt="wireflow.png" />
@@ -1806,6 +1807,7 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 <img src="images/mockup2.png" alt="mockup2.png" />
 <img src="images/mockup3.png" alt="mockup3.png" />
 <img src="images/mockup4.png" alt="mockup4.png" />
+[Mockup en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
