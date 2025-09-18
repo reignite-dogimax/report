@@ -601,8 +601,16 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 <img src="assets/evidence-LandingPage4.png" />
     
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-    
+
+Durante el sprint 1, el equipo logró completar satisfactoriamente todas las tareas planificadas, con un enfoque principal en la construcción de la landing page. Durante el desarrollo se identificaron y corrigieron diversos errores en el código, lo que permitió optimizar los resultados obtenidos.
+
+En el contexto del desarrollo web, una página de aterrizaje cumple un rol esencial al convertir visitantes en clientes al guiarlos hacia una acción concreta, como realizar una compra, registrarse o descargar un recurso. A diferencia de un sitio web general, concentra todo su contenido en un solo objetivo, reduciendo distracciones y mejorando la experiencia del usuario.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El entregable desarrollado durante el sprint 1 fue desplegado en un entorno accesible mediante GitHub Pages. La landing page quedó publicada correctamente y se encuentra disponible para su revisión y validación
+
+* URL de despliegue: [Landing_Page](https://reignite-dogimax.github.io/landing/)
     
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
