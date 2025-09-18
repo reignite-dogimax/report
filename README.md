@@ -338,8 +338,8 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]() |
 | Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                              |
 | ______ | ![img]() |
-| Alumno: Joseph Manuel Chavez Viera Código: Carrera:  |                                                              |
-| ______ | ![img]() |
+| Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software  |                                                               |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img]() |
 | Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                              |
 | _____ | ![img]() |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -1607,6 +1607,9 @@ Las Style Guidelines de DogiMax son un conjunto de principios visuales y comunic
 ** Branding: **
 ** Nombre de marca:  ** DogiMax
 Un nombre que fusiona "Dogi" (relacionado con los perros) y "Max" (máximo, lo mejor), reflejando nuestro enfoque en ofrecer el mejor cuidado posible para las mascotas.
+
+<img src="images/Logo.png" alt="Logos.png" />
+
 ** Misión: **
 Brindar a los dueños de perros una plataforma digital que centralice todas las tareas relacionadas con el cuidado de sus mascotas, desde citas médicas hasta recomendaciones personalizadas basadas en IA para mejorar la salud y bienestar de los perros.
 ** Visión: **
@@ -1618,9 +1621,15 @@ Ser la plataforma líder en gestión del cuidado de perros, proporcionando herra
 -	**Color de texto: ** #2C3E50 (Gris oscuro para máxima legibilidad).
 -	** Color de Texto: **
 #2C3E50 para texto primario sobre fondos claros y #FFFFFF sobre fondos oscuros, para garantizar la legibilidad y un contraste adecuado.
+
+<img src="images/Colors.png" alt="Colors.png" />
+
 -	 Color de Botones:
 - Botones primarios: #FF6B1A (Naranja).
 - Botones secundarios: Fondo transparente con borde en #FF6B1A para mantener consistencia con la paleta de colores.
+
+<img src="images/Buttons.png" alt="Buttons.png" />
+  
 ** Tipografía: ** 
 La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se han definido los siguientes estilos:
 
@@ -1631,6 +1640,12 @@ La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se
 - **Texto principal:** Arial Nova Regular – 16px
 - **Texto técnico:** Roboto Mono – 14pxTono de comunicación: 
 Profesional y cercano, con un enfoque técnico pero accesible para todos los dueños de perros, utilizando un lenguaje claro, amigable y entusiasta.
+
+<img src="images/1.png" alt="1.png" />
+
+<img src="images/2.png" alt="2.png" />
+
+
 ####  4.1.2. Web Style Guidelines 
 Las Web Style Guidelines para DogiMax están orientadas a optimizar la experiencia de usuario en la versión web, asegurando que la plataforma sea eficiente y atractiva tanto en escritorio como en dispositivos móviles.
 ** Tarjetas y visualizaciones: **
@@ -1643,7 +1658,7 @@ Las Web Style Guidelines para DogiMax están orientadas a optimizar la experienc
 Las tablas son simples pero funcionales, mostrando información de manera clara y ordenada. Las columnas son fácilmente filtrables y ordenables, y las filas alternan colores para mejorar la legibilidad.
 ** Pantallas emergentes: **
 Las pantallas emergentes tienen un fondo oscuro opaco y texto claro. Los botones de acción son grandes, fáciles de identificar y se destacan con un color naranja para indicar acción.
-________________________________________
+
 ##  4.2. Information Architecture  
 La arquitectura de información de DogiMax está diseñada para facilitar el acceso rápido y fácil a todas las funcionalidades necesarias para el cuidado de los perros, organizando el contenido de manera lógica y estructurada.
 #### 4.2.1. Organization Systems 
