@@ -1599,6 +1599,74 @@ El Product Backlog es una lista priorizada de las tareas y funcionalidades que d
   </tbody>
 </table>
 
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+Las Style Guidelines de DogiMax son un conjunto de principios visuales y comunicacionales diseñados para crear una experiencia de usuario coherente, amigable y funcional. Estas directrices ayudan a transmitir la misión y visión de la marca a través de la interfaz, asegurando que el diseño sea accesible, claro y atractivo para los dueños de perros.
+** Branding: **
+** Nombre de marca:  ** DogiMax
+Un nombre que fusiona "Dogi" (relacionado con los perros) y "Max" (máximo, lo mejor), reflejando nuestro enfoque en ofrecer el mejor cuidado posible para las mascotas.
+** Misión: **
+Brindar a los dueños de perros una plataforma digital que centralice todas las tareas relacionadas con el cuidado de sus mascotas, desde citas médicas hasta recomendaciones personalizadas basadas en IA para mejorar la salud y bienestar de los perros.
+** Visión: **
+Ser la plataforma líder en gestión del cuidado de perros, proporcionando herramientas inteligentes que promuevan prácticas responsables y mejoren la calidad de vida de los perros y sus dueños.
+** Colores: ** 
+-	**Color primario: **  #FF6B1A (Naranja vibrante que refleja energía y vitalidad).
+-	** Color secundario: ** #FFFFFF (Blanco, para equilibrio y limpieza visual).
+-	** Color de fondo: ** #F8F9FA (Tono suave que proporciona un fondo claro y tranquilo).
+-	**Color de texto: ** #2C3E50 (Gris oscuro para máxima legibilidad).
+-	** Color de Texto: **
+#2C3E50 para texto primario sobre fondos claros y #FFFFFF sobre fondos oscuros, para garantizar la legibilidad y un contraste adecuado.
+-	 Color de Botones:
+- Botones primarios: #FF6B1A (Naranja).
+- Botones secundarios: Fondo transparente con borde en #FF6B1A para mantener consistencia con la paleta de colores.
+** Tipografía: ** 
+La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se han definido los siguientes estilos:
+
+- **Heading 01:** Montserrat SemiBold – 52px
+- **Heading 02:** Montserrat Medium – 36px
+- **Heading 03:** Arial Nova Bold – 24px
+- **Heading 04:** Arial Nova Regular – 18px
+- **Texto principal:** Arial Nova Regular – 16px
+- **Texto técnico:** Roboto Mono – 14pxTono de comunicación: 
+Profesional y cercano, con un enfoque técnico pero accesible para todos los dueños de perros, utilizando un lenguaje claro, amigable y entusiasta.
+####  4.1.2. Web Style Guidelines 
+Las Web Style Guidelines para DogiMax están orientadas a optimizar la experiencia de usuario en la versión web, asegurando que la plataforma sea eficiente y atractiva tanto en escritorio como en dispositivos móviles.
+** Tarjetas y visualizaciones: **
+•	Las tarjetas tienen un diseño minimalista y moderno, con imágenes e íconos representativos del proceso de cuidado de la mascota (por ejemplo, íconos de salud, citas, actividad física, etc.).
+•	Las visualizaciones, como gráficos sobre la actividad de los perros, están optimizadas para ser claras y fáciles de leer.
+** Botones:  **
+•	Botones primarios: Utilizan el color #FF6B1A para destacar acciones importantes.
+•	Botones secundarios: Transparentes con bordes naranjas, para opciones menos destacadas pero igualmente importantes.
+** Tablas: **
+Las tablas son simples pero funcionales, mostrando información de manera clara y ordenada. Las columnas son fácilmente filtrables y ordenables, y las filas alternan colores para mejorar la legibilidad.
+** Pantallas emergentes: **
+Las pantallas emergentes tienen un fondo oscuro opaco y texto claro. Los botones de acción son grandes, fáciles de identificar y se destacan con un color naranja para indicar acción.
+________________________________________
+##  4.2. Information Architecture  
+La arquitectura de información de DogiMax está diseñada para facilitar el acceso rápido y fácil a todas las funcionalidades necesarias para el cuidado de los perros, organizando el contenido de manera lógica y estructurada.
+#### 4.2.1. Organization Systems 
+ #### Organización jerárquica (Visual Hierarchy):  #### 
+En la interfaz de DogiMax, la información más importante, como las citas médicas y las recomendaciones, ocupa una posición destacada en la página de inicio. Los módulos con información adicional, como el perfil del perro o la información de contacto, están disponibles en el menú de navegación.
+#### Organización secuencial (Step-by-step): 
+El registro de nuevas citas, la creación de perfiles para los perros y las recomendaciones de salud se presentan de manera secuencial, guiando al usuario paso a paso para que no se sienta abrumado por la cantidad de opciones.
+#### Categorización del contenido: 
+El contenido está organizado en categorías claras: Citas, Salud, Ejercicio, y Recomendaciones. Cada categoría agrupa información relevante y permite a los usuarios encontrar lo que buscan rápidamente.
+4.2.2. Labeling Systems
+El sistema de etiquetado en DogiMax asegura que cada sección y funcionalidad esté claramente identificada, utilizando etiquetas precisas y simples.
+Etiquetas breves en menús:
+Las opciones del menú se etiquetan de forma clara y concisa: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil.
+Tarjetas y gráficos etiquetados con íconos + texto:
+Cada tarjeta de información, ya sea de citas o recomendaciones, tiene un ícono representativo (como un estetoscopio para salud o una pelota para ejercicio) acompañado de un texto que describe la información contenida.
+
+### 4.3. Landing Page UI Design ###
+### 4.3.1. Landing Page Wireframe ###
+El wireframe de la página de aterrizaje está diseñado para ser simple y directo. En la parte superior se encuentra la barra de navegación con enlaces a las secciones principales: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil. En el centro, se destacan los botones de llamada a la acción (CTA), como Registrarse o Iniciar sesión. La página incluye secciones claras que detallan los beneficios de DogiMax para los dueños de perros.
+### 4.3.2. Landing Page Mock-up ###
+El mock-up refleja la implementación completa de los elementos de diseño. La paleta de colores se aplica a lo largo de la página, con el color #FF6B1A en los botones y títulos. Los encabezados son grandes y prominentes, utilizando Poppins para transmitir un tono moderno y accesible. Las visualizaciones y gráficos de la página están alineados con la estética de la marca y presentan información de manera clara y atractiva.
+
+
 
 
 
