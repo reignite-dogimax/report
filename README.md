@@ -1678,13 +1678,27 @@ Cada tarjeta de información, ya sea de citas o recomendaciones, tiene un ícono
 ### 4.3. Landing Page UI Design ###
 ### 4.3.1. Landing Page Wireframe ###
 El wireframe de la página de aterrizaje está diseñado para ser simple y directo. En la parte superior se encuentra la barra de navegación con enlaces a las secciones principales: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil. En el centro, se destacan los botones de llamada a la acción (CTA), como Registrarse o Iniciar sesión. La página incluye secciones claras que detallan los beneficios de DogiMax para los dueños de perros.
+
+<img src="images/Parte1.png" alt="Parte1.png" />
+
+<img src="images/Parte2.png" alt="Parte2.png" />
+
+<img src="images/Parte3.png" alt="Parte3.png" />
+
+
 ### 4.3.2. Landing Page Mock-up ###
 El mock-up refleja la implementación completa de los elementos de diseño. La paleta de colores se aplica a lo largo de la página, con el color #FF6B1A en los botones y títulos. Los encabezados son grandes y prominentes, utilizando Poppins para transmitir un tono moderno y accesible. Las visualizaciones y gráficos de la página están alineados con la estética de la marca y presentan información de manera clara y atractiva.
 
 
+<img src="images/Landing1.png" alt="Landing1.png" />
 
+<img src="images/Landing2.png" alt="Landing2.png" />
 
+<img src="images/Landing3.png" alt="Landing3.png" />
 
+<img src="images/Landing4.png" alt="Landing4.png" />
+
+<img src="images/Landing5.png" alt="Landing5.png" />
 
 
 
