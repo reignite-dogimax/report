@@ -1675,6 +1675,72 @@ Las opciones del menú se etiquetan de forma clara y concisa: Inicio, Citas, Sal
 Tarjetas y gráficos etiquetados con íconos + texto:
 Cada tarjeta de información, ya sea de citas o recomendaciones, tiene un ícono representativo (como un estetoscopio para salud o una pelota para ejercicio) acompañado de un texto que describe la información contenida.
 
+### 4.2.3. SEO Tags and Meta Tags
+
+**Objetivo:** Optimizar la visibilidad de DogiMax en buscadores y mejorar la indexación de cada página del sitio y la aplicación web.
+
+**Páginas principales y sus SEO Tags:**
+
+| Página           | Title                                   | Meta Description                                                                                                                                 | Keywords                                                       | Author       |
+|------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
+| Landing Page     | DogiMax - Cuida a tu perro de forma fácil | DogiMax es la plataforma digital que permite gestionar el cuidado de tus perros, desde citas médicas hasta recomendaciones personalizadas.       | DogiMax, cuidado de perros, agenda mascotas, veterinaria, salud canina | Equipo DogiMax |
+| Login / Registro | DogiMax - Acceso y Registro             | Inicia sesión o crea tu cuenta en DogiMax para organizar y mejorar la salud y bienestar de tu perro.                                             | DogiMax, login, registro, cuenta, mascota                      | Equipo DogiMax |
+| Dashboard        | DogiMax - Panel de control              | Visualiza las próximas citas, recomendaciones personalizadas y el estado de tu mascota en DogiMax.                                               | DogiMax, dashboard, mascotas, recomendaciones                  | Equipo DogiMax |
+| Perfil de Mascota| DogiMax - Perfil de [Nombre Mascota]    | Revisa y actualiza la información de tu perro, su historial de vacunas y actividad física.                                                       | DogiMax, perfil mascota, vacunas, actividad física              | Equipo DogiMax |
+| Citas            | DogiMax - Citas Médicas                 | Agenda y consulta todas las citas médicas de tus mascotas de forma organizada.                                                                   | DogiMax, citas, veterinaria, agenda                            | Equipo DogiMax |
+
+---
+
+### 4.2.4. Searching Systems
+
+**Objetivo:** Permitir a los usuarios encontrar información rápida y fácilmente dentro de la plataforma, evitando confusión o pérdida de datos.
+
+**Opciones de búsqueda en la Web Application:**
+
+- **Dashboard:**
+  - Barra de búsqueda rápida para filtrar mascotas por nombre o raza.
+  - Filtros por próximas citas o alertas de salud.
+
+- **Citas:**
+  - Buscar citas por fecha, nombre de mascota o tipo de atención (vacuna, control general).
+  - Resultados listados en tarjetas con información clara: fecha, hora, veterinaria, mascota.
+
+- **Perfil de Mascota:**
+  - Búsqueda por historial de vacunas, actividad física o registros de alimentación.
+  - Filtros por categoría (vacunas, alimentación, actividad).
+
+**Visualización de resultados:**
+- Tarjetas blancas con borde naranja `#FF6B1A`, texto gris oscuro `#2C3E50`.
+- Resumen en primer vistazo, opción de expandir para más detalle.
+
+---
+
+### 4.2.5. Navigation Systems
+
+**Objetivo:** Guiar a los usuarios por la plataforma de forma intuitiva, permitiendo cumplir sus metas sin perderse en la navegación.
+
+**Estructura y acciones de navegación:**
+
+- **Navbar principal:**
+  - Ítems: Inicio, Mi Mascota, Citas, Notificaciones, Perfil.
+  - Visible en todas las páginas de la Web Application.
+  - Color: naranja `#FF6B1A` fondo, texto blanco `#FFFFFF`.
+
+- **Sidebar o menú contextual:**
+  - Acceso rápido a secciones secundarias de cada página, como historial de mascotas o recomendaciones personalizadas.
+
+- **Botones de acción:**
+  - Botones primarios: acciones importantes (guardar, agregar, confirmar), color naranja `#FF6B1A`.
+  - Botones secundarios: acciones secundarias (cancelar, volver), fondo blanco, borde naranja.
+
+- **Breadcrumbs (migas de pan):**
+  - Mostrar la ruta actual dentro de la aplicación (Ej.: Dashboard > Citas > Detalle de cita).
+
+- **Rutas típicas del usuario:**
+  - Desde Login → Dashboard → Perfil de Mascota → Citas → Notificaciones.
+  - Permite un flujo natural y consistente con los objetivos de cada User Persona.
+
+
 ### 4.3. Landing Page UI Design ###
 ### 4.3.1. Landing Page Wireframe ###
 El wireframe de la página de aterrizaje está diseñado para ser simple y directo. En la parte superior se encuentra la barra de navegación con enlaces a las secciones principales: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil. En el centro, se destacan los botones de llamada a la acción (CTA), como Registrarse o Iniciar sesión. La página incluye secciones claras que detallan los beneficios de DogiMax para los dueños de perros.
