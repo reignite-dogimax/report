@@ -665,6 +665,28 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
 
     
 ### 5.1.4. Software Deployment Configuration.
+
+* Ilustracion Github Software Deployment Configuration 1
+
+<img src="assets/Software_Deployment_Configuration_1.png" />
+
+* Ilustracion Github Software Deployment Configuration 2
+
+<img src="assets/Software_Deployment_Configuration_2.png" />
+
+
+* Ilustracion Github Software Deployment Configuration 3
+
+<img src="assets/Software_Deployment_Configuration_3.png" />
+
+
+* Ilustracion Github Software Deployment Configuration 4
+
+<img src="assets/Software_Deployment_Configuration_4.png" />
+
+* Ilustracion Github Software Deployment Configuration 5
+
+<img src="assets/Software_Deployment_Configuration_5.png" />
     
 ## 5.2. Landing Page, Services & Applications Implementation.
     
