@@ -1740,7 +1740,7 @@ En esta sección se presenta el diseño de software orientado a objetos para Dog
 ### 4.7.1. Class Diagrams ###
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![Diagrama de clases.png](images/Diagrama%20de%20clases.png)
+![Diagrama D.jpg](images/Diagrama%20D.jpg)
 
 
 ### 4.7.2. Class Dictionary ###
@@ -1878,3 +1878,5 @@ Esta sección presenta la estructura lógica del sistema DogiMax desde el punto 
 ### 4.8.1. Database Diagram ###
 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema DogiMax, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes. Este modelo permite garantizar la integridad referencial, la consistencia de los datos y la eficiencia en las operaciones de consulta y actualización.
+
+![Diagrama de clases.png](images/Diagrama%20de%20clases.png)
