@@ -570,5 +570,34 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 **Resumen: Fabrizio Chong, un joven y apasionado médico veterinario en Lima, se enfrenta diariamente al desafío de diagnosticar a sus pacientes basándose en la observación y en la información, a menudo imprecisa, que proporcionan los dueños. Actualmente, utiliza principalmente Instagram para la comunicación y conexión con su clientela. Destacó que el mayor obstáculo para los dueños de mascotas es la desinformación en línea, lo que sugiere que una herramienta digital que centralice el historial clínico del paciente y ofrezca una fuente de información fiable marcaría una diferencia sustancial en su práctica. Subrayó la importancia de poder obtener datos precisos del estado del animal para acertar en el diagnóstico y evitar complicaciones, como la deshidratación. Concluyó que una solución de este tipo no solo optimizaría la gestión de las consultas, sino que elevaría la calidad de la atención al fortalecer el vínculo informativo entre el veterinario y el cliente. Su testimonio confirma la necesidad de herramientas especializadas que profesionalicen la recopilación de información clínica en el sector veterinario y combatan la desinformación.**
 
 
+## 5.2. Landing Page, Services & Applications Implementation.
+    
+## 5.2.1. Sprint 1
+    
+### 5.2.1.1. Sprint Planning 1.
+    
+### 5.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Aspect Team Coordination and Organization Leader (L) / Collaborator | Aspect Effective Communication Leader (L) / Collaborator (C) | Aspect Problem-Solving and Decision-Making Leader (L) / Collaboration (C) | Aspect Mutual Support and Knowledge Sharing Leader (L) / Collaboration (C) | Aspect Monitoring and Continuous Improvement Leader (L) / Collaboration (C) |
+| :---- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Brayan Roberto Ccarita Cruz |  hallzyx  |  C  |  L |  C |  C |  L |
+| Joseph Manuel Chavez |  u202314019-MrOsoPanda |  C |  C |  C |  L |  C |
+| Martinez Ramos Bryan |  BryanMR1 |  C |  C |  C |  C |  C |
+| Juan Saldaña | jndesouza  |  C |  C |  C |  C |  C |
+| Dueñas Canales Leonardo Manuel |  Insonnio |  L |  C |  C |  C |  C |
+    
+### 5.2.1.3. Sprint Backlog 1.
+    
+### 5.2.1.4. Development Evidence for Sprint Review.
+    
+### 5.2.1.5. Execution Evidence for Sprint Review.
+    
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+    
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+    
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
 
 
