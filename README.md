@@ -550,6 +550,25 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 **Estado civil: Soltero**
 **Resumen: Frank Gen Saldaña es un estudiante de 20 años de Ingeniería y Sistemas en la Universidad de Lima, originario de Tarapoto y con ascendencia japonesa, que actualmente vive solo en Monterrico. Utiliza principalmente su laptop y celular para comunicarse, prefiriendo redes sociales como Instagram, WhatsApp y Facebook. Se describe como una persona amigable, paciente y tranquila, con una actitud abierta a probar cosas nuevas. Para él, su perro es mucho más que una mascota; es un miembro de la familia que le ha enseñado a amar y cuidar, y con quien comparte momentos de juego y paseos diarios. Aunque disfruta de esta relación cercana, reconoce que le resulta difícil organizar el cuidado médico del animal, como las vacunas, debido a su tendencia a olvidarse, por lo que valora la idea de un sistema automatizado que le ayude a recordar estas responsabilidades, las cuales también son compartidas con su madre y hermano.**
 
+**Entrevista 3:**
+
+![Segmento1-Entrevista 3.png](https://github.com/reignite-dogimax/report/blob/dcd05d69b1f56ec0c683449b3984f2eee37a66f4/assets/Segmento1-Entrevista%203.png)
+
+**Nombre: Janet Linda Ramos Gomez**
+
+**Edad: 50 años**
+
+**Ocupación: Docente**
+
+**Vive con su familia en Villa el Salvador**
+
+**Estado civil: Conviviente**
+
+**Se considera una persona seria, responsable y solidaria, con habilidades como la resilencia, la responsabilidad ademas de querer apoyar siempre en los proyectos que se realizan.**
+
+**Resumen: Janet es una docente de 50 años, actualmente vive con sus hijos y su conviviente, usa principalmente su celular para mantenerse conectados y principalmente conectada a facebook, se considera una persona seria, pero a su vez muy amable y solidaria, Tiene un perro el cual considera como un miembro de su familia, lo que mas le preocupa es que no siempre puede darle el tiempo que ella quisiera, debido a su trabajo o a diversos temas pasearlo se le complica muchas veces, lo cual ella siente que le puede generar estres a su mascota ya que para mucho tiempo en su casa y aunque aveces su mascota le da algunas problemas como que muerda o rompa su zapatilla o ropa, ella trata de darle toda la atencion que puede y le gustaria que esta tarea fuera un poco mas sencilla.**
+
+
 **Segmento objetivo #2: Amantes de Perros (Veterinarios y Cuidadores)**
 
 **Entrevista 1:**
@@ -563,6 +582,88 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 **Ocupación: Médico Veterinario.**
 
 **Residencia: La Molina, Lima.**
+
+**Datos Personales: Soltero, vive de forma independiente.**
+
+**Personalidad (Autodescrita): Se define como alegre, solidario y coqueto. Esto sugiere una persona sociable, empática y con confianza en sí misma.**
+
+**Resumen: Fabrizio Chong, un joven y apasionado médico veterinario en Lima, se enfrenta diariamente al desafío de diagnosticar a sus pacientes basándose en la observación y en la información, a menudo imprecisa, que proporcionan los dueños. Actualmente, utiliza principalmente Instagram para la comunicación y conexión con su clientela. Destacó que el mayor obstáculo para los dueños de mascotas es la desinformación en línea, lo que sugiere que una herramienta digital que centralice el historial clínico del paciente y ofrezca una fuente de información fiable marcaría una diferencia sustancial en su práctica. Subrayó la importancia de poder obtener datos precisos del estado del animal para acertar en el diagnóstico y evitar complicaciones, como la deshidratación. Concluyó que una solución de este tipo no solo optimizaría la gestión de las consultas, sino que elevaría la calidad de la atención al fortalecer el vínculo informativo entre el veterinario y el cliente. Su testimonio confirma la necesidad de herramientas especializadas que profesionalicen la recopilación de información clínica en el sector veterinario y combatan la desinformación.**
+
+
+
+
+## 2.2.3 Análisis de entrevistas
+
+### Segmento 1: Amantes de Perros (Usuarios)
+
+**Entrevistas consideradas:** 2 (Eduardo y Frank).
+
+#### Características objetivas:
+- **Edad:** Ambos tienen 20 años (100%). Esto sugiere que el perfil principal en este segmento son jóvenes adultos.  
+- **Estado civil:** Ambos son solteros (100%).  
+- **Distrito de residencia:** Diferentes (Magdalena del Mar y Monterrico), lo que indica variedad geográfica dentro de Lima.  
+- **Ocupación:** Ambos son estudiantes universitarios (100%).  
+- **Dispositivos usados con más frecuencia:** Celular y laptop (100%).  
+- **Canales digitales de interacción:**  
+  - Instagram: 100% (2/2).  
+  - WhatsApp: 50% (1/2).  
+  - Facebook: 50% (1/2).  
+
+#### Características subjetivas:
+- **Personalidad:**  
+  - Introvertido: 50% (1/2).  
+  - Tranquilo: 100% (2/2).  
+  - Divertido/amigable: 100% (2/2).  
+  - Paciente: 50% (1/2).  
+- **Habilidades destacadas:**  
+  - Disciplina y responsabilidad: 50% (1/2).  
+  - Redacción: 50% (1/2).  
+  - Apertura a probar cosas nuevas: 50% (1/2).  
+
+#### Relación con los perros:
+- **Vínculo emocional:** Ambos consideran al perro como miembro de la familia (100%).  
+- **Rutina:** Paseos y juegos diarios (100%).  
+- **Frustraciones comunes:**  
+  - Problemas de higiene/entrenamiento: 50% (1/2).  
+  - Dificultad en recordar cuidados médicos (vacunas, consultas): 50% (1/2).  
+- **Cuidado compartido:** En ambos casos participan familiares (100%), aunque ellos mismos asumen parte del rol principal (paseos).  
+
+#### Conclusión del segmento:
+Este segmento refleja jóvenes universitarios solteros de 20 años, tranquilos, responsables y con alta vinculación emocional hacia sus perros, a quienes consideran familia. Usan principalmente celular y laptop para su vida diaria, con preferencia marcada por Instagram como canal digital. Sus frustraciones se centran en la higiene y el seguimiento de la salud del perro, donde manifiestan interés por soluciones automatizadas que les ayuden a organizar recordatorios y rutinas.
+
+---
+
+### Segmento 2: Amantes de Perros (Veterinarios y Cuidadores)
+
+**Entrevistas consideradas:** 1 (Fabrizio Chong).
+
+#### Características objetivas:
+- **Edad:** 25 años (100%).  
+- **Estado civil:** Soltero (100%).  
+- **Distrito de residencia:** La Molina.  
+- **Ocupación:** Médico Veterinario (100%).  
+- **Dispositivos de preferencia:** Smartphone (para redes sociales).  
+- **Canales digitales:** Principalmente Instagram (100%).  
+
+#### Características subjetivas:
+- **Personalidad:** Alegre, solidario y coqueto (100%). Se percibe como sociable, empático y seguro.  
+- **Habilidades implícitas:** Comunicación con clientes, empatía, resolución de problemas.  
+
+#### Relación con el trabajo:
+- **Flujo de trabajo:** El mayor reto es el diagnóstico con información incompleta o inexacta que dan los dueños.  
+- **Comunicación con clientes:** El problema más recurrente es la desinformación por consultas basadas en internet.  
+- **Relación cliente-proveedor:** Lo más difícil para los dueños es la falta de información confiable sobre el cuidado de su mascota.  
+- **Rol de la tecnología:** Considera que una herramienta digital centralizada de historial clínico sería muy útil para mejorar diagnósticos y evitar complicaciones.  
+
+#### Conclusión del segmento:
+Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera independiente, con un perfil empático y comunicativo, y que usan Instagram como medio de conexión con clientes. Su mayor preocupación está en la desinformación y la falta de datos precisos, lo que evidencia la necesidad de plataformas tecnológicas confiables que organicen información clínica y mejoren la comunicación con los dueños.
+
+---
+
+### Comparación rápida entre segmentos:
+- Ambos segmentos coinciden en el uso de **Instagram** como canal principal.  
+- Los usuarios tienen **dificultades para organizar cuidados** de sus mascotas, mientras que los veterinarios señalan la **falta de información confiable** como su principal obstáculo.  
+- Esto crea un punto de encuentro: una solución tecnológica que apoye tanto a dueños como a veterinarios mediante **recordatorios, historial clínico y educación confiable**.
 
 ## 2.1. Competidores.
 ### 2.1.2 Análisis competitivo.
@@ -2085,13 +2186,7 @@ Nº	Nombre de atributo	Descripción	Tipo de dato
 
 3	fechaProgramada	Fecha y hora programada para el recordatorio.	DATETIME
 
-**Datos Personales: Soltero, vive de forma independiente.**
-
-**Personalidad (Autodescrita): Se define como alegre, solidario y coqueto. Esto sugiere una persona sociable, empática y con confianza en sí misma.**
-
 ### 4.8. Database Design ###
-
-**Resumen: Fabrizio Chong, un joven y apasionado médico veterinario en Lima, se enfrenta diariamente al desafío de diagnosticar a sus pacientes basándose en la observación y en la información, a menudo imprecisa, que proporcionan los dueños. Actualmente, utiliza principalmente Instagram para la comunicación y conexión con su clientela. Destacó que el mayor obstáculo para los dueños de mascotas es la desinformación en línea, lo que sugiere que una herramienta digital que centralice el historial clínico del paciente y ofrezca una fuente de información fiable marcaría una diferencia sustancial en su práctica. Subrayó la importancia de poder obtener datos precisos del estado del animal para acertar en el diagnóstico y evitar complicaciones, como la deshidratación. Concluyó que una solución de este tipo no solo optimizaría la gestión de las consultas, sino que elevaría la calidad de la atención al fortalecer el vínculo informativo entre el veterinario y el cliente. Su testimonio confirma la necesidad de herramientas especializadas que profesionalicen la recopilación de información clínica en el sector veterinario y combatan la desinformación.**
 
 Esta sección presenta la estructura lógica del sistema DogiMax desde el punto de vista del almacenamiento y organización de los datos. Se describen las entidades principales del sistema, sus atributos, tipos de datos y las relaciones entre ellas. El modelo de base de datos ha sido diseñado para garantizar integridad, consistencia y eficiencia en el acceso a la información.
 
