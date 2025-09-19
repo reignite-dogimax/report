@@ -2100,3 +2100,139 @@ Esta sección presenta la estructura lógica del sistema DogiMax desde el punto 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema DogiMax, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes. Este modelo permite garantizar la integridad referencial, la consistencia de los datos y la eficiencia en las operaciones de consulta y actualización.
 
 ![Diagrama de clases.png](images/Diagrama%20de%20clases.png)
+
+# Capítulo V: Product Implementation, Validation & Deployment
+    
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration.
+
+En este punto detallaremos todas las herramientas de software usadas para el desarrollo de nuestro proyecto:
+
+Gestión del proyecto:
+
+- **WhatsApp**: [LINK WhatsApp](https://www.whatsapp.com)   
+  Usamos whatsapp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades.
+
+- **Discord**: [LINK Discord](https://discord.com/)  
+  Usamos discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revizamos el flujo de trabajo de cada miembro.
+
+Diseño UX/UI del Producto:
+
+- **Figma**: [LINK Figma](https://www.figma.com/es-es/)                                                                     
+   Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows.
+
+- **UXPressia**: [LINK UXPressia](https://uxpressia.com/)                                                                     
+   Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping.
+
+Software Development:
+
+- **Visual Studio Code**: [Mas informacion sobre Studio Code](https://code.visualstudio.com/)                                                                      
+   Es un entorno de desarrollo integral que facilita la creación de aplicaciones web utilizando HTML5 para la estructura, CSS para el diseño y JavaScript para la lógica de programación
+
+- **CSS**: [Mas informacion sobre CSS](https://developer.mozilla.org/es/docs/Web/CSS)                                                                      
+  Es un lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías.
+
+- **JavaScript**: [Mas informacion sobre JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)                                                                      
+  Se trata de un lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, y que además es compatible con frameworks y librerías como React, Angular o Vue.
+  
+- **HTML**: [Mas informacion sobre HTML](https://developer.mozilla.org/es/docs/Web/HTML)                                                                      
+  Es un lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos.
+
+
+Despliegue del software:
+
+- **GIT**: [LINK Git](https://git-scm.com/)                                                                      
+Es un sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de  software.
+
+Documentacion del proyecto:
+
+- **GitHub**: [LINK GitHub](https://github.com/)                                                                      
+  Es una plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo.
+
+    
+### 5.1.2. Source Code Management.
+
+Para administrar y organizar las modificaciones del proyecto, se estableció un repositorio en GitHub que funcionó como núcleo central del desarrollo.
+
+Organizaciones:
+
+* Repositorio de GitHub: [LINK Repositorio](https://github.com/reignite-dogimax)
+  
+* Landing Page: [LINK Landing Page](https://github.com/reignite-dogimax/landing)
+
+Ramas principales:
+
+Main : Aloja la versión estable del proyecto, preparada para su despliegue en producción.
+
+feature:Ramas temporales creadas a partir de develop, destinadas a implementar nueva informacion al documento.
+
+Develop: Es la rama principal de desarrollo en la que se integran y validan nuevas funcionalidades antes de ser llevadas a producción.
+
+    
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Para garantizar la coherencia, la claridad y la calidad del código en el desarrollo tanto de la landing page como de la aplicación web, implementamos un conjunto de convenciones específicas para cada tecnología empleada.
+
+- HTML:
+
+  * Tipo de Documento: Cada archivo HTML inicia con <!DOCTYPE html> para garantizar que los navegadores lo interpreten correctamente.
+  * Uso del elemento <title>: El título de la página no se omite, ya que es importante para la accesibilidad.
+  * Formato de las etiquetas y atributos: Las etiquetas y atributos van en minuscula
+  * Verificacion de etiquetas: Se realiza una verificacion final de que todas las etiquetas esten cerradas correctamente para evitar errores
+  * Valores de atributos: Deben ir entre comillas dobles
+  * Adaptacion de imagenes: Usamos diferentes atributos como widht,alt,height para que las imagenes se adapte al tamaño correcto y sean accesibles
+
+- CSS :
+
+  * Recursos externos: Por seguridad los recursos externos son cargados por https
+  * Atributos : Los atributos deben ir en comillas simples
+  * Reglas de puntuaciones y espacio: Las lineas terminan en punto y coma, ademas se debe dejar un especio al poner dos puntos y dentro de las llaves de los bloques
+  * Orden de las propiedades: En CSS para un mejor organizacion las propiedades van en orden alfabetico
+  * Abreviacion de propiedades: Por optimizacion se abrevian las propiedades, para tener un mejor codigo
+  * Minuscula en los estilos: Para tener un estilo uniforme se usa minuscula en propiedades,valores y selectores.
+
+    
+### 5.1.4. Software Deployment Configuration.
+
+* Ilustracion Github Software Deployment Configuration 1
+
+<img src="assets/Software_Deployment_Configuration_1.png" />
+
+* Ilustracion Github Software Deployment Configuration 2
+
+<img src="assets/Software_Deployment_Configuration_2.png" />
+
+
+* Ilustracion Github Software Deployment Configuration 3
+
+<img src="assets/Software_Deployment_Configuration_3.png" />
+
+
+* Ilustracion Github Software Deployment Configuration 4
+
+<img src="assets/Software_Deployment_Configuration_4.png" />
+
+* Ilustracion Github Software Deployment Configuration 5
+
+<img src="assets/Software_Deployment_Configuration_5.png" />
+    
+## 5.2. Landing Page, Services & Applications Implementation.
+    
+## 5.2.1. Sprint 1
+    
+### 5.2.1.1. Sprint Planning 1.
+    
+### 5.2.1.2. Aspect Leaders and Collaborators.
+    
+### 5.2.1.3. Sprint Backlog 1.
+    
+### 5.2.1.4. Development Evidence for Sprint Review.
+    
+### 5.2.1.5. Execution Evidence for Sprint Review.
+    
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+    
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+    
+### 5.2.1.8. Team Collaboration Insights during Sprint.
