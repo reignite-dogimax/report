@@ -575,6 +575,22 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 ## 5.2.1. Sprint 1
     
 ### 5.2.1.1. Sprint Planning 1.
+
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| Sprint Planning Background |  |
+| Date | 9 septiembre \- 18 septiembre del 2025 |
+| Time | 20:00 PM |
+| Location | Remoto |
+| Prepared By | Bryan Martinez |
+| Attendees (to planning meeting) | Joseph Chavez, Brayan Ccarita |
+| Sprint n – 1 Retrospective Summary | No hay trabajo previo para realizar una retrospección |
+| Tech Stack | HTML5,CSS,figma,JavaScript |
+| Sprint Goal & User Stories |  |
+| Sprint Goal | Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona |
+| Sprint 1 Velocity | 22 |
+| Sum of Story Points | 19 |
+
     
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 
@@ -587,6 +603,16 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 | Dueñas Canales Leonardo Manuel |  Insonnio |  L |  C |  C |  C |  C |
     
 ### 5.2.1.3. Sprint Backlog 1.
+
+| ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| US-01 | Como usuario, quiero registrarme en la plataforma para comenzar a usarla | Completado | Brayan Ccarita | 3 | 2.5 |
+| US-02 | Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma | Completado | Joseph Chavez | 3 | 2 |
+| US-03 | Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.. | Completado | Brayan Ccarita | 4 | 5 |
+| US-12 | Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes. | Completado | Joseph Chavez | 2 | 3 |
+| US-13 | Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro. | Completado | Bryan Martinez | 2 | 3 |
+| US-14 | Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta. | Completado | Juan saldaña | 3 | 2 |
+| US-20 | Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte. | Completado | Dueñas Leonardo | 5 | 4 |
     
 ### 5.2.1.4. Development Evidence for Sprint Review.
     
