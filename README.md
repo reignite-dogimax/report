@@ -615,6 +615,19 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 | US-20 | Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte. | Completado | Dueñas Leonardo | 5 | 4 |
     
 ### 5.2.1.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit mensaje | Commit Body | Commit on Date |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | 8141205 | docs: add Services Documentation and Software Deployment section | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | c8e6f2b | feat: add design interview | \- | c8e6f2b |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | bbfb6e6 | docs: add Aspect Leaders and Collaborators section | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-2.2.1 | c8e6f2b | feat: add design interview. | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-2.2.2 | 21cf7e9 | Add interview analysis for dog lovers segment | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-and-three | 1df385e | add competitive analysis | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-and-three | 05dcad3 | Update header for Competitive Analysis Landscape section | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/software/configuration-management | 902bf5a | docs: add Software Deployment Configuration section  | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/software/configuration-management | 48c8220 | docs: add Source Code Style Guide & Conventions secction | \- | 17/09/2025 |
+
     
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
@@ -639,6 +652,8 @@ El entregable desarrollado durante el sprint 1 fue desplegado en un entorno acce
 * URL de despliegue: [Landing_Page](https://reignite-dogimax.github.io/landing/)
     
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
 
 
 
