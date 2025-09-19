@@ -2139,6 +2139,109 @@ Software Development:
 - **HTML**: [Mas informacion sobre HTML](https://developer.mozilla.org/es/docs/Web/HTML)                                                                      
   Es un lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos.
 
+## 5.2. Landing Page, Services & Applications Implementation.
+    
+## 5.2.1. Sprint 1
+    
+### 5.2.1.1. Sprint Planning 1.
+
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| Sprint Planning Background |  |
+| Date | 9 septiembre \- 18 septiembre del 2025 |
+| Time | 20:00 PM |
+| Location | Remoto |
+| Prepared By | Bryan Martinez |
+| Attendees (to planning meeting) | Joseph Chavez, Brayan Ccarita |
+| Sprint n – 1 Retrospective Summary | No hay trabajo previo para realizar una retrospección |
+| Tech Stack | HTML5,CSS,figma,JavaScript |
+| Sprint Goal & User Stories |  |
+| Sprint Goal | Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona |
+| Sprint 1 Velocity | 22 |
+| Sum of Story Points | 19 |
+
+    
+### 5.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Aspect Team Coordination and Organization Leader (L) / Collaborator | Aspect Effective Communication Leader (L) / Collaborator (C) | Aspect Problem-Solving and Decision-Making Leader (L) / Collaboration (C) | Aspect Mutual Support and Knowledge Sharing Leader (L) / Collaboration (C) | Aspect Monitoring and Continuous Improvement Leader (L) / Collaboration (C) |
+| :---- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Brayan Roberto Ccarita Cruz |  hallzyx  |  C  |  L |  C |  C |  L |
+| Joseph Manuel Chavez |  u202314019-MrOsoPanda |  C |  C |  C |  L |  C |
+| Martinez Ramos Bryan |  BryanMR1 |  C |  C |  C |  C |  C |
+| Juan Saldaña | jndesouza  |  C |  C |  C |  C |  C |
+| Dueñas Canales Leonardo Manuel |  Insonnio |  L |  C |  C |  C |  C |
+    
+### 5.2.1.3. Sprint Backlog 1.
+
+| ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| US-01 | Como usuario, quiero registrarme en la plataforma para comenzar a usarla | Completado | Brayan Ccarita | 3 | 2.5 |
+| US-02 | Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma | Completado | Joseph Chavez | 3 | 2 |
+| US-03 | Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.. | Completado | Brayan Ccarita | 4 | 5 |
+| US-12 | Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes. | Completado | Joseph Chavez | 2 | 3 |
+| US-13 | Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro. | Completado | Bryan Martinez | 2 | 3 |
+| US-14 | Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta. | Completado | Juan saldaña | 3 | 2 |
+| US-20 | Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte. | Completado | Dueñas Leonardo | 5 | 4 |
+    
+### 5.2.1.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit mensaje | Commit Body | Commit on Date |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | 8141205 | docs: add Services Documentation and Software Deployment section | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | c8e6f2b | feat: add design interview | \- | c8e6f2b |
+| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | bbfb6e6 | docs: add Aspect Leaders and Collaborators section | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-2.2.1 | c8e6f2b | feat: add design interview. | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-2.2.2 | 21cf7e9 | Add interview analysis for dog lovers segment | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-and-three | 1df385e | add competitive analysis | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/chapter-two-and-three | 05dcad3 | Update header for Competitive Analysis Landscape section | \- | 15/09/2025 |
+| reignite-dogimax/report | feature/software/configuration-management | 902bf5a | docs: add Software Deployment Configuration section  | \- | 18/09/2025 |
+| reignite-dogimax/report | feature/software/configuration-management | 48c8220 | docs: add Source Code Style Guide & Conventions secction | \- | 17/09/2025 |
+
+    
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+<img src="assets/evidence-LandingPage1.png" />
+
+<img src="assets/evidence-LandingPage2.png" />
+
+<img src="assets/evidence-LandingPage3.png" />
+
+<img src="assets/evidence-LandingPage4.png" />
+    
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el sprint 1, el equipo logró completar satisfactoriamente todas las tareas planificadas, con un enfoque principal en la construcción de la landing page. Durante el desarrollo se identificaron y corrigieron diversos errores en el código, lo que permitió optimizar los resultados obtenidos.
+
+En el contexto del desarrollo web, una página de aterrizaje cumple un rol esencial al convertir visitantes en clientes al guiarlos hacia una acción concreta, como realizar una compra, registrarse o descargar un recurso. A diferencia de un sitio web general, concentra todo su contenido en un solo objetivo, reduciendo distracciones y mejorando la experiencia del usuario.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El entregable desarrollado durante el sprint 1 fue desplegado en un entorno accesible mediante GitHub Pages. La landing page quedó publicada correctamente y se encuentra disponible para su revisión y validación
+
+* URL de despliegue: [Landing_Page](https://reignite-dogimax.github.io/landing/)
+    
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+El equipo trabajó en la landing page utilizando ramas separadas para desarrollar cada historia de usuario asignada al sprint. Una vez completado el desarrollo, se procedió con las validaciones necesarias antes del despliegue de la aplicación.
+
+Además, en la documentación se refleja el proceso correcto seguido por el grupo.
+
+A continuación se presentan los aportes y evidencias del trabajo grupal de los miembros.
+
+* LandingPage:
+
+<img src="assets/Landing-Contributors.png">
+<img src="assets/Landing-Network.png">
+
+* READ.ME 
+
+<img src="assets/Read-Contributors.png">
+<img src="assets/read-Network.png">
+
+
+
+
+
 
 Despliegue del software:
 
