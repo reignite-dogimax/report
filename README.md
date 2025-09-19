@@ -653,6 +653,23 @@ El entregable desarrollado durante el sprint 1 fue desplegado en un entorno acce
     
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+El equipo trabajó en la landing page utilizando ramas separadas para desarrollar cada historia de usuario asignada al sprint. Una vez completado el desarrollo, se procedió con las validaciones necesarias antes del despliegue de la aplicación.
+
+Además, en la documentación se refleja el proceso correcto seguido por el grupo.
+
+A continuación se presentan los aportes y evidencias del trabajo grupal de los miembros.
+
+* LandingPage:
+
+<img src="assets/Landing-Contributors.png">
+<img src="assets/Landing-Network.png">
+
+* READ.ME 
+
+<img src="assets/Read-Contributors.png">
+<img src="assets/read-Network.png">
+
+
 
 
 
