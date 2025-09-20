@@ -38,7 +38,6 @@ Septiembre 2025
 
 Url de la organización:https://github.com/reignite-dogimax
 
-____________ fue el encargado de crear las, todos los integrantes colaboraron y se deja las evidencias en las imagenes
 
 TB1: Desarrollo de la landing page de dogimax
 
@@ -49,9 +48,6 @@ Se documento los temas de la problematica, los segmentos objetivos, LeanUX, inve
 Tambien la estructura del proyecto, los diagramas de flujos,contenedores y componentes para asi tener una buena base para posteriormente implementarlo.
 
 
-*
-*
-*
 
 
 **Contribuciones por Integrante**
@@ -72,6 +68,11 @@ La contribuccion de cada integrante es la siguiente:
 
 
 **Brayan Roberto Ccarita Cruz**
+- **Diseño de Entrevistas:** Se encargó de la elaboración y estructuración de las preguntas para las entrevistas, definiendo los puntos clave a explorar tanto para el segmento de dueños de perros como para el de veterinarios, asegurando la recolección de información valiosa para el proyecto.
+- **Diseño de la Landing Page (UI/UX):** Lideró el proceso de diseño de la interfaz de usuario y la experiencia de usuario para la landing page.
+- **Codificación de la Landing Page:** Fue responsable de la implementación y codificación completa de la landing page, traduciendo los diseños a código HTML y CSS funcional, y asegurando que la página fuera responsiva y cumpliera con los estándares de calidad del proyecto.
+- **Gestión de Repositorios y Ramas:** Administró la configuración del repositorio en GitHub, incluyendo la estrategia de ramas (main, develop, feature), para facilitar un flujo de trabajo colaborativo y ordenado durante el desarrollo.
+
 
 **Juan David Saldaña De Souza**
 
@@ -333,7 +334,7 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 | Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                              |
 | ---------------------------------------------------- |--------------------------------------------------------------|
-| ______ | ![img]()                                                     |
+| Apacionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](/assets/member_u20221c218.png)                                                     |
 | Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                              |
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]()                                                     |
 | Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                              |
