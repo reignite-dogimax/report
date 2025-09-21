@@ -77,7 +77,37 @@ La contribuccion de cada integrante es la siguiente:
 **Juan David Saldaña De Souza**
 
 **Joseph Manuel Chavez Viera**
+-**Needfinding** Mi enfoque fue entender las necesidades de los usuarios utilizando diversas herramientas de investigación.
 
+-**User Personas** Creé perfiles detallados de usuarios para identificar sus necesidades clave.
+
+-**User Task Matrix** Organicé y clasifiqué las actividades de los usuarios para priorizar las tareas más importantes.
+
+-**User Journey Mapping** Rastreé los pasos del usuario para identificar áreas de mejora en su experiencia.
+
+-**Empathy Mapping** Me puse en los zapatos de los usuarios para comprender sus emociones y pensamientos al usar el producto.
+
+-**As-is Scenario Mapping** Analicé cómo los usuarios interactúan actualmente con el sistema para identificar oportunidades de mejora.
+
+-**Ubiquitous Language** Definí un lenguaje común para evitar malentendidos y facilitar la colaboración en el proyecto.
+
+-**Requirements Specification** Definí los requisitos técnicos y funcionales alineados con las necesidades del usuario.
+
+-**To-Be Scenario Mapping** Planteé cómo debería ser el escenario ideal después de las mejoras.
+
+-**User Stories** Describí los requisitos funcionales desde la perspectiva de los usuarios.
+
+-**Impact Mapping** Conecté los objetivos del proyecto con los resultados esperados.
+
+-**Product Backlog** Prioricé las tareas necesarias para el desarrollo del producto.
+
+-**Product Design** Me aseguré de que el producto cumpliera con los objetivos de los usuarios y los estándares establecidos.
+
+-**Style Guidelines**Definí las pautas visuales para garantizar una experiencia coherente y atractiva.
+
+-**General Style Guidelines** Establecí las directrices visuales generales para la experiencia de usuario.
+
+-**Web Style Guidelines** Definí las pautas específicas para los productos en línea, asegurando una navegación fluida.
 **Dueñas Canales Leonardo Manuel**
 
 
