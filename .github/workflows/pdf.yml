@@ -1,0 +1,20 @@
+name: PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ develop ]
+    paths: [ README.md ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: pandoc/latex:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar PDF
+        run: pandoc README.md -o README.pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: README-PDF
+          path: README.pdf
