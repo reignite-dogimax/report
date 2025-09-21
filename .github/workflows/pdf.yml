@@ -12,6 +12,12 @@ jobs:
     container: pandoc/latex:latest
     steps:
       - uses: actions/checkout@v4
+      - name: Reemplazar rutas de imágenes a absolutas
+        run: |
+          sed -i 's|](/assets/|](https://raw.githubusercontent.com/reignite-dogimax/report/develop/assets/|g' README.md
+          sed -i 's|](assets/|](https://raw.githubusercontent.com/reignite-dogimax/report/develop/assets/|g' README.md
+          sed -i 's|src="images/|src="https://raw.githubusercontent.com/reignite-dogimax/report/develop/images/|g' README.md
+          sed -i 's|](images/|](https://raw.githubusercontent.com/reignite-dogimax/report/develop/images/|g' README.md
       - name: Generar PDF
         run: pandoc README.md -o README.pdf
       - uses: actions/upload-artifact@v4
