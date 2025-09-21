@@ -76,6 +76,16 @@ La contribuccion de cada integrante es la siguiente:
 
 **Juan David Saldaña De Souza**
 
+- **Entrevistas Se realizaron entrevistas a los usuarios y partes interesadas para levantar información relevante del proyecto.**
+- **Análisis Se registró la información obtenida en las entrevistas y se elaboró el análisis para identificar necesidades y requerimientos.**
+- **Diagrama de contexto Se representó la interacción general del sistema con los actores externos.**
+- **Diagrama de contenedores Se diseñó la arquitectura principal mostrando los bloques del sistema y sus relaciones.**
+- **Diagrama de componentes Se detalló la organización interna y la comunicación entre las partes del sistema.**
+- **Diagrama de clases Se modelaron las entidades del dominio con sus atributos, métodos y relaciones.**
+- **Diagrama de base de datos Se definieron las tablas, campos, llaves y relaciones para la gestión de la información.**
+- **Exposición del Capítulo 4 Se presentó el capítulo correspondiente al diseño del sistema, explicando los entregables y resultados obtenidos.**
+
+
 **Joseph Manuel Chavez Viera**
 -**Needfinding** Mi enfoque fue entender las necesidades de los usuarios utilizando diversas herramientas de investigación.
 
@@ -362,16 +372,15 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                              |
-| ---------------------------------------------------- |--------------------------------------------------------------|
-| Apacionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](/assets/member_u20221c218.png)                                                     |
-| Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                              |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]()                                                     |
-| Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                              |
-| ______ | ![img]() |
-| Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software  |                                                               |
+| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                      |
+| ---------------------------------------------- |------------------------------------------------------|
+| Apacionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](/assets/member_u20221c218.png)                                             |
+| Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                      |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]()                                             |
+| Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                      |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Juan_profile.jpeg](assets/Juan_profile.jpeg) |
+| Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software |                                                       |
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img]() |
-
 | Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                              |
 | _____ | ![img]()                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
