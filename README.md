@@ -118,6 +118,8 @@ La contribuccion de cada integrante es la siguiente:
 -**General Style Guidelines** Establecí las directrices visuales generales para la experiencia de usuario.
 
 -**Web Style Guidelines** Definí las pautas específicas para los productos en línea, asegurando una navegación fluida.
+
+
 **Dueñas Canales Leonardo Manuel**
 - **Análisis Competitivo:** Estudio de competidores directos e indirectos, identificando sus fortalezas, debilidades, y oportunidades diferenciadoras para Dogimax.  
 
