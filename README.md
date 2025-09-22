@@ -389,8 +389,8 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Juan_profile.jpeg](assets/Juan_profile.jpeg) |
 | Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software |                                                       |
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img]() |
-| Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |                                                              |
-| _____ | ![img]()                                                     |
+| Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |  <img src="images/image.png" alt="image.png" />                                                            |
+|| ![img]()                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 1.2. Solution Profile
