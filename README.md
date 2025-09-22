@@ -119,6 +119,12 @@ La contribuccion de cada integrante es la siguiente:
 
 -**Web Style Guidelines** Definí las pautas específicas para los productos en línea, asegurando una navegación fluida.
 **Dueñas Canales Leonardo Manuel**
+- **Análisis Competitivo:** Estudio de competidores directos e indirectos, identificando sus fortalezas, debilidades, y oportunidades diferenciadoras para Dogimax.  
+
+- **Estrategia:** Planteamiento de la estrategia competitiva y de posicionamiento de la plataforma en el mercado, alineada con las necesidades detectadas y la propuesta de valor.  
+
+- **Wireframes y Mockups:** Desarrollo completo en Figma de los wireframes iniciales y mockups detallados de cada pantalla, alineados a las user stories y al modelo UML.  
+
 
 
 
