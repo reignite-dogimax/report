@@ -32,7 +32,8 @@ Septiembre 2025
 
 | Versión | Fecha      | Autor                                                        | Descripción de modificación                                  |
 | ------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 0.0.1   | 09/09/2025 | Bryan Martinez                                                | Iniciando el proyecto luego de las divisiones de trabajo, dividimos la primera parte del proyecto que incluyen los primeros 2 puntos del proyecto final, tanto la idea principal del proyecto, nuestras misiones, visiones, nuestros objetivos, plantear los diferentes problemas y como nuestor proyecto lo soluciona, tambien la creacion del segmento objetivo, entender cuales son sus sentimientos y como nuestro proyecto cambia e influye en su vida, realizamos las entrevistas y completamos esta etapa satisfactoriamente para comenzar a realizar la elaboracion de los puntos 3 y 4.
+| 0.0.1   | 09/09/2025 | Bryan Martinez                                               | Iniciando el proyecto luego de las divisiones de trabajo, dividimos la primera parte del proyecto que incluyen los primeros 2 puntos del proyecto final, tanto la idea principal del proyecto, nuestras misiones, visiones, nuestros objetivos, plantear los diferentes problemas y como nuestor proyecto lo soluciona, tambien la creacion del segmento objetivo, entender cuales son sus sentimientos y como nuestro proyecto cambia e influye en su vida, realizamos las entrevistas y completamos esta etapa satisfactoriamente para comenzar a realizar la elaboracion de los puntos 3 y 4.
+| 1.0.0   | 21/09/2025 | Bryan Martinez                                               | Completamos los puntos faltantes en el proyecto, punto 4 y 5, se dividio equitativamente, logramos desplegar la landing page, hicimos una analisis del diseño de la pagina y finalmente recopilamos el aporte de cada miembro y el spint1.
 
 # Project Report Collaboration Insights
 
@@ -362,6 +363,11 @@ La contribuccion de cada integrante es la siguiente:
 
 # Student Outcome
 
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :---- | :---- | :---- |
+|                     Trabaja en equipo para proporcionar liderazgo de manera conjunta.       | TB1: ·        **Brayan Ccarita:** Participé activamente en las reuniones del equipo, desarrollé las tareas que me correspondían de manera satisfactoria y las entregué en los plazos establecidos. ·         **Joseph Chavez:** Asistí a todas las reuniones del grupo, completé de forma oportuna las responsabilidades asignadas y, además, brindé retroalimentación en algunos apartados del trabajo. ·         **Juan Saldaña:** Tomé parte en las reuniones programadas del equipo y cumplí con las actividades que se me asignaron, entregándolas dentro de la fecha prevista. ·         **Bryan Martinez:** Estuve presente en las reuniones del equipo, realicé de manera exitosa las secciones que se me encargaron y las entregué dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Asistí a las reuniones correspondientes, cumplí con las tareas que se me asignaron de manera adecuada y en los plazos determinados.   |                TB1:   Todos los miembros se comprometieron con el desarrollo del trabajo y estuvieron presentes y aportando en todas las reuniones, de forma presencial y remotas, además se tomo liderazgo por parte de algunos, lo q apoyo a organizarnos mejor |
+|                     Fomenta un ambiente inclusivo y de colaboración, define metas claras, organiza las tareas y alcanza los objetivos propuestos. | TB1: ·         **Brayan Ccarita:** Participé en las reuniones del equipo, desarrollé de manera exitosa las tareas que me correspondían y las entregué dentro de los plazos establecidos. ·         **Joseph Chavez:** Estuve presente en todas las sesiones del grupo, apoyé a mis compañeros cuando fue necesario y asumí la responsabilidad de la elaboración del capítulo 1 del proyecto junto con el *student outcome*. ·         **Juan Saldaña:** Asistí y colaboré activamente en cada reunión programada, además de encargarme de la redacción del capítulo 3 del proyecto y del *student outcome*. ·         **Bryan Martinez:** Asistí a las reuniones del equipo, completé con éxito las secciones que me fueron asignadas y realicé las entregas dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Participé de manera activa en las reuniones y trabajé en la elaboración del capítulo 3 del proyecto junto con su respectivo *student outcome*. |                 TB1 :   Cada integrante de nuestro equipo demostró compromiso y fomentó un ambiente de colaboración mediante una comunicación efectiva. Junto con revisiones constantes de cada capítulo del proyecto. Nos reunimos de forma periódica para aportar ideas y trabajar en conjunto en cada etapa del desarrollo del producto y su documentación. Asimismo, definimos metas tempranas con una adecuada planificación de tareas, que fuimos mejorando colectivamente. |
+
 # 1. Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -374,7 +380,7 @@ Con la implementación de inteligencia artificial, DogiMax ofrece recomendacione
 
 En DogiMax, creemos que una gestión organizada y personalizada del cuidado de mascotas no solo mejora la calidad de vida de los perros, sino que también fortalece el vínculo con sus dueños. Nuestra misión es convertirnos en la herramienta esencial para todos los amantes de los perros, promoviendo un cuidado responsable, informado y conectado con la innovación tecnológica.
 
-**Misión** :  En PetLog buscamos facilitar el cuidado de los perros mediante una agenda digital que centraliza citas médicas, actividades y notas importantes. Integramos inteligencia artificial para ofrecer recomendaciones personalizadas según la raza y necesidades de cada perro, ayudando a los dueños a tomar decisiones informadas y promover hábitos responsables de cuidado. Además, colaboramos con veterinarias y marcas de productos para ofrecer soluciones confiables y de valor a nuestras mascotas y sus familias.
+**Misión** :  En DogiMax buscamos facilitar el cuidado de los perros mediante una agenda digital que centraliza citas médicas, actividades y notas importantes. Integramos inteligencia artificial para ofrecer recomendaciones personalizadas según la raza y necesidades de cada perro, ayudando a los dueños a tomar decisiones informadas y promover hábitos responsables de cuidado. Además, colaboramos con veterinarias y marcas de productos para ofrecer soluciones confiables y de valor a nuestras mascotas y sus familias.
 
 **Visión** :  Nuestra visión es ser la plataforma líder en gestión del cuidado de perros, conocida por su innovación y enfoque personalizado. Aspiramos a crear una comunidad de dueños, veterinarias y marcas comprometidas con el bienestar animal, promoviendo prácticas responsables y mejorando la calidad de vida de los perros a nivel global.
 
@@ -384,14 +390,12 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 | ---------------------------------------------- |------------------------------------------------------|
 | Apacionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](/assets/member_u20221c218.png)                                             |
 | Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                      |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img]()                                             |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](images/Bryan.png)                                             |
 | Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                      |
 | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Juan_profile.jpeg](assets/Juan_profile.jpeg) |
 | Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software |                                                       |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img]() |
+| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img](images/Joseph.jpeg) |
 | Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |  <img src="images/image.png" alt="image.png" />                                                            |
-|| ![img]()                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 1.2. Solution Profile
 
@@ -460,7 +464,7 @@ Además, la industria de productos y servicios para mascotas está fragmentada, 
 
 1.  **Generación de ingresos**:Esperamos generar ingresos mediante suscripciones premium, comisiones por recomendaciones de productos y colaboraciones con marcas y veterinarias.
 2. **Crecimiento de la base de usuarios**:Esperamos atraer y retener a un número creciente de dueños de perros y aliados estratégicos a medida que la plataforma se consolide como la principal herramienta de gestión de mascotas.
-3. **Construcción de marca**:Esperamos posicionar a PetLog como una plataforma confiable y reconocida por su utilidad, innovación y enfoque personalizado en el cuidado de perros.
+3. **Construcción de marca**:Esperamos posicionar a DogiMax como una plataforma confiable y reconocida por su utilidad, innovación y enfoque personalizado en el cuidado de perros.
 
 **User Benefits**
 
@@ -487,7 +491,7 @@ La falta de herramientas digitales integrales para organizar y gestionar el cuid
 Los dueños de perros necesitan organizar el cuidado de sus mascotas,Veterinarias y cuidadores que buscan comunicarse y ofrecer recomendaciones confiables,Marcas de productos para mascotas que quieren llegar a un público objetivo de manera efectiva.
 
 3. **Hypotheses**:
-Creemos que al proporcionar una plataforma donde los dueños puedan registrar citas, actividades y recibir recomendaciones personalizadas, podremos mejorar la organización del cuidado de los perros, aumentar la confianza de los usuarios y diferenciar a PetLog en el mercado de aplicaciones para mascotas
+Creemos que al proporcionar una plataforma donde los dueños puedan registrar citas, actividades y recibir recomendaciones personalizadas, podremos mejorar la organización del cuidado de los perros, aumentar la confianza de los usuarios y diferenciar a DogiMax en el mercado de aplicaciones para mascotas
 
 4. **Solution Ideas**:
 
@@ -2457,4 +2461,3 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 <img src="assets/Read-Contributors.png">
 <img src="assets/read-Network.png">
-    
