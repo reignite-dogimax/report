@@ -2111,7 +2111,7 @@ En esta sección se presenta el diseño de software orientado a objetos para Dog
 ### 4.7.1. Class Diagrams ###
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![Diagrama D.jpg](images/Diagrama%20D.jpg)
+![Diagrama de clase.png](assets/Diagrama%20de%20clase.png)
 
 
 ### 4.7.2. Class Dictionary ###
