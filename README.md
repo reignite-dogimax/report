@@ -2552,8 +2552,8 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 * Frontend
 
-![evidence-deploy 1.png](assets/evidence-deploy%201.png)
+![evidence-teamcollab.png](assets/evidence-teamcollab.png)
 
-![evidence-deploy 2.png](assets/evidence-deploy%202.png)
+![evidence-teamcollab 1.png](assets/evidence-teamcollab%201.png)
 
 
