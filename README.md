@@ -2464,3 +2464,96 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 <img src="assets/Read-Contributors.png">
 <img src="assets/read-Network.png">
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+|             Sprint \#              | Sprint 2 |
+|:----------------------------------:| :---: |
+|     Sprint Planning Background     |  |
+|                Date                | 2025-09-22 |
+|                Time                | 08:00 PM |
+|              Location              | Remoto |
+|            Prepared By             | Joseph Manuel Chavez Viera |
+|  Attendees (to planning meeting)   | Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel |
+| Sprint n – 1 Retrospective Summary | No hay trabajo previo para realizar una retrospección |
+|             Tech Stack             | HTML5,CSS,figma,JavaScript |
+|     Sprint Goal & User Stories     |  |
+|            Sprint Goal             | Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona |
+|     Sprint Goal & User Stories     ||
+|           Sprint 2 Goal            |Nuestro enfoque es entregar la primera versión funcional de la aplicación web de DogiMax. El objetivo es implementar las funcionalidades básicas de gestión de mascotas y citas, permitiendo a los usuarios registrar a sus perros, agendar citas médicas y consultar el historial de salud. Creemos que esto proporcionará un Producto Mínimo Viable (MVP) que entregue valor real a nuestros usuarios iniciales. Esto se confirmará cuando los usuarios puedan crear, ver y gestionar perfiles de mascotas y citas médicas en la aplicación desplegada.|
+|         Sprint 2 Velocity          | 20 |
+|        Sum of Story Points         | 19 |
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Appointment and Activity Management (Frontend) Leader (L) / Collaborator (C) | Health and Recommendation Module (Frontend) Leader (L) / Collaborator (C) | API Backend Development Leader (L) / Collaborator (C) | Web Application Deployment Leader (L) / Collaborator (C) |
+| :---- | ----- |------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------| 
+| Brayan Roberto Ccarita Cruz |  hallzyx  | C                                                                            | C                                                                         | C                                                     | L                                                        | 
+| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                                                                            | L                                                                         | C                                                     | C                                                        | 
+| Juan Saldaña | jndesouza  | C                                                                            | C                                                                         | L                                                     | C                                                        |  
+| Dueñas Canales Leonardo Manuel |  Insonnio | L                                                                            | C                                                                         | C                                                     | C                                                        | 
+
+### 5.2.2.3. Sprint Backlog 2
+
+| Sprint # | User Story | Work-Item/TaskId | Title Id | Title Description | Estimation (Hours) | Assigned To| Status|
+| :---- | :---- |:-----------------| :---- | :---- | :---- | :---- | :----|
+|Id|Title| Id               |Title|Description|(Hours)|||
+| US-04 | Pet Profile Management | UT-01            | Develop the view (MascotasListView) to display the list of registered pet profiles. | 4 | Dueñas Canales, L. |Done|
+| US-04 | Pet Profile Management | UT-02            | Implement the unified form (MascotaFormComponent) to create and edit pet profiles. | 6 | Dueñas Canales, L. |Done|
+| US-04 | Pet Profile Management | UT-03            | Implement the detail view (MascotaDetailView) to consult a specific pet's information and history. | 5 | Chavez Viera, J. |Done|
+| US-08 | Medical Appointment Scheduling | UT-04            | Develop the view (CitasListView) to consult scheduled appointments and history. | 4 | Chavez Viera, J. |Done|
+| US-08 | Medical Appointment Scheduling | UT-05            | Implement the form (CitaFormComponent) to schedule new medical appointments (date, time, reason). | 5 | Chavez Viera, J. |Done|
+| US-10 | View Main Dashboard | UT-06       | Create the HomeComponent with a summary of pets and upcoming appointments. | 4 | Dueñas Canales, L. |Done|
+| US-07| Notification Reception | UT-07       | Implement the view (NotificacionesListView) to display important alerts (vaccines, appointments). | 3 | Ccarita Cruz, B. |Done|
+|US-07|Notification Reception|   UT-08               |Implement the configuration view (NotificacionesConfigView) to manage user preferences.|2|Ccarita Cruz, B.|Done|
+|US-30|Data Integration (API Mock)|    UT-09              |Document and create the mock endpoints (JSON) for Pet and Appointment operations.|6|Saldaña De Souza, J.|Done|
+|US-31|Fluid System Navigation|     UT-10             |Implement all navigation routes, lazy-loading, and the Navigation Guard.|2|Saldaña De Souza, J.|Done|
+
+### 5.2.2.4. Development Evidence for Sprint Review
+En este segundo Sprint, hemos realizado la implementación de nuestra aplicación web. Todo el trabajo fue gestionado a través de nuestro repositorio en GitHub, utilizando un flujo de trabajo basado en ramas de funcionalidad (feature branches) que luego se integraron a la rama develop mediante Pull Requests. Esto aseguró la revisión y validación del código antes de su integración.
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+En este segundo Sprint realizamos la implementación de la primera versión funcional de nuestra aplicación web.
+
+![evidence-frontend 1.png](assets/evidence-frontend%201.png)
+
+![evidence-frontend 2.png](assets/evidence-frontend%202.png)
+
+![evidence-frontend 3.png](assets/evidence-frontend%203.png)
+
+![evidence-frontend 4.png](assets/evidence-frontend%204.png)
+
+![evidence-frontend 5.png](assets/evidence-frontend%205.png)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+No se emplearon servicios externos adicionales, ya que este segundo Sprint se centró exclusivamente en la implementación del frontend y el backend de la primera versión de la aplicación web utilizando nuestro stack tecnológico principal (HTML, CSS, JavaScript) y las herramientas de desarrollo definidas en la configuración.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+![evidence-deploy 1.png](assets/evidence-deploy%201.png)
+
+![evidence-deploy 2.png](assets/evidence-deploy%202.png)
+
+![evidence-deploy 3.png](assets/evidence-deploy%203.png)
+
+![evidence-deploy 4.png](assets/evidence-deploy%204.png)
+
+![evidence-deploy 5.png](assets/evidence-deploy%205.png)
+
+URL de despliegue: https://dogimax.netlify.app/ 
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarrollo de la aplicación web. Se mantuvo la metodología de trabajo del Sprint 1, utilizando GitHub para la gestión del código fuente, con ramas específicas para cada User Story. La comunicación fluyó constantemente a través de Discord para reuniones de sincronización y WhatsApp para consultas rápidas.
+
+
+* Frontend
+
+![evidence-deploy 1.png](assets/evidence-deploy%201.png)
+
+![evidence-deploy 2.png](assets/evidence-deploy%202.png)
+
+
