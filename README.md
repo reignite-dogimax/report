@@ -2557,3 +2557,81 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 ![evidence-teamcollab 1.png](assets/evidence-teamcollab%201.png)
 
 
+### 5.3. Validation Interviews
+
+En esta fase, el objetivo es validar la primera versión funcional de la aplicación web DogiMax con usuarios reales que coinciden con los perfiles de "Dueño de Perro" y "Veterinario".
+
+### 5.3.1. Diseño de Entrevistas
+
+Preguntas Generales
+
+* Nombre y Apellido:
+* Edad:
+* Distrito de Residencia:
+* Estado Civil:
+* Ocupación:
+* Familia:
+
+Preguntas Clave para la Entrevista de Validación
+
+* ¿Cuál es tu primera impresión general de la aplicación después de haberla usado?
+* ¿Qué fue lo más fácil que hiciste? ¿Y qué fue lo más difícil o confuso?
+* Pensando en la pantalla principal, ¿la información que viste (resumen de mascotas, próximas citas) te parece útil para tu día a día?
+* ¿Qué te pareció el proceso de agendar una cita y revisar tu historial? ¿Es algo que te ayudaría?
+* Siendo totalmente honesto, ¿crees que realmente usarías esta aplicación para organizar el cuidado de tu perro? ¿Por qué sí o por qué no?
+* Si pudieras cambiarle una sola cosa a la aplicación para mejorarla ahora mismo, ¿qué sería?
+
+
+### 5.3.2. Registro de Entrevistas
+
+**Entrevista 1:**
+
+![entrevista 1 de validación.png](images/entrevista%201%20de%20validaci%C3%B3n.png)
+
+**Nombre: Juan Pedro Manosalva Pérez**
+
+**Edad: 20 años**
+
+**Ocupación: Estudiante**
+
+**Vive en Santa Anita**
+
+**Estado civil: Soltero**
+
+**Resumen: Juan Pedro es un estudiante de 20 años que vive con sus padres en Santa Anita. Tiene un perro y, según su experiencia, ha tenido problemas anteriormente para recordar las fechas de vacunas y controles de sus mascotas. En la validación de la aplicación, la describió como "simple, fácil de usar, intuitiva y ordenada". Considera que la función de agendar citas y revisar el historial es muy práctica y le ahorraría tiempo. Afirma que sí usaría la aplicación para controlar mejor el cuidado de su perro y evitar olvidos. Su principal sugerencia de mejora es añadir notificaciones más visuales y llamativas que avisen con anticipación (por ejemplo, un día o una semana antes) las citas o eventos.**
+
+**Entrevista 2:**
+
+![entrevista 2 de validación.png](images/entrevista%202%20de%20validaci%C3%B3n.png)
+
+**Nombre: Fabrizio Chong**
+
+**Edad: 25 años**
+
+**Ocupación: Veterinario (y estudiante de medicina)**
+
+**Vive solo en Pueblo Libre**
+
+**Estado civil: Soltero**
+
+**Se considera una persona divertida, introvertida y tranquila, con habilidades como la disciplina, la responsabilidad y la capacidad para redactar (aunque menciona "reactar", se infiere que quiso decir "redactar").**
+
+**Resumen: Fabrizio es un veterinario de 25 años que reside en Pueblo Libre. Su primera impresión de la aplicación fue "muy buena", destacándola como "muy innovadora" y útil para personas "despistadas". Le pareció una aplicación "muy fácil de sacar" (usar) y no encontró ninguna dificultad; lo más sencillo fue agendar citas. Considera que la información de la pantalla principal (resumen, citas) es "muy útil" para personas con agendas ocupadas que pueden olvidar el cuidado de sus mascotas, como las fechas de vacunación. Mencionó que, al ser una persona "un poco distraída", la función de agendar citas y recibir notificaciones le resultaría muy fácil y útil. A diferencia de otros entrevistados, Fabricio no sugirió ninguna mejora, afirmando que "está todo conforme" y que la aplicación es "muy fácil de usar, muy cómoda y sobre todo muy útil".**
+
+**Entrevista 3:**
+
+![entrevista 3 de validación.png](images/entrevista%203%20de%20validaci%C3%B3n.png)
+
+**Nombre: Keyner Hancco**
+
+**Edad: 20 años**
+
+**Ocupación: Estudiante**
+
+**Vive en Magdalena del Mar**
+
+**Estado civil: Soltero**
+
+**Se considera una persona divertida, introvertida y tranquila, con habilidades como la disciplina, la responsabilidad y la capacidad para redactar (aunque menciona "reactar", se infiere que quiso decir "redactar").**
+
+**Resumen: Keyner es un estudiante de 20 años que reside en Magdalena con su familia. Su primera impresión de la aplicación fue que "cumple bien con el objetivo" de reservar citas, destacando su "buen diseño" y que "funciona correctamente". Lo más fácil para él fue reservar la cita, indicando que el menú ayuda bastante; no encontró ninguna parte confusa. Considera que la información de la pantalla principal (citas pendientes) es útil porque le "ayuda bastante a tu horario". Confirmó que sí usaría la aplicación por ser "práctica y rápida", valorando poder reservar desde el celular sin "tener que estar llamando". Al igual que el entrevistado anterior, Kenot no sugirió ninguna mejora inmediata, afirmando que "para la función básica... sí lo cumple" y "por ahora creo que nada".**
