@@ -2556,6 +2556,80 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 ![evidence-teamcollab 1.png](assets/evidence-teamcollab%201.png)
 
+### 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+|             Sprint \#              |                                                                                                                                                                                                                                                                       Sprint 3                                                                                                                                                                                                                                                                       |
+|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Sprint Planning Background     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                Date                |                                                                                                                                                                                                                                                               4 de noviembre del 2025                                                                                                                                                                                                                                                                |
+|                Time                |                                                                                                                                                                                                                                                                       20:00 PM                                                                                                                                                                                                                                                                       |
+|              Location              |                                                                                                                                                                                                                                                                        Remoto                                                                                                                                                                                                                                                                        |
+|            Prepared By             |                                                                                                                                                                                                                                                              Joseph Manuel Chavez Viera                                                                                                                                                                                                                                                              |
+|  Attendees (to planning meeting)   |                                                                                                                                                                                                                               Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel                                                                                                                                                                                                                               |
+| Sprint n – 2 Retrospective Summary |                                                                                                  El Sprint 2 fue exitoso, logrando desplegar la primera versión del frontend en Netlify con una API simulada (fake API). La validación con usuarios (Sprint 2.5) arrojó la necesidad urgente de un backend real para gestionar la persistencia de datos, la autenticación y la lógica de negocio, lo cual es el objetivo principal de este sprint.                                                                                                   |
+|             Tech Stack             |                                                                                                                                                                                                                        Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, OpenAPI (Swagger), Maven                                                                                                                                                                                                                        |
+|     Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|            Sprint Goal             |                                                                                                    Construir y desplegar la API RESTful de DogiMax. El objetivo es reemplazar la API simulada del frontend con un backend robusto desarrollado en Spring Boot, implementando una arquitectura de Domain-Driven Design (DDD). Este sprint se centrará en dos Bounded Contexts críticos: Gestión de Identidad y Acceso (IAM) y Gestión de Mascotas.                                                                                                    |
+|     Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|           Sprint 2 Goal            | Nuestro enfoque es entregar la primera versión funcional del backend web de DogiMax. El objetivo es implementar las funcionalidades básicas de gestión de mascotas y citas, permitiendo a los usuarios registrar a sus perros, agendar citas médicas y consultar el historial de salud. Creemos que esto proporcionará un Producto Mínimo Viable (MVP) que entregue valor real a nuestros usuarios iniciales. Esto se confirmará cuando los usuarios puedan crear, ver y gestionar perfiles de mascotas y citas médicas en la aplicación desplegada. |
+|         Sprint 2 Velocity          |                                                                                                                                                                                                                                                                          30                                                                                                                                                                                                                                                                          |
+|        Sum of Story Points         |                                                                                                                                                                                                                                                                          30                                                                                                                                                                                                                                                                          |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | IAM Bounded Context (L) / (C) | Gestión de Mascotas Bounded Context (L) / (C) | Appointments Bounded Context (L) / (C) | Notification Bounded Context (L) / (C) | Shared & API Deployment (L) / (C) | 
+| :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
+| Brayan Roberto Ccarita Cruz |  hallzyx  | L                             | -                                             | L                                      | -                                      | L                                 |
+| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                             | L                                             | -                                      | -                                      | C                                 | 
+| Juan Saldaña | jndesouza  | -                             | -                                             | C                                      | L                                      | -                                 |
+| Dueñas Canales Leonardo Manuel |  Insonnio | -                             | -                                             | -                                      | C                                      | -                                 | 
+
+
+### 5.2.3.3. Sprint Backlog 3.
+
+| Sprint # |	User Story	| Work-Item/TaskId |	Title Description|	Estimation (Story Points)|	Assigned To	Status|
+| :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|
+|US-21	|Como usuario, quiero poder registrarme en la plataforma para crear una cuenta.|	UT-21.1	|Implementar endpoint POST /api/v1/authentication/sign-up.|	3	|Brayan Ccarita	|Done|
+|UT-21.2|	Configurar Spring Security y reglas de contraseña.|			
+|US-22|	Como usuario registrado, quiero poder iniciar sesión (sign-in) para acceder a la app.|	UT-22.1|	Implementar endpoint POST /api/v1/authentication/sign-in.|	3|	Brayan Ccarita|	Done|
+|UT-22.2|	Generar y validar tokens JWT en el inicio de sesión exitoso.	|		
+|US-23|	Como usuario, quiero poder crear el perfil de mi mascota.|	UT-23.1|	Implementar endpoint POST /api/v1/mascotas.|	4|	Joseph Chavez|	Done|
+|UT-23.2|	Definir el agregado Mascota en el dominio (DDD).	|		
+|US-24|	Como usuario, quiero poder ver todos los perfiles de mis mascotas.|	UT-24.1	|Implementar endpoint GET /api/v1/mascotas/user/{userId}.|	3	|Joseph Chavez	|Done|
+|UT-24.2|	Crear servicio de query (CQRS) para obtener mascotas por usuario.|			
+|US-25|	Como usuario, quiero poder ver el detalle de una mascota específica.|	UT-25.1|	Implementar endpoint GET /api/v1/mascotas/{mascotaId}.|	2|	Joseph Chavez	|Done|
+|US-26|	Como usuario, quiero poder actualizar la información de mi mascota.	|UT-26.1|	Implementar endpoint PUT /api/v1/mascotas/{mascotaId}.|	3	|Joseph Chavez|	Done|
+|US-27|	Como usuario, quiero poder eliminar el perfil de una mascota.|	UT-27.1	|Implementar endpoint DELETE /api/v1/mascotas/{mascotaId}.|	2	|Joseph Chavez|	Done|
+|US-28|	Como desarrollador, necesito documentar la API para facilitar la integración con el frontend.|	UT-28.1|	Configurar OpenAPI (Swagger) en el proyecto Spring Boot.|	2|	Brayan Ccarita|	Done|
+|US-29|	Como desarrollador, necesito un módulo compartido para reutilizar código y configuraciones.	|UT-29.1|	Crear módulo shared con clases base y configuración de seguridad.|	3	|Joseph Chavez	|Done|
+|US-30|	Como desarrollador, necesito configurar la conexión a la base de datos y la persistencia.|	UT-30.1	|Configurar application.properties para MySQL (local y perfiles).|	2	|Brayan Ccarita|	Done|
+|UT-30.2|	Implementar los Repositorios JPA en la capa de infraestructura.		|	
+|US-31	|Como desarrollador, necesito la estructura base para los próximos Sprints.|	UT-31.1|	Crear la estructura de carpetas (esqueleto) para los bounded contexts Appointments y Notification (basado en la imagen de división de trabajo).|	3	|B. Ccarita, J. Saldaña|	Done|
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+|Repository|	Branch| 	Commit ID | 	Commit mensaje                                                      | 	Commit on Date |
+| :---- | ----- |------------|----------------------------------------------------------------------|-----------------|
+|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf   | 	chore: configure database connection and application properties     | 	24/10/2025     |
+|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf	  | merge: Integrate Shared module (domain base, security config)	       | 26/10/2025      |
+|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf   | 	merge: Integrate IAM bounded context (sign-in, sign-up, jwt)	       | 27/10/2025      |
+|https://github.com/reignite-dogimax/backend-app	|feature/pet_management	| 87a08a6   | 	feat(pets): Implement domain aggregate and POST endpoint	           | 28/10/2025      |
+|https://github.com/reignite-dogimax/backend-app	|feature/pet_management	| 87a08a6   | 	feat(pets): Implement domain aggregate and POST endpoint	           | 28/10/2025      |
+|https://github.com/reignite-dogimax/backend-app	|feature/appointments-implementation	| a2d21bd   | 	feat(appoint): Add DDD structure for appointments context	          | 02/11/2025      |
+|https://github.com/reignite-dogimax/backend-app	|feature/notification_management	| 7e02998   | 	feat(notif): Add DDD structure for notification management context	 | 02/11/2025      |
+|https://github.com/reignite-dogimax/backend-app|	develop	| b2f5aaf    | docs: Add OpenAPI (Swagger) configuration	                           | 03/11/2025      |
+|https://github.com/reignite-dogimax/backend-app|	develop	| b2f5aaf	  | merge: Integrate pet_management feature branch	                      | 04/11/2025      |
+
+### 5.2.3.5. Execution Evidence for Sprint Review.
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+
 
 ### 5.3. Validation Interviews
 
@@ -2635,3 +2709,43 @@ Preguntas Clave para la Entrevista de Validación
 **Se considera una persona divertida, introvertida y tranquila, con habilidades como la disciplina, la responsabilidad y la capacidad para redactar (aunque menciona "reactar", se infiere que quiso decir "redactar").**
 
 **Resumen: Keyner es un estudiante de 20 años que reside en Magdalena con su familia. Su primera impresión de la aplicación fue que "cumple bien con el objetivo" de reservar citas, destacando su "buen diseño" y que "funciona correctamente". Lo más fácil para él fue reservar la cita, indicando que el menú ayuda bastante; no encontró ninguna parte confusa. Considera que la información de la pantalla principal (citas pendientes) es útil porque le "ayuda bastante a tu horario". Confirmó que sí usaría la aplicación por ser "práctica y rápida", valorando poder reservar desde el celular sin "tener que estar llamando". Al igual que el entrevistado anterior, Kenot no sugirió ninguna mejora inmediata, afirmando que "para la función básica... sí lo cumple" y "por ahora creo que nada".**
+
+Link de las entrevistas: https://youtu.be/nq6YRT5oamk
+
+### 5.4. Video About-the-Product.
+
+En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
+Video about the product: https://youtu.be/7kLxtACvOlM
+
+![video-about-the-product.png](images/video-about-the-product.png)
+
+Conclusiones
+A lo largo del desarrollo del modelo de negocio digital Doggy Max, hemos logrado validar la necesidad creciente y real de soluciones tecnológicas en el sector del cuidado de mascotas. En un contexto donde la adopción de perros está en rápido aumento, tanto los dueños que buscan organizar la vida de sus mascotas como los profesionales veterinarios que desean mejorar la comunicación, requieren herramientas más eficientes. El proceso de investigación de mercado, análisis de la industria y entrevistas ha revelado importantes hallazgos que refuerzan la relevancia de nuestra propuesta de valor.
+
+Desde el análisis de la industria y las necesidades del usuario, logramos comprobar:
+
+* Existe una fuerte fragmentación en la información y los servicios; los dueños gestionan citas, vacunas, alimentación y compras en múltiples plataformas o de forma manual, dificultando un seguimiento adecuado de la salud del perro.
+
+* Las aplicaciones generales (como calendarios o notas) carecen de funciones específicas para mascotas y no ofrecen las recomendaciones personalizadas basadas en raza, edad o condición que los dueños modernos demandan.
+
+* Los dueños de perros, especialmente aquellos con horarios ocupados, manifestaron un fuerte interés por una solución digital que centralice toda la gestión del cuidado de su mascota en un solo lugar.
+
+Las hipótesis planteadas durante el proceso fueron validadas:
+
+* Los usuarios consideran altamente útil una herramienta que combine la gestión de agenda (citas, vacunas) con un sistema de recordatorios inteligentes y recomendaciones personalizadas de salud y nutrición.
+
+* Existe una clara disposición a adoptar un modelo freemium, donde las funciones esenciales de gestión son gratuitas y se paga por valor añadido (como teleconsultas, recomendaciones avanzadas por IA o historial médico compartido).
+
+* La diferencia competitiva de Doggy Max —su enfoque integral (agenda + IA + veterinarios + productos)— fue percibida como una ventaja clave frente a aplicaciones que solo se enfocan en un único aspecto (ej. solo agendamiento o solo e-commerce).
+
+Se logró validar las necesidades de nuestros usuarios objetivos (dueños de perros y veterinarios) y diseñar un producto más alineado a ellos, presuntamente usando herramientas como el User Persona y los escenarios As-Is y To-Be. A partir de esto, se pueden desarrollar las historias de usuario que definirán las funcionalidades a implementar en los próximos sprints. Hemos diseñado también los prototipos de nuestra Landing Page y la Aplicación Móvil en herramientas de diseño colaborativas.
+
+Algunas recomendaciones que tomamos en cuenta y que podrían impulsar el desarrollo y crecimiento en el mercado de Doggy Max son:
+
+* Desarrollar un MVP (Producto Mínimo Viable) centrado en las funciones clave: gestión de perfiles de mascota, calendario de salud (citas y vacunas) y recordatorios básicos.
+
+* Validar el modelo de IA con un grupo piloto de profesionales veterinarios y dueños para asegurar la calidad y precisión de las recomendaciones personalizadas.
+
+* Consolidar alianzas estratégicas iniciales con clínicas veterinarias y marcas de productos clave para construir y dar valor al ecosistema de la plataforma desde el lanzamiento.
+
+Este trabajo ha demostrado que Doggy Max no solo resuelve un problema real de fragmentación y desorganización en el cuidado de mascotas, sino que tiene el potencial de transformar la forma en que los dueños gestionan el bienestar y la salud de sus perros. Los próximos pasos deberán enfocarse en lanzar y escalar esta solución de manera sostenible, con un enfoque claro en la expansión de las capacidades de IA y la inclusión de más tipos de mascotas (comunes y exóticas), siempre centrados en la experiencia del usuario.
