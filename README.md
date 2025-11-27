@@ -2376,6 +2376,8 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
     
 ### 5.2.1.1. Sprint Planning 1.
 
+Esta sección documenta la planificación inicial del primer sprint del proyecto DogiMax. Durante esta fase, el equipo estableció los objetivos, alcance y metodología de trabajo para el desarrollo de la landing page, que serviría como punto de entrada principal para los usuarios de la plataforma. La planificación incluyó la definición del stack tecnológico, la asignación de roles y la estimación de historias de usuario relacionadas con la creación de la página de aterrizaje.
+
 | Sprint \# | Sprint 1 |
 | :---: | :---: |
 | Sprint Planning Background |  |
@@ -2394,6 +2396,8 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
     
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 
+Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 1, identificando a los líderes (L) y colaboradores (C) en diferentes aspectos del desarrollo de la landing page. La asignación de roles se basó en las habilidades y experiencia de cada miembro, asegurando una distribución equitativa del trabajo y un liderazgo efectivo en áreas clave como coordinación del equipo, comunicación, resolución de problemas, apoyo mutuo y mejora continua.
+
 | Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Aspect Team Coordination and Organization Leader (L) / Collaborator | Aspect Effective Communication Leader (L) / Collaborator (C) | Aspect Problem-Solving and Decision-Making Leader (L) / Collaboration (C) | Aspect Mutual Support and Knowledge Sharing Leader (L) / Collaboration (C) | Aspect Monitoring and Continuous Improvement Leader (L) / Collaboration (C) |
 | :---- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Brayan Roberto Ccarita Cruz |  hallzyx  |  C  |  L |  C |  C |  L |
@@ -2403,6 +2407,8 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
 | Dueñas Canales Leonardo Manuel |  Insonnio |  L |  C |  C |  C |  C |
     
 ### 5.2.1.3. Sprint Backlog 1.
+
+Esta sección contiene el backlog del Sprint 1, que incluye todas las historias de usuario planificadas para el desarrollo de la landing page. Cada historia de usuario representa una funcionalidad o característica que debe ser implementada, con su estado de completitud, asignación a miembros del equipo, y estimación de horas tanto estimadas como reales. El backlog refleja el trabajo realizado en la creación de la página de aterrizaje, incluyendo funcionalidades de registro, inicio de sesión, configuración de perfil y secciones de ayuda.
 
 | ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -2415,6 +2421,8 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
 | US-20 | Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte. | Completado | Dueñas Leonardo | 5 | 4 |
     
 ### 5.2.1.4. Development Evidence for Sprint Review.
+
+Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 1, mostrando los commits realizados en el repositorio de GitHub. Cada commit representa un cambio específico en el código o documentación, proporcionando trazabilidad del trabajo realizado. La evidencia incluye commits relacionados con la implementación de la landing page, documentación de servicios, configuración de despliegue y análisis de entrevistas, demostrando el progreso continuo del proyecto.
 
 | Repository | Branch | Commit ID | Commit mensaje | Commit Body | Commit on Date |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -2431,6 +2439,8 @@ Para garantizar la coherencia, la claridad y la calidad del código en el desarr
     
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+Esta sección presenta la evidencia visual de la ejecución y funcionamiento de la landing page desarrollada durante el Sprint 1. Las capturas de pantalla muestran las diferentes secciones y funcionalidades implementadas, incluyendo el diseño visual, la estructura de la página, los elementos interactivos y la experiencia de usuario final. Esta evidencia demuestra que la landing page fue completada exitosamente y está lista para su despliegue y uso.
+
 <img src="assets/evidence-LandingPage1.png" />
 
 <img src="assets/evidence-LandingPage2.png" />
@@ -2446,6 +2456,8 @@ Durante el sprint 1, el equipo logró completar satisfactoriamente todas las tar
 En el contexto del desarrollo web, una página de aterrizaje cumple un rol esencial al convertir visitantes en clientes al guiarlos hacia una acción concreta, como realizar una compra, registrarse o descargar un recurso. A diferencia de un sitio web general, concentra todo su contenido en un solo objetivo, reduciendo distracciones y mejorando la experiencia del usuario.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Esta sección documenta el proceso de despliegue de la landing page desarrollada durante el Sprint 1. El despliegue se realizó utilizando GitHub Pages, una plataforma de hosting estático que permite publicar sitios web directamente desde un repositorio de GitHub. Esta sección incluye la URL de despliegue y confirma que la landing page fue publicada exitosamente y está accesible para usuarios finales, cumpliendo con el objetivo principal del sprint.
 
 El entregable desarrollado durante el sprint 1 fue desplegado en un entorno accesible mediante GitHub Pages. La landing page quedó publicada correctamente y se encuentra disponible para su revisión y validación
 
@@ -2473,6 +2485,8 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 ### 5.2.2.1. Sprint Planning 2
 
+Esta sección documenta la planificación del segundo sprint del proyecto DogiMax, enfocado en el desarrollo de la primera versión funcional de la aplicación web. Durante esta fase, el equipo estableció los objetivos para implementar las funcionalidades básicas de gestión de mascotas y citas médicas, utilizando Angular como framework frontend y una API mock para la integración de datos. La planificación incluyó la definición del alcance, la asignación de tareas y la estimación de esfuerzo para cada funcionalidad.
+
 |             Sprint \#              | Sprint 2 |
 |:----------------------------------:| :---: |
 |     Sprint Planning Background     |  |
@@ -2492,6 +2506,8 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
+Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 2, identificando a los líderes y colaboradores en diferentes módulos del desarrollo frontend. La asignación de roles se basó en las áreas de especialización de cada miembro, cubriendo aspectos como la gestión de citas y actividades, módulos de salud y recomendaciones, desarrollo de API backend (mock) y despliegue de la aplicación web. Esta organización permitió un trabajo paralelo eficiente y una distribución equitativa de responsabilidades.
+
 | Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Appointment and Activity Management (Frontend) Leader (L) / Collaborator (C) | Health and Recommendation Module (Frontend) Leader (L) / Collaborator (C) | API Backend Development Leader (L) / Collaborator (C) | Web Application Deployment Leader (L) / Collaborator (C) |
 | :---- | ----- |------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------| 
 | Brayan Roberto Ccarita Cruz |  hallzyx  | C                                                                            | C                                                                         | C                                                     | L                                                        | 
@@ -2500,6 +2516,8 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 | Dueñas Canales Leonardo Manuel |  Insonnio | L                                                                            | C                                                                         | C                                                     | C                                                        | 
 
 ### 5.2.2.3. Sprint Backlog 2
+
+Esta sección contiene el backlog del Sprint 2, que incluye todas las historias de usuario y tareas planificadas para el desarrollo de la aplicación web frontend. El backlog cubre funcionalidades clave como la gestión de perfiles de mascotas, el agendamiento de citas médicas, el dashboard principal, la recepción de notificaciones, la integración con API mock y la navegación del sistema. Cada tarea incluye su descripción, estimación de horas, asignación a miembros del equipo y estado de completitud.
 
 | Sprint # | User Story | Work-Item/TaskId | Title Id | Title Description | Estimation (Hours) | Assigned To| Status|
 | :---- | :---- |:-----------------| :---- | :---- | :---- | :---- | :----|
@@ -2519,6 +2537,9 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 En este segundo Sprint, hemos realizado la implementación de nuestra aplicación web. Todo el trabajo fue gestionado a través de nuestro repositorio en GitHub, utilizando un flujo de trabajo basado en ramas de funcionalidad (feature branches) que luego se integraron a la rama develop mediante Pull Requests. Esto aseguró la revisión y validación del código antes de su integración.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
+
+Esta sección presenta la evidencia visual de la ejecución y funcionamiento de la aplicación web desarrollada durante el Sprint 2. Las capturas de pantalla muestran las diferentes vistas y funcionalidades implementadas, incluyendo el dashboard principal, la gestión de perfiles de mascotas, el agendamiento de citas médicas, la visualización de notificaciones y la navegación entre diferentes secciones de la aplicación. Esta evidencia demuestra que la aplicación web fue completada exitosamente y está lista para su despliegue y validación con usuarios.
+
 En este segundo Sprint realizamos la implementación de la primera versión funcional de nuestra aplicación web.
 
 ![evidence-frontend 1.png](assets/evidence-frontend%201.png)
@@ -2536,6 +2557,8 @@ En este segundo Sprint realizamos la implementación de la primera versión func
 No se emplearon servicios externos adicionales, ya que este segundo Sprint se centró exclusivamente en la implementación del frontend y el backend de la primera versión de la aplicación web utilizando nuestro stack tecnológico principal (HTML, CSS, JavaScript) y las herramientas de desarrollo definidas en la configuración.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Esta sección documenta el proceso de despliegue de la aplicación web desarrollada durante el Sprint 2. El despliegue se realizó utilizando Netlify, una plataforma de hosting moderna que permite desplegar aplicaciones web estáticas y dinámicas con facilidad. Esta sección incluye capturas de pantalla del proceso de despliegue, la configuración del entorno y la URL de la aplicación desplegada, confirmando que la aplicación fue publicada exitosamente y está accesible para usuarios finales.
 
 ![evidence-deploy 1.png](assets/evidence-deploy%201.png)
 
@@ -2564,6 +2587,8 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 ### 5.2.3.1. Sprint Planning 3
 
+Esta sección documenta la planificación del tercer sprint del proyecto DogiMax, enfocado en el desarrollo del backend de la aplicación utilizando Spring Boot y arquitectura Domain-Driven Design (DDD). Durante esta fase, el equipo estableció los objetivos para construir y desplegar la API RESTful que reemplazaría la API simulada del frontend, implementando bounded contexts críticos como IAM (Identity and Access Management) y Gestión de Mascotas. La planificación incluyó la definición del stack tecnológico (Java 21, Spring Boot, MySQL, JWT), la asignación de roles en los diferentes bounded contexts y la estimación de historias de usuario relacionadas con la autenticación y gestión de datos.
+
 |             Sprint \#              |                                                                                                                                                                                                                                                                       Sprint 3                                                                                                                                                                                                                                                                       |
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     Sprint Planning Background     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -2583,6 +2608,8 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
+Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 3, identificando a los líderes y colaboradores en los diferentes bounded contexts del backend. La asignación de roles se basó en las áreas de especialización y experiencia de cada miembro, cubriendo aspectos como el bounded context de IAM (autenticación y autorización), Gestión de Mascotas, Appointments, Notification, y el módulo Shared junto con el despliegue de la API. Esta organización permitió un trabajo paralelo eficiente siguiendo los principios de Domain-Driven Design y aseguró la calidad de cada bounded context.
+
 | Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | IAM Bounded Context (L) / (C) | Gestión de Mascotas Bounded Context (L) / (C) | Appointments Bounded Context (L) / (C) | Notification Bounded Context (L) / (C) | Shared & API Deployment (L) / (C) | 
 | :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
 | Brayan Roberto Ccarita Cruz |  hallzyx  | L                             | -                                             | L                                      | -                                      | L                                 |
@@ -2592,6 +2619,8 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 
 ### 5.2.3.3. Sprint Backlog 3.
+
+Esta sección contiene el backlog del Sprint 3, que incluye todas las historias de usuario y tareas planificadas para el desarrollo del backend de la aplicación. El backlog cubre funcionalidades clave como la autenticación de usuarios (sign-up y sign-in con JWT), la gestión completa de mascotas (CRUD), la documentación de la API con OpenAPI/Swagger, la configuración de la base de datos MySQL, y la creación de la estructura base para los bounded contexts de Appointments y Notification. Cada tarea incluye su descripción, estimación en story points, asignación a miembros del equipo y estado de completitud.
 
 | Sprint # |	User Story	| Work-Item/TaskId |	Title Description|	Estimation (Story Points)|	Assigned To	Status|
 | :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|
@@ -2613,6 +2642,8 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 |US-31	|Como desarrollador, necesito la estructura base para los próximos Sprints.|	UT-31.1|	Crear la estructura de carpetas (esqueleto) para los bounded contexts Appointments y Notification (basado en la imagen de división de trabajo).|	3	|B. Ccarita, J. Saldaña|	Done|
 
 ### 5.2.3.4. Development Evidence for Sprint Review
+
+Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 3, mostrando los commits realizados en el repositorio del backend. Cada commit representa un cambio específico en el código, proporcionando trazabilidad del trabajo realizado en la implementación del backend. La evidencia incluye commits relacionados con la configuración de la base de datos, la integración del módulo Shared, la implementación del bounded context de IAM, la gestión de mascotas, la estructura de appointments y notifications, y la configuración de OpenAPI/Swagger, demostrando el progreso continuo del desarrollo backend.
 
 |Repository|	Branch| 	Commit ID | 	Commit mensaje                                                      | 	Commit on Date |
 | :---- | ----- |------------|----------------------------------------------------------------------|-----------------|
@@ -2723,6 +2754,7 @@ Contribuciones destacadas:
 - Creación del módulo shared con clases base y configuración de seguridad.
 - Implementación y validación de endpoints para operaciones de mascotas.
 
+![Team Collaboration Insights during Sprint.png](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
 ### 5.3. Validation Interviews
 
