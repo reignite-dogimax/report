@@ -356,11 +356,15 @@ La contribuccion de cada integrante es la siguiente:
 
 [5.4. Video About-the-Product](#54-video-about-the-product)
 
-[Conclusiones](#conclusiones)
+[6. Conclusiones y Recomendaciones](#6-conclusiones-y-recomendaciones)
 
-[Video About the Team](#Video About the Team)
+[6.1. Conclusiones](#61-conclusiones)
 
-[Bibliografía](#bibliografía)
+[6.2. Recomendaciones](#62-recomendaciones)
+
+[7. Video About-the-Team](#7-video-about-the-team)
+
+[8. Bibliografía](#8-bibliografía)
 
 [Anexos](#anexos)
 
@@ -2624,11 +2628,100 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Durante el Sprint 3, el equipo logró implementar de manera efectiva los módulos funcionales clave del backend de la aplicación DogiMax, consolidando su estructura como plataforma integral para la gestión del cuidado de perros. Se completaron las funcionalidades correspondientes a los bounded contexts prioritarios:
+
+- **IAM (Identity and Access Management):** Se implementó el sistema de autenticación completo con endpoints de registro (sign-up) e inicio de sesión (sign-in), incluyendo la generación y validación de tokens JWT para la seguridad de la API.
+
+- **Gestión de Mascotas:** Se desarrolló el agregado de dominio Mascota siguiendo arquitectura DDD, con endpoints CRUD completos (POST, GET, PUT, DELETE) que permiten a los usuarios gestionar los perfiles de sus mascotas.
+
+- **Appointments Bounded Context:** Se creó la estructura base (esqueleto) del bounded context de citas siguiendo los principios de Domain-Driven Design, preparando el terreno para la implementación completa en sprints futuros.
+
+- **Notification Bounded Context:** Se estableció la estructura DDD para el contexto de gestión de notificaciones, definiendo la arquitectura de dominio necesaria para el sistema de notificaciones.
+
+- **Shared Module:** Se implementó el módulo compartido con clases base y configuración de seguridad, permitiendo la reutilización de código y configuraciones comunes entre los diferentes bounded contexts.
+
+- **Base de Datos y Persistencia:** Se configuró la conexión a MySQL y los repositorios JPA en la capa de infraestructura, garantizando la persistencia adecuada de los datos.
+
+Estas funcionalidades fueron integradas con el Web Service desarrollado por el equipo, garantizando una arquitectura sólida, respuestas rápidas y coherencia en la estructura del código. El resultado es una versión estable del backend que conecta usuarios, mascotas y servicios en un entorno digital robusto y escalable.
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 3, el equipo Reignite avanzó significativamente en la documentación de los Web Services para la aplicación DogiMax. El enfoque se centró en los módulos de autenticación (IAM), gestión de mascotas, y la estructura base para appointments y notifications. Esta documentación fue creada utilizando OpenAPI (Swagger) para estandarizar la descripción de los Endpoints implementados y su interacción con los diferentes componentes del sistema.
+
+El objetivo principal fue asegurar que tanto los desarrolladores del frontend como colaboradores externos pudieran consultar, probar e integrar fácilmente las funcionalidades de la API. Como resultado, se generaron especificaciones detalladas para cada Endpoint cubierto durante el Sprint, incluyendo verbos HTTP, rutas, parámetros, respuestas esperadas y ejemplos de uso interactivos, facilitando así el trabajo colaborativo y asegurando la trazabilidad del desarrollo técnico.
+
+A continuación se presenta una tabla con los Endpoints documentados durante el Sprint 3:
+
+| Módulo | Endpoint | Método HTTP | Descripción | Parámetros | Ejemplo de Request | Ejemplo de Response |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| IAM | `/api/v1/authentication/sign-up` | POST | Registra un nuevo usuario en la plataforma | `body: { email, password, nombre, apellido }` | `POST /api/v1/authentication/sign-up` | `201 Created - Usuario registrado` |
+| IAM | `/api/v1/authentication/sign-in` | POST | Inicia sesión y genera token JWT | `body: { email, password }` | `POST /api/v1/authentication/sign-in` | `200 OK - Token JWT` |
+| Gestión de Mascotas | `/api/v1/mascotas` | POST | Crea un nuevo perfil de mascota | `body: { nombre, raza, fechaNacimiento, peso, userId }` | `POST /api/v1/mascotas` | `201 Created - Mascota creada` |
+| Gestión de Mascotas | `/api/v1/mascotas/user/{userId}` | GET | Obtiene todas las mascotas de un usuario | `:userId (Long)` | `GET /api/v1/mascotas/user/1` | `200 OK - Lista de mascotas` |
+| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | GET | Obtiene el detalle de una mascota específica | `:mascotaId (Long)` | `GET /api/v1/mascotas/1` | `200 OK - Detalle de la mascota` |
+| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | PUT | Actualiza la información de una mascota | `:mascotaId (Long), body: { nombre, raza, peso, ... }` | `PUT /api/v1/mascotas/1` | `200 OK - Mascota actualizada` |
+| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | DELETE | Elimina el perfil de una mascota | `:mascotaId (Long)` | `DELETE /api/v1/mascotas/1` | `200 OK - Mascota eliminada` |
+
+La documentación completa está disponible a través de la interfaz Swagger UI configurada en el proyecto, accesible en `/swagger-ui.html` cuando la aplicación está en ejecución.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Durante el Sprint 3, el equipo configuró y preparó el entorno de despliegue para el backend de DogiMax. Se estableció la infraestructura necesaria para el despliegue del Web Service desarrollado en Spring Boot, incluyendo la configuración de perfiles de aplicación para diferentes entornos (desarrollo, producción).
+
+La aplicación backend fue configurada para ejecutarse en un entorno de producción, con las siguientes características:
+
+- **Configuración de Base de Datos:** Se configuró la conexión a MySQL 8.0 con perfiles separados para desarrollo local y producción.
+
+- **Configuración de Seguridad:** Se implementó Spring Security con JWT para la autenticación y autorización de usuarios.
+
+- **Módulo Shared:** Se desplegó el módulo compartido con las clases base y configuraciones de seguridad necesarias para todos los bounded contexts.
+
+- **Arquitectura DDD:** Se estableció la estructura base siguiendo Domain-Driven Design, permitiendo la escalabilidad y mantenibilidad del código.
+
+El backend está preparado para ser desplegado en un servidor de aplicaciones compatible con Spring Boot, garantizando la disponibilidad y el rendimiento adecuado para la integración con el frontend y futuras expansiones del sistema.
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, el equipo Reignite implementó funcionalidades clave del Web Service relacionadas a los módulos IAM (Identity and Access Management), Gestión de Mascotas, Appointments y Notification, respetando la arquitectura DDD y garantizando la calidad de los endpoints generados. La colaboración del equipo se reflejó en el uso efectivo de ramas feature, commits significativos y merge requests bien documentadas. Cada miembro contribuyó en diferentes niveles de desarrollo, según su rol como líder o colaborador en los bounded contexts asignados.
+
+**Brayan Roberto Ccarita Cruz (hallzyx)**
+
+Rol en Web Service: Líder en IAM Bounded Context, Appointments Bounded Context y Shared & API Deployment.
+
+Contribuciones destacadas:
+- Implementación y validación de endpoints de autenticación (sign-up y sign-in) con JWT.
+- Configuración de Spring Security y reglas de contraseña para el sistema de autenticación.
+- Configuración de OpenAPI (Swagger) para documentación de la API.
+- Configuración de la conexión a la base de datos MySQL y application.properties.
+- Creación de la estructura base (esqueleto) para el bounded context Appointments.
+- Liderazgo en el despliegue y configuración del módulo Shared con clases base y configuración de seguridad.
+
+**Juan David Saldaña De Souza (jndesouza)**
+
+Código: U20221F192  
+Carrera: Ingeniería de software
+
+Rol en Web Service: Líder en Notification Bounded Context y colaborador en Appointments Bounded Context.
+
+Contribuciones destacadas:
+- Creación de la estructura base (esqueleto) para el bounded context Notification siguiendo arquitectura DDD.
+- Implementación de la estructura DDD para el contexto de gestión de notificaciones.
+- Colaboración en la creación de la estructura base para el bounded context Appointments.
+- Desarrollo de la arquitectura de dominio para el sistema de notificaciones.
+
+**Joseph Manuel Chavez Viera (u202314019-MrOsoPanda)**
+
+Código: U202314019  
+Carrera: Ingeniería de Software
+
+Rol en Web Service: Líder en Gestión de Mascotas Bounded Context, colaborador en IAM Bounded Context y Shared & API Deployment.
+
+Contribuciones destacadas:
+- Implementación completa del agregado Mascota en el dominio (DDD).
+- Desarrollo de endpoints CRUD para gestión de mascotas (POST, GET, PUT, DELETE).
+- Implementación de servicios de query (CQRS) para obtener mascotas por usuario.
+- Creación del módulo shared con clases base y configuración de seguridad.
+- Implementación y validación de endpoints para operaciones de mascotas.
 
 
 ### 5.3. Validation Interviews
@@ -2712,40 +2805,147 @@ Preguntas Clave para la Entrevista de Validación
 
 Link de las entrevistas: https://youtu.be/nq6YRT5oamk
 
+### 5.3.3. Evaluaciones según heurísticas.
+
+Para evaluar la usabilidad de la aplicación DogiMax, se aplicaron las 10 heurísticas de usabilidad de Jakob Nielsen, que son principios fundamentales para el diseño de interfaces de usuario. A continuación se presenta la evaluación realizada:
+
+| Heurística | Descripción | Evaluación | Observaciones |
+| :---- | :---- | :---- | :---- |
+| **1. Visibilidad del estado del sistema** | El sistema debe mantener informado al usuario sobre lo que está ocurriendo. | ✅ Cumple | La aplicación muestra estados claros: carga de datos, confirmaciones de acciones (crear mascota, agendar cita), y mensajes de éxito o error. |
+| **2. Correspondencia entre el sistema y el mundo real** | El sistema debe hablar el lenguaje del usuario. | ✅ Cumple | Se utilizan términos familiares como "mascota", "cita", "veterinario", evitando jerga técnica. Los iconos y etiquetas son intuitivos. |
+| **3. Control y libertad del usuario** | Los usuarios necesitan una "salida de emergencia" para deshacer acciones. | ✅ Cumple | Existen botones de cancelar en formularios, opción de eliminar mascotas y cancelar citas. La navegación permite volver atrás fácilmente. |
+| **4. Consistencia y estándares** | No hacer que los usuarios se pregunten si palabras, situaciones o acciones diferentes significan lo mismo. | ✅ Cumple | Se mantiene consistencia en colores, tipografía, botones y patrones de navegación en toda la aplicación. |
+| **5. Prevención de errores** | Mejor que un buen mensaje de error es un diseño cuidadoso que previene que ocurra el problema. | ⚠️ Mejorable | Se implementan validaciones en formularios, pero podrían mejorarse con validaciones en tiempo real y sugerencias más claras. |
+| **6. Reconocimiento antes que recuerdo** | Hacer visibles objetos, acciones y opciones. | ✅ Cumple | Los menús de navegación están siempre visibles, los iconos son reconocibles, y la información importante (próximas citas, mascotas) se muestra en el dashboard. |
+| **7. Flexibilidad y eficiencia de uso** | Los aceleradores pueden aumentar la velocidad de interacción para usuarios expertos. | ⚠️ Mejorable | La aplicación es funcional para usuarios básicos, pero podría beneficiarse de atajos de teclado y acciones rápidas para usuarios avanzados. |
+| **8. Diseño estético y minimalista** | Los diálogos no deben contener información irrelevante o raramente necesaria. | ✅ Cumple | La interfaz es limpia y organizada, mostrando solo la información relevante. El dashboard principal ofrece un resumen conciso. |
+| **9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores** | Los mensajes de error deben expresarse en lenguaje claro. | ✅ Cumple | Los mensajes de error son claros y específicos (ej: "El email ya está registrado", "Fecha de cita inválida"). |
+| **10. Ayuda y documentación** | Aunque es mejor si el sistema puede usarse sin documentación. | ⚠️ Mejorable | Existe una sección de ayuda y preguntas frecuentes, pero podría expandirse con tutoriales interactivos para nuevos usuarios. |
+
+**Resumen de la evaluación:**
+
+- **Heurísticas que cumplen completamente:** 7 de 10
+- **Heurísticas que requieren mejora:** 3 de 10
+
+La aplicación DogiMax demuestra un buen nivel de usabilidad en la mayoría de los aspectos evaluados. Las áreas de mejora identificadas (prevención de errores, flexibilidad para usuarios avanzados, y ayuda/documentación) pueden ser abordadas en iteraciones futuras para elevar aún más la experiencia del usuario.
+
 ### 5.4. Video About-the-Product.
 
 En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
+
 Video about the product: https://youtu.be/7kLxtACvOlM
 
 ![video-about-the-product.png](images/video-about-the-product.png)
 
-Conclusiones
-A lo largo del desarrollo del modelo de negocio digital Doggy Max, hemos logrado validar la necesidad creciente y real de soluciones tecnológicas en el sector del cuidado de mascotas. En un contexto donde la adopción de perros está en rápido aumento, tanto los dueños que buscan organizar la vida de sus mascotas como los profesionales veterinarios que desean mejorar la comunicación, requieren herramientas más eficientes. El proceso de investigación de mercado, análisis de la industria y entrevistas ha revelado importantes hallazgos que refuerzan la relevancia de nuestra propuesta de valor.
+## 6. Conclusiones y Recomendaciones
 
-Desde el análisis de la industria y las necesidades del usuario, logramos comprobar:
+### 6.1. Conclusiones
+A lo largo del desarrollo del proyecto DogiMax, hemos logrado validar la necesidad creciente y real de soluciones tecnológicas en el sector del cuidado de mascotas. El proceso de investigación de mercado, análisis de la industria, entrevistas y desarrollo de la aplicación ha revelado importantes hallazgos que refuerzan la relevancia de nuestra propuesta de valor.
 
-* Existe una fuerte fragmentación en la información y los servicios; los dueños gestionan citas, vacunas, alimentación y compras en múltiples plataformas o de forma manual, dificultando un seguimiento adecuado de la salud del perro.
+**Validación del Problema y Necesidad del Usuario:**
 
-* Las aplicaciones generales (como calendarios o notas) carecen de funciones específicas para mascotas y no ofrecen las recomendaciones personalizadas basadas en raza, edad o condición que los dueños modernos demandan.
+Durante las fases iniciales del proyecto, logramos comprobar que existe una fuerte fragmentación en la información y los servicios relacionados con el cuidado de mascotas. Los dueños gestionan citas, vacunas, alimentación y compras en múltiples plataformas o de forma manual, dificultando un seguimiento adecuado de la salud del perro. Las aplicaciones generales carecen de funciones específicas para mascotas y no ofrecen las recomendaciones personalizadas basadas en raza, edad o condición que los dueños modernos demandan.
 
-* Los dueños de perros, especialmente aquellos con horarios ocupados, manifestaron un fuerte interés por una solución digital que centralice toda la gestión del cuidado de su mascota en un solo lugar.
+**Desarrollo Técnico y Arquitectura:**
 
-Las hipótesis planteadas durante el proceso fueron validadas:
+A través de los tres sprints desarrollados, hemos logrado implementar una solución integral que combina frontend y backend. En el Sprint 3, se consolidó la arquitectura del backend utilizando Domain-Driven Design (DDD), implementando bounded contexts clave como IAM (Identity and Access Management), Gestión de Mascotas, Appointments y Notification. La implementación de Spring Boot con Spring Security y JWT ha permitido crear una API RESTful robusta y segura, documentada con OpenAPI (Swagger) para facilitar la integración y el mantenimiento.
 
-* Los usuarios consideran altamente útil una herramienta que combine la gestión de agenda (citas, vacunas) con un sistema de recordatorios inteligentes y recomendaciones personalizadas de salud y nutrición.
+**Validación con Usuarios Reales:**
 
-* Existe una clara disposición a adoptar un modelo freemium, donde las funciones esenciales de gestión son gratuitas y se paga por valor añadido (como teleconsultas, recomendaciones avanzadas por IA o historial médico compartido).
+Las entrevistas de validación realizadas con usuarios reales (dueños de perros y veterinarios) confirmaron que la aplicación cumple con las expectativas de los usuarios. Los entrevistados destacaron la facilidad de uso, la utilidad de las funciones de agendamiento de citas y la gestión de perfiles de mascotas. La evaluación según heurísticas de usabilidad de Nielsen mostró que 7 de 10 heurísticas se cumplen completamente, indicando un buen nivel de usabilidad general.
 
-* La diferencia competitiva de Doggy Max —su enfoque integral (agenda + IA + veterinarios + productos)— fue percibida como una ventaja clave frente a aplicaciones que solo se enfocan en un único aspecto (ej. solo agendamiento o solo e-commerce).
+**Logros Técnicos Principales:**
 
-Se logró validar las necesidades de nuestros usuarios objetivos (dueños de perros y veterinarios) y diseñar un producto más alineado a ellos, presuntamente usando herramientas como el User Persona y los escenarios As-Is y To-Be. A partir de esto, se pueden desarrollar las historias de usuario que definirán las funcionalidades a implementar en los próximos sprints. Hemos diseñado también los prototipos de nuestra Landing Page y la Aplicación Móvil en herramientas de diseño colaborativas.
+1. **Sprint 1:** Desarrollo y despliegue exitoso de la landing page, estableciendo la presencia digital de DogiMax.
 
-Algunas recomendaciones que tomamos en cuenta y que podrían impulsar el desarrollo y crecimiento en el mercado de Doggy Max son:
+2. **Sprint 2:** Implementación de la primera versión funcional del frontend con Angular, incluyendo gestión de mascotas, agendamiento de citas y dashboard principal, desplegada en Netlify.
 
-* Desarrollar un MVP (Producto Mínimo Viable) centrado en las funciones clave: gestión de perfiles de mascota, calendario de salud (citas y vacunas) y recordatorios básicos.
+3. **Sprint 3:** Desarrollo completo del backend con arquitectura DDD, implementación de autenticación JWT, endpoints CRUD para gestión de mascotas, y estructura base para los bounded contexts de citas y notificaciones.
 
-* Validar el modelo de IA con un grupo piloto de profesionales veterinarios y dueños para asegurar la calidad y precisión de las recomendaciones personalizadas.
+**Colaboración y Metodología:**
 
-* Consolidar alianzas estratégicas iniciales con clínicas veterinarias y marcas de productos clave para construir y dar valor al ecosistema de la plataforma desde el lanzamiento.
+El equipo demostró una colaboración efectiva utilizando metodologías ágiles, con uso de ramas feature, commits significativos y merge requests bien documentadas. Cada miembro contribuyó según su rol como líder o colaborador en los diferentes bounded contexts, garantizando la calidad del código y la coherencia arquitectónica.
 
-Este trabajo ha demostrado que Doggy Max no solo resuelve un problema real de fragmentación y desorganización en el cuidado de mascotas, sino que tiene el potencial de transformar la forma en que los dueños gestionan el bienestar y la salud de sus perros. Los próximos pasos deberán enfocarse en lanzar y escalar esta solución de manera sostenible, con un enfoque claro en la expansión de las capacidades de IA y la inclusión de más tipos de mascotas (comunes y exóticas), siempre centrados en la experiencia del usuario.
+Este trabajo ha demostrado que DogiMax no solo resuelve un problema real de fragmentación y desorganización en el cuidado de mascotas, sino que tiene el potencial de transformar la forma en que los dueños gestionan el bienestar y la salud de sus perros mediante una plataforma tecnológica robusta, escalable y centrada en la experiencia del usuario.
+
+### 6.2. Recomendaciones
+
+Basándonos en el desarrollo realizado y las validaciones con usuarios, se proponen las siguientes recomendaciones para impulsar el crecimiento y mejora continua de DogiMax:
+
+**Recomendaciones Técnicas:**
+
+* **Completar la implementación de los bounded contexts:** Finalizar el desarrollo completo de los bounded contexts de Appointments y Notification, implementando todos los casos de uso definidos en el dominio.
+
+* **Implementar pruebas automatizadas:** Establecer una suite completa de pruebas unitarias, de integración y end-to-end para garantizar la calidad y estabilidad del código en futuras iteraciones.
+
+* **Mejorar la documentación técnica:** Expandir la documentación de la API con más ejemplos de uso, casos de error y guías de integración para desarrolladores externos.
+
+* **Optimización de rendimiento:** Implementar caching, optimización de consultas a la base de datos y técnicas de paginación para mejorar el rendimiento de la aplicación a medida que crezca el número de usuarios.
+
+**Recomendaciones de Producto:**
+
+* **Desarrollar funcionalidades de IA:** Implementar el sistema de recomendaciones personalizadas basadas en raza, edad y condición de salud de las mascotas, utilizando modelos de machine learning validados por veterinarios.
+
+* **Expandir funcionalidades de notificaciones:** Implementar notificaciones push, recordatorios automáticos de vacunas y citas, y alertas personalizables según las preferencias del usuario.
+
+* **Mejorar la experiencia de usuario:** Basándose en la evaluación de heurísticas, implementar mejoras en prevención de errores, flexibilidad para usuarios avanzados y tutoriales interactivos para nuevos usuarios.
+
+* **Integración con servicios externos:** Establecer integraciones con clínicas veterinarias, servicios de pago y plataformas de e-commerce para productos para mascotas.
+
+**Recomendaciones de Negocio:**
+
+* **Validar el modelo de monetización:** Realizar pruebas piloto del modelo freemium, donde las funciones esenciales son gratuitas y se paga por valor añadido (teleconsultas, recomendaciones avanzadas por IA, historial médico compartido).
+
+* **Establecer alianzas estratégicas:** Consolidar alianzas iniciales con clínicas veterinarias y marcas de productos clave para construir y dar valor al ecosistema de la plataforma desde el lanzamiento.
+
+* **Expansión de segmentos:** Considerar la inclusión de más tipos de mascotas (gatos, aves, etc.) y funcionalidades específicas para diferentes especies.
+
+* **Programa de beta testing:** Implementar un programa de beta testing con usuarios reales para recopilar feedback continuo y mejorar iterativamente la plataforma antes del lanzamiento público completo.
+
+**Recomendaciones de Seguridad y Escalabilidad:**
+
+* **Implementar medidas de seguridad avanzadas:** Añadir autenticación de dos factores, encriptación de datos sensibles y auditoría de accesos para proteger la información de los usuarios y sus mascotas.
+
+* **Preparar la infraestructura para escalabilidad:** Diseñar la arquitectura para soportar un crecimiento significativo de usuarios, implementando balanceadores de carga, bases de datos distribuidas y arquitectura de microservicios si es necesario.
+
+* **Implementar monitoreo y logging:** Establecer sistemas de monitoreo en tiempo real, logging centralizado y alertas automáticas para detectar y resolver problemas proactivamente.
+
+Estas recomendaciones proporcionan una hoja de ruta clara para el desarrollo futuro de DogiMax, enfocándose en la mejora continua, la escalabilidad y la creación de valor tanto para los usuarios como para el negocio.
+
+## 7. Video About-the-Team
+
+En esta sección se presenta el video about the team que muestra a los integrantes del equipo de desarrollo y sus roles en el proyecto DogiMax.
+
+Video about the team: https://youtu.be/KoDxTZhzK-U
+
+## 8. Bibliografía
+
+1. Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley Professional.
+
+2. Fowler, M. (2002). *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional.
+
+3. Martin, R. C. (2017). *Clean Architecture: A Craftsman's Guide to Software Structure and Design*. Prentice Hall.
+
+4. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
+
+5. Nielsen, J., & Molich, R. (1990). *Heuristic Evaluation of User Interfaces*. CHI '90 Proceedings.
+
+6. Spring Framework Documentation. (2025). *Spring Boot Reference Documentation*. https://spring.io/projects/spring-boot
+
+7. Angular Documentation. (2025). *Angular - The Modern Web Framework*. https://angular.io/docs
+
+8. MySQL Documentation. (2025). *MySQL 8.0 Reference Manual*. https://dev.mysql.com/doc/
+
+9. OpenAPI Initiative. (2025). *OpenAPI Specification*. https://swagger.io/specification/
+
+10. OWASP Foundation. (2025). *OWASP Top 10 - Web Application Security Risks*. https://owasp.org/www-project-top-ten/
+
+11. Beck, K., et al. (2001). *Manifesto for Agile Software Development*. http://agilemanifesto.org/
+
+12. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. https://scrumguides.org/
+
+13. Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley Professional.
+
+14. Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*. Crown Business.
+
+15. Osterwalder, A., & Pigneur, Y. (2010). *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*. John Wiley & Sons.
