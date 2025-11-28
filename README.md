@@ -2261,47 +2261,35 @@ El diagrama de base de datos ilustra gráficamente cómo se relacionan las tabla
 
 ### 5.1.1. Software Development Environment Configuration.
 
-En este punto detallaremos todas las herramientas de software usadas para el desarrollo de nuestro proyecto:
+En esta sección se detallan todas las herramientas de software utilizadas para el desarrollo del proyecto DogiMax, organizadas por categorías según su propósito en el proyecto.
 
-Gestión del proyecto:
-
-- **WhatsApp**: [LINK WhatsApp](https://www.whatsapp.com)   
-  Usamos whatsapp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades.
-
-- **Discord**: [LINK Discord](https://discord.com/)  
-  Usamos discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revizamos el flujo de trabajo de cada miembro.
-
-Diseño UX/UI del Producto:
-
-- **Figma**: [LINK Figma](https://www.figma.com/es-es/)                                                                     
-   Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows.
-
-- **UXPressia**: [LINK UXPressia](https://uxpressia.com/)                                                                     
-   Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping.
-
-Software Development:
-
-- **Visual Studio Code**: [Mas informacion sobre Studio Code](https://code.visualstudio.com/)                                                                      
-   Es un entorno de desarrollo integral que facilita la creación de aplicaciones web utilizando HTML5 para la estructura, CSS para el diseño y JavaScript para la lógica de programación
-
-- **CSS**: [Mas informacion sobre CSS](https://developer.mozilla.org/es/docs/Web/CSS)                                                                      
-  Es un lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías.
-
-- **JavaScript**: [Mas informacion sobre JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)                                                                      
-  Se trata de un lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, y que además es compatible con frameworks y librerías como React, Angular o Vue.
-  
-- **HTML**: [Mas informacion sobre HTML](https://developer.mozilla.org/es/docs/Web/HTML)                                                                      
-  Es un lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos.
-
- Despliegue del software:
-
-- **GIT**: [LINK Git](https://git-scm.com/)                                                                      
-Es un sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de  software.
-
- Documentacion del proyecto:
-
-- **GitHub**: [LINK GitHub](https://github.com/)                                                                      
-  Es una plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo.
+| Producto | Propósito en el proyecto | Categoría | Ruta De descarga/acceso | Descripción |
+| :---- | :---- | :---- | :---- | :---- |
+| **OpenJDK** | Compilación de aplicaciones Java. | Software Development | https://openjdk.java.net/ | Implementación de código abierto del JDK (Java Development Kit), esencial para ejecutar y compilar aplicaciones Java en el backend. |
+| **Maven** | Automatización de compilación y gestión de proyectos Java. | Software Development | https://maven.apache.org/ | Herramienta de automatización de compilación y gestión de proyectos Java, ampliamente utilizada con Spring Boot para gestionar dependencias y builds. |
+| **Spring Boot** | Creación simplificada de aplicaciones backend y servicios REST. | Software Development | https://spring.io/projects/spring-boot | Framework que simplifica la creación de aplicaciones backend con Java, permitiendo levantar servicios REST de forma rápida y eficiente con arquitectura DDD. |
+| **Spring Data JPA** | Persistencia de datos y acceso a base de datos. | Software Development | https://spring.io/projects/spring-data-jpa | Framework que facilita la implementación de repositorios y acceso a datos mediante JPA, simplificando las operaciones con MySQL. |
+| **Spring Security** | Seguridad y autenticación en aplicaciones web. | Software Development | https://spring.io/projects/spring-security | Framework de seguridad que proporciona autenticación y autorización, incluyendo soporte para JWT en el backend. |
+| **MySQL 8.0** | Almacenamiento y administración de información para backend. | Software Development | https://dev.mysql.com/downloads/ | Sistema gestor de bases de datos relacional ampliamente usado para almacenar y administrar la información estructurada de aplicaciones backend. |
+| **Angular** | Desarrollo de aplicaciones web frontend. | Software Development | https://angular.io/ | Framework de desarrollo frontend basado en TypeScript, utilizado para crear la aplicación web con arquitectura de componentes y módulos. |
+| **Angular CLI** | Gestión del ciclo de vida de aplicaciones Angular. | Software Development | https://angular.io/cli | Interfaz de línea de comandos que permite generar componentes, servicios y manejar el ciclo de vida de una aplicación Angular. |
+| **TypeScript** | Desarrollo tipado para aplicaciones web. | Software Development | https://www.typescriptlang.org/ | Lenguaje de programación que extiende JavaScript con tipado estático, utilizado en el desarrollo frontend con Angular. |
+| **Node.js** | Entorno de ejecución para herramientas de desarrollo frontend. | Software Development | https://nodejs.org/ | Entorno de ejecución de JavaScript que permite ejecutar herramientas como Angular CLI, npm y otras utilidades de desarrollo. |
+| **Visual Studio Code** | Desarrollo web moderno (e.g., con Angular, TypeScript). | Software Development | https://code.visualstudio.com/ | IDE especializado en desarrollo web moderno, con soporte completo para Angular, TypeScript y otras tecnologías frontend y backend. |
+| **HTML5** | Estructura y organización del contenido de páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/HTML | Lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos. |
+| **CSS3** | Estilos y diseño visual de páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/CSS | Lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías. |
+| **JavaScript** | Interactividad y lógica en páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/JavaScript | Lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, compatible con frameworks como Angular. |
+| **Postman** | Prueba y documentación interactiva de APIs. | Software Development | https://www.postman.com/ | Plataforma para probar y documentar APIs de forma interactiva, ideal para validar endpoints desarrollados con Spring Boot. |
+| **OpenAPI (Swagger)** | Documentación interactiva de APIs REST. | Software Development | https://swagger.io/ | Herramienta para documentar APIs REST de forma estándar, generando documentación interactiva accesible mediante Swagger UI. |
+| **Git** | Control de versiones distribuido. | Software Development | https://git-scm.com/ | Sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de software. |
+| **GitHub** | Alojamiento de repositorios y colaboración. | Software Development | https://github.com/ | Plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo. |
+| **Netlify** | Despliegue y hosting de aplicaciones web frontend. | Software Development | https://www.netlify.com/ | Plataforma de hosting y despliegue continuo para aplicaciones web estáticas y dinámicas, utilizada para desplegar la aplicación Angular. |
+| **GitHub Pages** | Hosting estático para landing page. | Software Development | https://pages.github.com/ | Servicio de hosting estático que permite publicar sitios web directamente desde un repositorio de GitHub, utilizado para la landing page. |
+| **Figma** | Diseño UX/UI y creación de wireframes. | Product UX/UI Design | https://www.figma.com/ | Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows. |
+| **UXPressia** | Visualización de la experiencia del usuario. | Product UX/UI Design | https://uxpressia.com/ | Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema. Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping. |
+| **Lucidchart** | Planificación visual de software mediante diagramas. | Product UX/UI Design | https://www.lucidchart.com/ | Plataforma para crear diagramas de procesos, flujos y arquitecturas de sistema, facilitando la planificación visual del software. |
+| **WhatsApp** | Comunicación y coordinación del equipo. | Gestión del Proyecto | https://www.whatsapp.com/ | Usamos WhatsApp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades. |
+| **Discord** | Reuniones y comunicación del equipo. | Gestión del Proyecto | https://discord.com/ | Usamos Discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revisamos el flujo de trabajo de cada miembro. |
 
     
 ### 5.1.2. Source Code Management.
@@ -2325,54 +2313,164 @@ Develop: Es la rama principal de desarrollo en la que se integran y validan nuev
     
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Para garantizar la coherencia, la claridad y la calidad del código en el desarrollo tanto de la landing page como de la aplicación web, implementamos un conjunto de convenciones específicas para cada tecnología empleada.
+El mantenimiento de un estilo de código estandarizado y una arquitectura bien definida es esencial para la escalabilidad, mantenibilidad y colaboración efectiva en proyectos de desarrollo de software. En el proyecto DogiMax, se han adoptado prácticas de codificación y convenciones estructurales que aseguran calidad técnica, legibilidad y coherencia en todos los módulos del sistema, tanto del frontend como del backend, siguiendo lineamientos basados en estándares de la industria y metodologías modernas.
 
-- HTML:
+**Arquitectura y organización del sistema**
 
-  * Tipo de Documento: Cada archivo HTML inicia con <!DOCTYPE html> para garantizar que los navegadores lo interpreten correctamente.
-  * Uso del elemento <title>: El título de la página no se omite, ya que es importante para la accesibilidad.
-  * Formato de las etiquetas y atributos: Las etiquetas y atributos van en minuscula
-  * Verificacion de etiquetas: Se realiza una verificacion final de que todas las etiquetas esten cerradas correctamente para evitar errores
-  * Valores de atributos: Deben ir entre comillas dobles
-  * Adaptacion de imagenes: Usamos diferentes atributos como widht,alt,height para que las imagenes se adapte al tamaño correcto y sean accesibles
+Desde el punto de vista arquitectónico, se emplea una arquitectura basada en Domain-Driven Design (DDD), la cual permite organizar el sistema en bounded contexts claramente definidos. Este enfoque facilita la comprensión y comunicación entre desarrolladores, diseñadores, testers y stakeholders no técnicos. El sistema está organizado por bounded contexts, adoptando principios de DDD y Clean Architecture, permitiendo una separación clara entre las capas de presentación, aplicación, dominio e infraestructura. Esta separación fomenta la independencia entre módulos, facilita las pruebas automatizadas y reduce el acoplamiento entre componentes.
 
-- CSS :
+**Backend: Java + Spring Boot**
 
-  * Recursos externos: Por seguridad los recursos externos son cargados por https
-  * Atributos : Los atributos deben ir en comillas simples
-  * Reglas de puntuaciones y espacio: Las lineas terminan en punto y coma, ademas se debe dejar un especio al poner dos puntos y dentro de las llaves de los bloques
-  * Orden de las propiedades: En CSS para un mejor organizacion las propiedades van en orden alfabetico
-  * Abreviacion de propiedades: Por optimizacion se abrevian las propiedades, para tener un mejor codigo
-  * Minuscula en los estilos: Para tener un estilo uniforme se usa minuscula en propiedades,valores y selectores.
+En el backend, se utilizan las convenciones estándar de Java y Spring Boot. Las clases y enumeraciones siguen la convención PascalCase (como MascotaService, TipoCita), los métodos y variables usan camelCase (crearMascota, listaMascotas), y las constantes se definen con UPPER_SNAKE_CASE (MAX_TIMEOUT, DEFAULT_LANGUAGE). La organización de los paquetes se realiza por funcionalidad y bounded context (por ejemplo: controller, service, repository, domain, infrastructure), lo que permite una estructura coherente, alineada con el dominio del negocio. Además, se aplican principios SOLID, se promueve la inyección de dependencias mediante constructor y se emplean anotaciones estándar de Spring para configuración, seguridad y persistencia con JPA.
+
+**Frontend: Angular**
+
+En el frontend, se utiliza Angular como framework principal. La arquitectura está basada en módulos y componentes reutilizables, con una estructura generada por el Angular CLI (ng generate component, ng generate module, etc.). Las clases utilizan PascalCase (MascotaDetailComponent) y los archivos se nombran en kebab-case (mascota-detail.component.ts). Se aplican prácticas recomendadas como:
+
+- Detección de cambios con OnPush para optimizar el rendimiento.
+- Separación entre lógica y presentación mediante servicios y componentes.
+- Programación reactiva con RxJS para manejo de datos asíncronos.
+- Inyección de dependencias vía constructor.
+- Lazy loading de módulos para optimizar la carga inicial de la aplicación.
+
+**Estructura y Formato del Código**
+
+**DOCTYPE y Estructura HTML:** El código inicia con `<!DOCTYPE html>` y sigue una estructura básica de HTML5 con las etiquetas `<html>`, `<head>` y `<body>`, lo cual es una práctica estándar.
+
+**Meta Etiquetas:** La sección `<head>` incluye diversas metaetiquetas esenciales para la configuración del documento, SEO y presentación en redes sociales (Open Graph, Twitter Card), alineadas con los objetivos de implementación de meta etiquetas del proyecto.
+
+**Enlaces a Recursos Externos:** Los archivos CSS externos y las fuentes de Google Fonts se enlazan en la sección `<head>`, mientras que los archivos JavaScript se enlazan al final del `<body>`. Esta organización es común para gestionar dependencias y optimizar el tiempo de carga.
+
+**HTML5 Semántico:** Se utilizan elementos semánticos de HTML5 como `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, y `<footer>`, lo que mejora la estructura y la accesibilidad de la página.
+
+**Indentación:** El código presenta una indentación consistente (2 espacios), lo cual facilita su lectura y comprensión.
+
+**Convenciones de Nomenclatura (Inglés)**
+
+**Nombres de Archivo:** Los nombres de los archivos CSS y JS enlazados están en inglés y utilizan minúsculas con guiones (kebab-case), una convención recomendada en desarrollo web.
+
+**Nombres de Clases CSS:** Los nombres de las clases CSS son descriptivos y están en inglés, utilizando kebab-case para mantener consistencia.
+
+**IDs:** Los IDs también están en inglés y siguen convenciones de formato kebab-case.
+
+**Atributos alt de Imágenes:** Los atributos alt para las imágenes proporcionan texto descriptivo en inglés, lo cual es crucial para la accesibilidad, un aspecto importante del proyecto junto con los atributos ARIA.
+
+**Alineación con Guías de Estilo Estándar**
+
+La estructura y la nomenclatura observadas en el código siguen prácticas establecidas para mejorar la mantenibilidad y la colaboración en proyectos de desarrollo. La aplicación del inglés para la nomenclatura es una implementación directa de la convención definida, facilitando la colaboración internacional y el mantenimiento del código.
+
+**JavaScript moderno**
+
+En los módulos JavaScript, se aplica el estándar ECMAScript 6+ utilizando `const` y `let`, funciones flecha `(() => {})`, desestructuración, promesas, módulos `import/export` y métodos de arrays como `map`, `filter` y `reduce`. Se evita el uso de código imperativo y se promueve la inmutabilidad y la programación funcional.
+
+**TypeScript en Angular**
+
+Para el desarrollo frontend con Angular, se utiliza TypeScript como lenguaje principal. Se aplican las siguientes convenciones:
+
+- Interfaces y tipos con PascalCase (Mascota, Cita).
+- Variables y funciones con camelCase (mascotaId, obtenerMascotas).
+- Constantes con UPPER_SNAKE_CASE (API_BASE_URL).
+- Tipado estricto para mejorar la seguridad de tipos y detectar errores en tiempo de compilación.
+
+**Control de versiones y colaboración**
+
+Para la gestión de versiones se implementa GitFlow, con ramas específicas para desarrollo (develop), producción (main), nuevas funcionalidades (feature/), correcciones (fix/) y lanzamientos (release/). Esto permite flujos de trabajo paralelos sin comprometer la estabilidad. Se emplea también Conventional Commits, una convención que estandariza los mensajes de commit y facilita la generación automática de changelogs. Los mensajes siguen la sintaxis: `tipo(scope): descripción`, por ejemplo, `feat(mascotas): add CRUD endpoints` o `fix(citas): correct date validation`.
 
     
 ### 5.1.4. Software Deployment Configuration.
 
-* Ilustracion Github Software Deployment Configuration 1
+El despliegue del proyecto DogiMax se realiza mediante diferentes plataformas según el tipo de aplicación, garantizando disponibilidad, escalabilidad y facilidad de mantenimiento. A continuación se detalla el proceso de configuración y despliegue para cada componente del sistema.
+
+**Despliegue de la Landing Page (GitHub Pages)**
+
+Para la landing page desarrollada durante el Sprint 1, se utilizó GitHub Pages como plataforma de hosting estático. El proceso de despliegue se realiza directamente desde el repositorio de GitHub, donde se configura la rama principal (main) como fuente para el sitio web. GitHub Pages permite publicar sitios web estáticos directamente desde un repositorio de GitHub, facilitando el despliegue continuo y la actualización automática cuando se realizan cambios en la rama configurada.
+
+**Configuración del despliegue en GitHub Pages:**
+
+1. Acceso a la configuración del repositorio en GitHub.
+2. Navegación a la sección "Pages" en el menú de configuración.
+3. Selección de la rama fuente (main) y directorio raíz (/) para el despliegue.
+4. Activación del despliegue automático, que genera una URL pública accesible.
+
+La landing page queda disponible en: `https://reignite-dogimax.github.io/landing/`
+
+**Despliegue de la Aplicación Web Frontend (Netlify)**
+
+Para la aplicación web desarrollada con Angular durante el Sprint 2, se utilizó Netlify como plataforma de hosting y despliegue continuo. Netlify permite desplegar aplicaciones web estáticas y dinámicas con facilidad, ofreciendo integración directa con GitHub para despliegues automáticos.
+
+**Configuración del despliegue en Netlify:**
+
+1. **Importación del repositorio:** Se conecta el repositorio de GitHub con Netlify, seleccionando el repositorio correspondiente a la aplicación web.
+
+2. **Configuración del build:** Se especifican los comandos de construcción:
+   - Build command: `npm run build` o `ng build --configuration production`
+   - Publish directory: `dist/dogimax-app` (directorio de salida de Angular)
+
+3. **Variables de entorno:** Se configuran las variables de entorno necesarias para la aplicación, como URLs de API y configuraciones específicas del entorno.
+
+4. **Despliegue automático:** Netlify detecta automáticamente los cambios en la rama principal (main) o develop, ejecutando el proceso de build y despliegue.
+
+5. **Dominio personalizado (opcional):** Se puede configurar un dominio personalizado vinculado al proyecto.
+
+La aplicación web queda disponible en: `https://dogimax.netlify.app/`
+
+**Despliegue del Backend/Web Service (Spring Boot)**
+
+Para el backend desarrollado con Spring Boot durante el Sprint 3, se preparó la configuración para despliegue en un servidor de aplicaciones compatible con Spring Boot. El backend está configurado para ejecutarse en un entorno de producción con las siguientes características:
+
+**Configuración del despliegue del backend:**
+
+1. **Perfiles de aplicación:** Se configuran diferentes perfiles (development, production) mediante `application.properties` y `application.yml`, permitiendo diferentes configuraciones según el entorno.
+
+2. **Base de datos MySQL:** Se configura la conexión a MySQL 8.0 con credenciales y configuración específica para el entorno de producción.
+
+3. **Variables de entorno:** Se establecen variables de entorno para configuración sensible como:
+   - Credenciales de base de datos
+   - Claves JWT
+   - URLs de servicios externos
+
+4. **Build y empaquetado:** El proyecto se compila utilizando Maven, generando un archivo JAR ejecutable que contiene todas las dependencias necesarias.
+
+5. **Despliegue en servidor:** El JAR se despliega en un servidor de aplicaciones compatible con Spring Boot, configurando el puerto, contexto de aplicación y otras opciones según las necesidades del entorno.
+
+**Proceso de despliegue continuo:**
+
+- **Integración con GitHub:** Los cambios en la rama develop o main pueden activar automáticamente el proceso de build y despliegue.
+- **Build logs:** Se registran los logs del proceso de compilación, incluyendo la instalación de dependencias, compilación del código y empaquetado.
+- **Deployment summary:** Se muestra un resumen del despliegue con resultados de compilación, tiempos de ejecución y estado final.
+- **Cache de build:** Se utiliza cache para acelerar compilaciones futuras, almacenando dependencias y artefactos compilados.
+
+**Evidencia del proceso de despliegue:**
+
+A continuación se presentan las capturas de pantalla que ilustran el proceso de configuración y despliegue:
+
+* Ilustración GitHub Software Deployment Configuration 1
 
 <img src="assets/Software_Deployment_Configuration_1.png" />
 
-* Ilustracion Github Software Deployment Configuration 2
+* Ilustración GitHub Software Deployment Configuration 2
 
 <img src="assets/Software_Deployment_Configuration_2.png" />
 
-
-* Ilustracion Github Software Deployment Configuration 3
+* Ilustración GitHub Software Deployment Configuration 3
 
 <img src="assets/Software_Deployment_Configuration_3.png" />
 
-
-* Ilustracion Github Software Deployment Configuration 4
+* Ilustración GitHub Software Deployment Configuration 4
 
 <img src="assets/Software_Deployment_Configuration_4.png" />
 
-* Ilustracion Github Software Deployment Configuration 5
+* Ilustración GitHub Software Deployment Configuration 5
 
 <img src="assets/Software_Deployment_Configuration_5.png" />
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+
+Esta sección documenta la implementación de la landing page, servicios y aplicaciones del proyecto DogiMax, una plataforma integral para la gestión del cuidado de perros. El trabajo abarcó desde la estructura y el diseño visual hasta funcionalidades esenciales como la responsividad, gestión de mascotas, agendamiento de citas y la implementación del backend con arquitectura Domain-Driven Design. A continuación, se detallan la planificación, el backlog ejecutado, la evidencia de desarrollo y los aspectos de colaboración de cada sprint.
     
 ## 5.2.1. Sprint 1
+
+La implementación de la landing page de la plataforma DogiMax, estableciendo la presencia inicial y los puntos de contacto clave para los usuarios. El trabajo abarcó desde la estructura y el diseño visual hasta funcionalidades esenciales como la responsividad, internacionalización y accesibilidad. A continuación, se detallan la planificación, el backlog ejecutado, la evidencia de desarrollo y los aspectos de colaboración.
     
 ### 5.2.1.1. Sprint Planning 1.
 
@@ -2439,7 +2537,13 @@ Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 
     
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Esta sección presenta la evidencia visual de la ejecución y funcionamiento de la landing page desarrollada durante el Sprint 1. Las capturas de pantalla muestran las diferentes secciones y funcionalidades implementadas, incluyendo el diseño visual, la estructura de la página, los elementos interactivos y la experiencia de usuario final. Esta evidencia demuestra que la landing page fue completada exitosamente y está lista para su despliegue y uso.
+Durante el Sprint 1 del proyecto DogiMax se logró implementar la estructura base de la landing page, enfocándose en una experiencia accesible, responsiva e informativa. El equipo desarrolló y conectó los principales puntos de navegación mediante un header funcional con enlaces activos y un footer informativo con accesos a secciones clave.
+
+También se integró exitosamente la funcionalidad de cambio de idioma, permitiendo al usuario seleccionar su idioma preferido y conservar esta configuración durante su navegación. Se garantizaron criterios de accesibilidad a través de etiquetas ARIA, descripciones en imágenes y navegación por teclado.
+
+Además, se diseñaron y habilitaron secciones como Propuesta de Valor, Información de la Empresa, Preguntas Frecuentes (FAQ), Equipo y enlaces a redes sociales, incluyendo soporte visual responsivo para dispositivos móviles.
+
+A continuación, se presentan capturas de las vistas más relevantes implementadas en este Sprint.
 
 <img src="assets/evidence-LandingPage1.png" />
 
@@ -2465,9 +2569,13 @@ El entregable desarrollado durante el sprint 1 fue desplegado en un entorno acce
     
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-El equipo trabajó en la landing page utilizando ramas separadas para desarrollar cada historia de usuario asignada al sprint. Una vez completado el desarrollo, se procedió con las validaciones necesarias antes del despliegue de la aplicación.
+Durante el Sprint 1 del proyecto DogiMax, las actividades de implementación se organizaron en torno al desarrollo de la landing page. Cada uno de los miembros del equipo participó activamente en el desarrollo de los entregables asignados, garantizando una distribución equilibrada del esfuerzo técnico.
 
-Además, en la documentación se refleja el proceso correcto seguido por el grupo.
+La implementación se llevó a cabo mediante la creación e integración de diversos componentes y estilos. Inicialmente, se abordó la estructura visual y la responsiveness del sitio a través de la implementación de Cascading Style Sheets (CSS) para distintas secciones clave. Esto aseguró una presentación adecuada en diferentes dispositivos.
+
+Posteriormente, se procedió a la incorporación de contenido esencial, estableciendo la estructura básica y la forma en que se mostraría la información. Para mejorar la experiencia visual, se integraron diversos elementos gráficos e imágenes representativas.
+
+La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales y pull requests. A continuación, se detalla el enfoque de participación por producto:
 
 A continuación se presentan los aportes y evidencias del trabajo grupal de los miembros.
 
@@ -2482,6 +2590,8 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 <img src="assets/read-Network.png">
 
 ### 5.2.2. Sprint 2
+
+Continuando con el desarrollo del proyecto DogiMax, el Sprint 2 se enfocó en expandir las funcionalidades de la aplicación web, introduciendo la estructura de navegación interna, las herramientas de gestión de mascotas y el agendamiento de citas médicas. Este ciclo iterativo avanzó sobre las bases sentadas en el sprint anterior, comenzando a dar forma a la experiencia interactiva del usuario dentro de la plataforma. A continuación, se detallan los componentes de este sprint.
 
 ### 5.2.2.1. Sprint Planning 2
 
@@ -2538,9 +2648,16 @@ En este segundo Sprint, hemos realizado la implementación de nuestra aplicació
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Esta sección presenta la evidencia visual de la ejecución y funcionamiento de la aplicación web desarrollada durante el Sprint 2. Las capturas de pantalla muestran las diferentes vistas y funcionalidades implementadas, incluyendo el dashboard principal, la gestión de perfiles de mascotas, el agendamiento de citas médicas, la visualización de notificaciones y la navegación entre diferentes secciones de la aplicación. Esta evidencia demuestra que la aplicación web fue completada exitosamente y está lista para su despliegue y validación con usuarios.
+En el Sprint 2 hemos logrado implementar y visualizar las siguientes funcionalidades clave en la aplicación web de DogiMax:
 
-En este segundo Sprint realizamos la implementación de la primera versión funcional de nuestra aplicación web.
+- Navegación interna completa mediante el sidebar responsivo, toolbar fijo y enrutamiento lazy-loaded.
+- Gestión de perfiles de mascotas: creación, edición, visualización de detalles e historial de salud.
+- Agendamiento de citas médicas: formulario de creación, visualización de citas programadas e historial.
+- Dashboard principal con resumen de mascotas y próximas citas.
+- Sistema de notificaciones para alertas importantes (vacunas, citas).
+- Configuración de preferencias de notificaciones del usuario.
+
+A continuación se muestran capturas de pantalla de las vistas más representativas implementadas durante este sprint:
 
 ![evidence-frontend 1.png](assets/evidence-frontend%201.png)
 
@@ -2554,7 +2671,23 @@ En este segundo Sprint realizamos la implementación de la primera versión func
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-No se emplearon servicios externos adicionales, ya que este segundo Sprint se centró exclusivamente en la implementación del frontend y el backend de la primera versión de la aplicación web utilizando nuestro stack tecnológico principal (HTML, CSS, JavaScript) y las herramientas de desarrollo definidas en la configuración.
+Durante el Sprint 2, el foco del desarrollo estuvo centrado exclusivamente en la implementación de la interfaz gráfica del sistema, particularmente en el diseño, maquetación y despliegue funcional de la aplicación web frontend. En esta etapa, no se desarrollaron aún servicios de backend ni endpoints de API RESTful, por lo cual no corresponde documentación técnica de servicios para este Sprint.
+
+**Estado actual:**
+- No se han implementado controladores (controllers) ni servicios de aplicación (application services).
+- No se han definido endpoints HTTP ni documentación Swagger u OpenAPI.
+- No se han activado microservicios ni lógica de negocio en la capa backend.
+- El proyecto se encuentra en etapa de diseño visual, componentes frontend y diseño responsivo.
+
+**Justificación:**
+El enfoque del Sprint 2 responde a las épicas relacionadas con la gestión de mascotas, agendamiento de citas y dashboard, las cuales inicialmente no requieren integración con lógica de negocio backend. La implementación de servicios comenzó a partir del Sprint 3, con la activación del backend y el diseño de los primeros flujos funcionales del dominio siguiendo arquitectura DDD.
+
+**Próximos pasos:**
+A partir del Sprint 3, se documentarán:
+- Interfaces REST y contratos de servicios (MascotaService, CitaService, etc.).
+- Especificaciones OpenAPI (Swagger) para endpoints públicos y protegidos.
+- Diagrama de Componentes mostrando la relación entre servicios.
+- Integración de pruebas Postman o herramientas similares para validación.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2574,8 +2707,21 @@ URL de despliegue: https://dogimax.netlify.app/
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarrollo de la aplicación web. Se mantuvo la metodología de trabajo del Sprint 1, utilizando GitHub para la gestión del código fuente, con ramas específicas para cada User Story. La comunicación fluyó constantemente a través de Discord para reuniones de sincronización y WhatsApp para consultas rápidas.
+Durante el Sprint 2, el equipo mantuvo un nivel de colaboración constante y equilibrado en todas las capas de la solución (Frontend). A continuación se describen las principales prácticas y métricas de colaboración:
 
+**Navegación y Layout de la Plataforma:** Se trabajó en la estructura de navegación a través del sidebar, implementando un componente responsive. También se abordaron acciones desde la toolbar, el enrutamiento dinámico en el cuerpo principal, la visualización del enrutamiento activo, estilos para el estado activo, y la manipulación del layout en diferentes breakpoints.
+
+**Gestión de Mascotas:** Se realizaron diversas tareas relacionadas con la visualización y gestión de perfiles de mascotas. Esto incluyó la creación de vistas para listar mascotas, formularios unificados para crear y editar perfiles, y vistas de detalle para consultar información específica e historial.
+
+**Agendamiento de Citas:** Se implementaron funcionalidades para consultar citas programadas e historial, así como formularios para agendar nuevas citas médicas con validación de fecha, hora y motivo.
+
+**Dashboard y Notificaciones:** Se creó el componente Home con resumen de mascotas y próximas citas, se implementaron vistas para mostrar alertas importantes, y se desarrolló la configuración de preferencias de notificaciones del usuario.
+
+**Integración de Datos:** Se documentaron y crearon endpoints mock (JSON) para operaciones de mascotas y citas, facilitando el desarrollo frontend sin depender inicialmente del backend.
+
+**Navegación del Sistema:** Se implementaron todas las rutas de navegación, lazy-loading de módulos, y Navigation Guards para proteger rutas según autenticación.
+
+La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales y pull requests. A continuación se presentan las evidencias del trabajo colaborativo:
 
 * Frontend
 
@@ -2585,7 +2731,7 @@ Durante este Sprint, el equipo ha colaborado de manera intensiva en el desarroll
 
 ### 5.2.3. Sprint 3
 
-### 5.2.3.1. Sprint Planning 3
+Continuando con el desarrollo del proyecto DogiMax, el Sprint 3 se enfoca en reforzar los aspectos de seguridad, implementar el backend robusto y optimizar la gestión de datos mediante una arquitectura Domain-Driven Design. Este sprint avanza sobre las bases establecidas en iteraciones anteriores, priorizando la protección de datos, la arquitectura escalable y una experiencia de usuario más fluida mediante la integración del backend con el frontend.
 
 Esta sección documenta la planificación del tercer sprint del proyecto DogiMax, enfocado en el desarrollo del backend de la aplicación utilizando Spring Boot y arquitectura Domain-Driven Design (DDD). Durante esta fase, el equipo estableció los objetivos para construir y desplegar la API RESTful que reemplazaría la API simulada del frontend, implementando bounded contexts críticos como IAM (Identity and Access Management) y Gestión de Mascotas. La planificación incluyó la definición del stack tecnológico (Java 21, Spring Boot, MySQL, JWT), la asignación de roles en los diferentes bounded contexts y la estimación de historias de usuario relacionadas con la autenticación y gestión de datos.
 
@@ -2714,6 +2860,12 @@ El backend está preparado para ser desplegado en un servidor de aplicaciones co
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 Durante el Sprint 3, el equipo Reignite implementó funcionalidades clave del Web Service relacionadas a los módulos IAM (Identity and Access Management), Gestión de Mascotas, Appointments y Notification, respetando la arquitectura DDD y garantizando la calidad de los endpoints generados. La colaboración del equipo se reflejó en el uso efectivo de ramas feature, commits significativos y merge requests bien documentadas. Cada miembro contribuyó en diferentes niveles de desarrollo, según su rol como líder o colaborador en los bounded contexts asignados.
+
+La implementación se llevó a cabo mediante la creación e integración de diversos componentes backend siguiendo principios de Domain-Driven Design. Inicialmente, se abordó la configuración de la base de datos y la estructura base del proyecto. Posteriormente, se procedió a la implementación de los bounded contexts críticos, comenzando con IAM para la autenticación y autorización, seguido de Gestión de Mascotas con operaciones CRUD completas.
+
+Para mejorar la calidad y mantenibilidad del código, se implementó el módulo Shared con clases base y configuraciones de seguridad, permitiendo la reutilización de código entre bounded contexts. Se estableció la estructura base para los bounded contexts de Appointments y Notification, preparando el terreno para implementaciones futuras.
+
+La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales siguiendo Conventional Commits, y pull requests con descripciones detalladas. A continuación, se detallan las contribuciones individuales de cada miembro:
 
 **Brayan Roberto Ccarita Cruz (hallzyx)**
 
