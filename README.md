@@ -2867,6 +2867,47 @@ Para mejorar la calidad y mantenibilidad del código, se implementó el módulo 
 
 La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales siguiendo Conventional Commits, y pull requests con descripciones detalladas. A continuación, se detallan las contribuciones individuales de cada miembro:
 
+### 5.2.4. Sprint 4
+
+Continuando con el desarrollo del proyecto DogiMax, el Sprint 4 se centra en integrar, validar y consolidar todas las funcionalidades implementadas en iteraciones anteriores. En esta etapa, el equipo enfoca sus esfuerzos en asegurar un flujo de usuario completamente funcional —desde el registro y autenticación hasta la interacción y gestión de recursos— garantizando que el sistema se comporte correctamente en un entorno real.
+
+Este sprint se orienta a unir el frontend con el backend de forma definitiva, validar los módulos desarrollados (como Appointments y Notifications), optimizar el rendimiento general de la aplicación y establecer las bases para un despliegue estable. Además, se ejecutan pruebas automatizadas para asegurar la calidad del producto y se preparan las condiciones necesarias para una experiencia integral y fluida en DogiMax.
+
+---
+
+### 5.2.4.1. Sprint Planning 4
+
+|             Sprint #              |                                                                                              Sprint 4                                                                                              |
+|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Sprint Planning Background     |                                                                                                                                                                                                    |
+|                Date                |                                                                                              28 de noviembre del 2025                                                                                              |
+|                Time                |                                                                                                      17:00                                                                                                        |
+|              Location              |                                                                                                       Remoto                                                                                                       |
+|            Prepared By             |                                                                                         Leonardo Manuel Dueñas Canales                                                                                        |
+|  Attendees (to planning meeting)   |                                                        Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel, Joseph Manuel Chavez Viera                                                        |
+| Sprint n – 3 Retrospective Summary | El Sprint 3 logró implementar el backend completo utilizando Spring Boot y arquitectura Domain-Driven Design, habilitando la API RESTful real e integrando bounded contexts clave como IAM y Gestión de Mascotas. Con esta base sólida, el equipo identificó la necesidad de conectar el backend con el frontend, validar los módulos de citas y notificaciones, optimizar el rendimiento y asegurar un flujo integral para el usuario. |
+|             Tech Stack             |                                                     Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, React, Vite, Cypress, Docker, Netlify                                                      |
+|     Sprint Goal & User Stories     |                                                                                                                                                                                                    |
+|            Sprint Goal             | Consolidar un flujo real de usuario **(registro → login → interacción → gestión)** mediante la integración completa del backend y frontend, validando los módulos ya implementados (appointments y notifications), ejecutando QA testing automatizado, optimizando el rendimiento e implementando un despliegue estable y funcional de DogiMax. |
+|     Sum of Story Points (Sprint 4) |                                                                                                      30                                                                                                       |
+|        Sprint 4 Velocity           |                                                                                                      34                                                                                                       |
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 3, identificando a los líderes y colaboradores en los diferentes bounded contexts del backend. La asignación de roles se basó en las áreas de especialización y experiencia de cada miembro, cubriendo aspectos como el bounded context de IAM (autenticación y autorización), Gestión de Mascotas, Appointments, Notification, y el módulo Shared junto con el despliegue de la API. Esta organización permitió un trabajo paralelo eficiente siguiendo los principios de Domain-Driven Design y aseguró la calidad de cada bounded context.
+
+| Team Member | GitHub Username | IAM Bounded Context (L) / (C) | Gestión de Mascotas Bounded Context (L) / (C) | Appointments Bounded Context (L) / (C) | Notification Bounded Context (L) / (C) | Shared & API Deployment (L) / (C) | 
+| :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
+| Brayan Roberto Ccarita Cruz |  hallzyx  | L                             | -                                             | L                                      | -                                      | L                                 |
+| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                             | L                                             | -                                      | -                                      | C                                 | 
+| Juan Saldaña | jndesouza  | -                             | -                                             | C                                      | L                                      | -                                 |
+| Dueñas Canales Leonardo Manuel |  Insonnio | -                             | -                                             | -                                      | C                                      | -                                 | 
+
+
+### 5.2.4.3. Sprint Backlog 4.
+
+
+
 **Brayan Roberto Ccarita Cruz (hallzyx)**
 
 Rol en Web Service: Líder en IAM Bounded Context, Appointments Bounded Context y Shared & API Deployment.
