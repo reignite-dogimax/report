@@ -2867,6 +2867,47 @@ Para mejorar la calidad y mantenibilidad del código, se implementó el módulo 
 
 La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales siguiendo Conventional Commits, y pull requests con descripciones detalladas. A continuación, se detallan las contribuciones individuales de cada miembro:
 
+**Brayan Roberto Ccarita Cruz (hallzyx)**
+
+Rol en Web Service: Líder en IAM Bounded Context, Appointments Bounded Context y Shared & API Deployment.
+
+Contribuciones destacadas:
+- Implementación y validación de endpoints de autenticación (sign-up y sign-in) con JWT.
+- Configuración de Spring Security y reglas de contraseña para el sistema de autenticación.
+- Configuración de OpenAPI (Swagger) para documentación de la API.
+- Configuración de la conexión a la base de datos MySQL y application.properties.
+- Creación de la estructura base (esqueleto) para el bounded context Appointments.
+- Liderazgo en el despliegue y configuración del módulo Shared con clases base y configuración de seguridad.
+
+**Juan David Saldaña De Souza (jndesouza)**
+
+Código: U20221F192  
+Carrera: Ingeniería de software
+
+Rol en Web Service: Líder en Notification Bounded Context y colaborador en Appointments Bounded Context.
+
+Contribuciones destacadas:
+- Creación de la estructura base (esqueleto) para el bounded context Notification siguiendo arquitectura DDD.
+- Implementación de la estructura DDD para el contexto de gestión de notificaciones.
+- Colaboración en la creación de la estructura base para el bounded context Appointments.
+- Desarrollo de la arquitectura de dominio para el sistema de notificaciones.
+
+**Joseph Manuel Chavez Viera (u202314019-MrOsoPanda)**
+
+Código: U202314019  
+Carrera: Ingeniería de Software
+
+Rol en Web Service: Líder en Gestión de Mascotas Bounded Context, colaborador en IAM Bounded Context y Shared & API Deployment.
+
+Contribuciones destacadas:
+- Implementación completa del agregado Mascota en el dominio (DDD).
+- Desarrollo de endpoints CRUD para gestión de mascotas (POST, GET, PUT, DELETE).
+- Implementación de servicios de query (CQRS) para obtener mascotas por usuario.
+- Creación del módulo shared con clases base y configuración de seguridad.
+- Implementación y validación de endpoints para operaciones de mascotas.
+
+![Team Collaboration Insights during Sprint.png](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+
 ### 5.2.4. Sprint 4
 
 Continuando con el desarrollo del proyecto DogiMax, el Sprint 4 se centra en integrar, validar y consolidar todas las funcionalidades implementadas en iteraciones anteriores. En esta etapa, el equipo enfoca sus esfuerzos en asegurar un flujo de usuario completamente funcional —desde el registro y autenticación hasta la interacción y gestión de recursos— garantizando que el sistema se comporte correctamente en un entorno real.
