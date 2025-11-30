@@ -397,11 +397,11 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 | Alumno | Descripción | Foto |
 |--------|-------------|------|
-| Brayan Roberto Ccarita Cruz <br/> Código: <br/> Carrera: | Apasionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](file:///C:/Users/PC-%20Usuario/report/images/member_u20221c218.png) |
-| Bryan Félix Martínez Ramos <br/> Código: u202316246 <br/> Carrera: Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Bryan.png) |
-| Juan David Saldaña De Souza <br/> Código: U20221F192 <br/> Carrera: Ingeniería de software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Juan_profile.jpeg) |
-| Joseph Manuel Chavez Viera <br/> Código: U202314019 <br/> Carrera: Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera disposición al desarrollo del proyecto. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Joseph.jpeg) |
-| Dueñas Canales Leonardo Manuel <br/> Código: U202117475 <br/> Carrera: Ingeniería de software | | ![img](file:///C:/Users/PC-%20Usuario/report/images/image.png) |
+| Brayan Roberto Ccarita Cruz <br/> Código: <br/> Carrera: | Apasionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](images/member_u20221c218.png) |
+| Bryan Félix Martínez Ramos <br/> Código: u202316246 <br/> Carrera: Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](images/Bryan.png) |
+| Juan David Saldaña De Souza <br/> Código: U20221F192 <br/> Carrera: Ingeniería de software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](images/Juan_profile.jpeg) |
+| Joseph Manuel Chavez Viera <br/> Código: U202314019 <br/> Carrera: Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera disposición al desarrollo del proyecto. | ![img](images/Joseph.jpeg) |
+| Dueñas Canales Leonardo Manuel <br/> Código: U202117475 <br/> Carrera: Ingeniería de software | | ![img](images/image.png) |
 
 ## 1.2. Solution Profile
 
@@ -576,7 +576,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 1:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%201.png)
+![img](images/Segmento1-Entrevista%201.png)
 
 **Nombre: Eduardo Alonso Rojas Torres**
 
@@ -595,7 +595,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 2:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%202.png)
+![img](images/Segmento1-Entrevista%202.png)
 
 **Nombre: Frank Gen Saldaña Kannan**
 
@@ -610,7 +610,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 3:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%203.png)
+![img](images/Segmento1-Entrevista%203.png)
 
 **Nombre: Janet Linda Ramos Gomez**
 
@@ -631,7 +631,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 1:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento%202%20-%20Entrevista%201.png)
+![img](images/Segmento%202%20-%20Entrevista%201.png)
 
 **Nombre: Fabrizio Chong.**
 
@@ -841,12 +841,12 @@ Las User Personas representaron a los usuarios clave del sistema: Eduardo, un du
 Veterinario:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong.png)
+![img](images/Fabricio_Chong.png)
 
 Cuidador de Perros:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo_Torres.png)
+![img](images/Eduardo_Torres.png)
 
 ### 2.3.2. User Task Matrix.
 La User Task Matrix mapea las tareas clave que los usuarios realizan al interactuar con la plataforma. Se identifican tareas como la gestión de citas médicas, el seguimiento de la salud de los perros y la consulta de recomendaciones personalizadas. Estas tareas se analizan para determinar cómo los usuarios interactúan con la plataforma, la frecuencia con que realizan cada tarea y los beneficios que obtienen de ella.
@@ -868,12 +868,12 @@ El User Journey Mapping describe cómo los usuarios, Eduardo y Fabricio, interac
 Veterinario:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Journey%20_Fabricio.png)
+![img](images/Journey%20_Fabricio.png)
 
 Cuidador de Perros:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Journey_Eduardo.png)
+![img](images/Journey_Eduardo.png)
 
 ### 2.3.4. Empathy Mapping.
 
@@ -881,13 +881,13 @@ En el Empathy Mapping, se busca entender profundamente las emociones, pensamient
 Veterinario:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio.png)
+![img](images/Fabricio.png)
 
 
 Cuidador de Perros:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo.png)
+![img](images/Eduardo.png)
 
 
  ###  2.3.5. As-is Scenario Mapping.
@@ -897,13 +897,13 @@ El As-is Scenario Mapping describe cómo los usuarios gestionan actualmente el c
 Veterinario:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_VETERINARIOS.png)
+![img](images/AS_IS_VETERINARIOS.png)
 
 
 Cuidador de Perros:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_Due%C3%B1os_de_Perros.png)
+![img](images/AS_IS_Due%C3%B1os_de_Perros.png)
 
 ###  2.4. Ubiquitous Language.
 
@@ -924,11 +924,11 @@ En el To-Be Scenario Mapping, se describe la situación ideal después de la imp
 
 Veterinario:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_VETERINARIOS.png)
+![img](images/TO_BE_VETERINARIOS.png)
 
 Cuidador de Perros:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_DUE%C3%91O_DE_PERROS.png)
+![img](images/TO_BE_DUE%C3%91O_DE_PERROS.png)
 
 ###  3.2. User Stories.
 
@@ -994,12 +994,12 @@ El Impact Mapping conecta las funcionalidades del sistema con los resultados que
 Veterinario:
 
 
- ![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong%20_impact_map.png)
+![img](images/Fabricio_Chong%20_impact_map.png)
 
 Cuidador de Perros:
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/IMPACT_Due%C3%B1o_de_Perro.png)
+![img](images/IMPACT_Due%C3%B1o_de_Perro.png)
 
 ### 3.4. Product Backlog.
 
@@ -1041,7 +1041,7 @@ Las Style Guidelines de DogiMax son un conjunto de principios visuales y comunic
 ** Nombre de marca:  ** DogiMax
 Un nombre que fusiona "Dogi" (relacionado con los perros) y "Max" (máximo, lo mejor), reflejando nuestro enfoque en ofrecer el mejor cuidado posible para las mascotas.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Logo.png)
+![img](images/Logo.png)
 
 ** Misión: **
 Brindar a los dueños de perros una plataforma digital que centralice todas las tareas relacionadas con el cuidado de sus mascotas, desde citas médicas hasta recomendaciones personalizadas basadas en IA para mejorar la salud y bienestar de los perros.
@@ -1055,13 +1055,13 @@ Ser la plataforma líder en gestión del cuidado de perros, proporcionando herra
 -	** Color de Texto: **
 #2C3E50 para texto primario sobre fondos claros y #FFFFFF sobre fondos oscuros, para garantizar la legibilidad y un contraste adecuado.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Colors.png)
+![img](images/Colors.png)
 
 -	 Color de Botones:
 - Botones primarios: #FF6B1A (Naranja).
 - Botones secundarios: Fondo transparente con borde en #FF6B1A para mantener consistencia con la paleta de colores.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Buttons.png)
+![img](images/Buttons.png)
   
 ** Tipografía: ** 
 La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se han definido los siguientes estilos:
@@ -1074,9 +1074,9 @@ La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se
 - **Texto técnico:** Roboto Mono – 14pxTono de comunicación: 
 Profesional y cercano, con un enfoque técnico pero accesible para todos los dueños de perros, utilizando un lenguaje claro, amigable y entusiasta.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/1.png)
+![img](images/1.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/2.png)
+![img](images/2.png)
 
 
 #### 4.1.2. Web Style Guidelines
@@ -1179,80 +1179,80 @@ Citas|DogiMax - Citas Médicas|Agenda y consulta todas las citas médicas de tus
 ### 4.3.1. Landing Page Wireframe
 El wireframe de la página de aterrizaje está diseñado para ser simple y directo. En la parte superior se encuentra la barra de navegación con enlaces a las secciones principales: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil. En el centro, se destacan los botones de llamada a la acción (CTA), como Registrarse o Iniciar sesión. La página incluye secciones claras que detallan los beneficios de DogiMax para los dueños de perros.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte1.png)
+![img](images/Parte1.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte2.png)
+![img](images/Parte2.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte3.png)
+![img](images/Parte3.png)
 
 
 ### 4.3.2. Landing Page Mock-up
 El mock-up refleja la implementación completa de los elementos de diseño. La paleta de colores se aplica a lo largo de la página, con el color #FF6B1A en los botones y títulos. Los encabezados son grandes y prominentes, utilizando Poppins para transmitir un tono moderno y accesible. Las visualizaciones y gráficos de la página están alineados con la estética de la marca y presentan información de manera clara y atractiva.
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing1.png)
+![img](images/Landing1.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing2.png)
+![img](images/Landing2.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing3.png)
+![img](images/Landing3.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing4.png)
+![img](images/Landing4.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing5.png)
+![img](images/Landing5.png)
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe1.png)
+![img](images/wireframe1.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe2.png)
+![img](images/wireframe2.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe3.png)
+![img](images/wireframe3.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe4.png)
+![img](images/wireframe4.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe45.png)
+![img](images/wireframe45.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe5.png)
+![img](images/wireframe5.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe6.png)
+![img](images/wireframe6.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe7.png)
+![img](images/wireframe7.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe8.png)
+![img](images/wireframe8.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe9.png)
+![img](images/wireframe9.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe10.png)
+![img](images/wireframe10.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe11.png)
+![img](images/wireframe11.png)
 
 [wireframes en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireflow.png)
+![img](images/wireflow.png)
 
 
 ### 4.4.3. Web Applications Mock-ups
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup2.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup3.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup4.png)
+![img](images/login.png)
+![img](images/mockup.png)
+![img](images/mockup2.png)
+![img](images/mockup3.png)
+![img](images/mockup4.png)
 [Mockup en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/userflow.png)
+![img](images/userflow.png)
 
 ### 4.5. Web Applications Prototyping
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
+![img](images/login.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
+![img](images/mockup.png)
 
 ### 4.6. Domain Driven Software Architecture
 En esta sección se presenta la arquitectura de software basada en el dominio para DogiMax. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
@@ -1260,31 +1260,31 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 ### 4.6.1. Software Architecture Context Diagram
 Este diagrama muestra cómo interactúan los usuarios (Dueños de Perros y Veterinarios) con la plataforma DogiMax. Los usuarios usan la aplicación para gestionar y monitorear el cuidado de sus mascotas. Además, DogiMax se conecta con servicios de terceros para funcionalidades especializadas como la entrega de recomendaciones basadas en IA, el envío de notificaciones y la gestión de pagos.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.1..png)
+![img](images/4.6.1..png)
 
 
 ### 4.6.2. Software Architecture Container Diagrams
 Este diagrama ilustra los diferentes contenedores o componentes tecnológicos de DogiMax y cómo interactúan entre sí. Los contenedores representan las diferentes capas y servicios que componen la plataforma, como la interfaz de usuario (Web Application), la lógica de negocio (API Application) y la base de datos.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.2..png)
+![img](images/4.6.2..png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 **Mi Perro Bounded Context** 
 Este diagrama representa los componentes encargados de la gestión de las mascotas. Los usuarios pueden crear perfiles de perros, registrar información de salud y acceder a recomendaciones personalizadas.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.3..png)
+![img](images/4.6.3..png)
 
 
 **Citas Bounded Context**
 Este diagrama se centra en la gestión de las citas y la agenda de las mascotas. Aquí se muestran los componentes involucrados en el proceso de agendar, modificar y cancelar citas con los veterinarios.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.33..png)
+![img](images/4.6.33..png)
 
 
 **Notificaciones Bounded Context**
 Este diagrama describe los componentes que gestionan las notificaciones, esenciales para mantener a los usuarios informados sobre los próximos eventos y recordatorios importantes.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.333..png)
+![img](images/4.6.333..png)
 
 
 ### 4.7. Software Object-Oriented Design
@@ -1293,7 +1293,7 @@ En esta sección se presenta el diseño de software orientado a objetos para Dog
 ### 4.7.1. Class Diagrams
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
+![img](images/Diagrama%20de%20clases.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -1351,7 +1351,7 @@ Esta sección presenta la estructura lógica del sistema DogiMax desde el punto 
 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema DogiMax, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes. Este modelo permite garantizar la integridad referencial, la consistencia de los datos y la eficiencia en las operaciones de consulta y actualización.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
+![img](images/Diagrama%20de%20clases.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
     
@@ -1544,23 +1544,23 @@ A continuación se presentan las capturas de pantalla que ilustran el proceso de
 
 * Ilustración GitHub Software Deployment Configuration 1
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_1.png)
+![img](images/Software_Deployment_Configuration_1.png)
 
 * Ilustración GitHub Software Deployment Configuration 2
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_2.png)
+![img](images/Software_Deployment_Configuration_2.png)
 
 * Ilustración GitHub Software Deployment Configuration 3
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_3.png)
+![img](images/Software_Deployment_Configuration_3.png)
 
 * Ilustración GitHub Software Deployment Configuration 4
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_4.png)
+![img](images/Software_Deployment_Configuration_4.png)
 
 * Ilustración GitHub Software Deployment Configuration 5
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_5.png)
+![img](images/Software_Deployment_Configuration_5.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1648,13 +1648,13 @@ Además, se diseñaron y habilitaron secciones como Propuesta de Valor, Informac
 
 A continuación, se presentan capturas de las vistas más relevantes implementadas en este Sprint.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage1.png)
+![img](images/evidence-LandingPage1.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage2.png)
+![img](images/evidence-LandingPage2.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage3.png)
+![img](images/evidence-LandingPage3.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage4.png)
+![img](images/evidence-LandingPage4.png)
     
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1684,13 +1684,13 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 * LandingPage:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Contributors.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Network.png)
+![img](images/Landing-Contributors.png)
+![img](images/Landing-Network.png)
 
 * READ.ME 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Read-Contributors.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/read-Network.png)
+![img](images/Read-Contributors.png)
+![img](images/read-Network.png)
 
 ### 5.2.2. Sprint 2
 
@@ -1765,15 +1765,15 @@ En el Sprint 2 hemos logrado implementar y visualizar las siguientes funcionalid
 
 A continuación se muestran capturas de pantalla de las vistas más representativas implementadas durante este sprint:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%201.png)
+![img](images/evidence-frontend%201.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%202.png)
+![img](images/evidence-frontend%202.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%203.png)
+![img](images/evidence-frontend%203.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%204.png)
+![img](images/evidence-frontend%204.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%205.png)
+![img](images/evidence-frontend%205.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -1799,15 +1799,15 @@ A partir del Sprint 3, se documentarán:
 
 Esta sección documenta el proceso de despliegue de la aplicación web desarrollada durante el Sprint 2. El despliegue se realizó utilizando Netlify, una plataforma de hosting moderna que permite desplegar aplicaciones web estáticas y dinámicas con facilidad. Esta sección incluye capturas de pantalla del proceso de despliegue, la configuración del entorno y la URL de la aplicación desplegada, confirmando que la aplicación fue publicada exitosamente y está accesible para usuarios finales.
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%201.png)
+![img](images/evidence-deploy%201.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%202.png)
+![img](images/evidence-deploy%202.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%203.png)
+![img](images/evidence-deploy%203.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%204.png)
+![img](images/evidence-deploy%204.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%205.png)
+![img](images/evidence-deploy%205.png)
 
 URL de despliegue: https://dogimax.netlify.app/ 
 
@@ -1831,9 +1831,9 @@ La colaboración se gestionó mediante GitHub, empleando ramas por feature, comm
 
 * Frontend
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab.png)
+![img](images/evidence-teamcollab.png)
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab%201.png)
+![img](images/evidence-teamcollab%201.png)
 
 ### 5.2.3. Sprint 3
 
@@ -1938,28 +1938,28 @@ Estas funcionalidades fueron integradas con el Web Service desarrollado por el e
 A continuación se presentan las evidencias visuales de los módulos implementados en el backend, mostrando las operaciones CRUD disponibles para cada bounded context:
 
 **Módulo de Autenticación (IAM):**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Authentication.jpg)
+![img](images/Back_Authentication.jpg)
 
 **Módulo de Usuarios:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Users.jpg)
+![img](images/Back_Users.jpg)
 
 **Módulo de Gestión de Mascotas:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_pets.jpg)
+![img](images/Back_pets.jpg)
 
 **Módulo de Appointments (Citas):**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Appointment.jpg)
+![img](images/Back_Appointment.jpg)
 
 **Módulo de Notificaciones:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Notifications.jpg)
+![img](images/Back_Notifications.jpg)
 
 **Módulo de Veterinarios:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Veterinarians.jpg)
+![img](images/Back_Veterinarians.jpg)
 
 **Módulo de Registros Médicos:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Medicals.jpg)
+![img](images/Back_Medicals.jpg)
 
 **Módulo de Recomendaciones:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Recommendations.jpg)
+![img](images/Back_Recommendations.jpg)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2032,7 +2032,7 @@ Contribuciones destacadas:
 
 A continuación se presentan las evidencias del trabajo colaborativo del equipo durante el Sprint 3:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+![img](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
 ### 5.2.4. Sprint 4
 
@@ -2157,28 +2157,28 @@ El resultado del *Sprint 4* es una versión completamente funcional y estable de
 A continuación se presentan las evidencias visuales de los módulos implementados y validados en el backend durante el Sprint 4, mostrando las operaciones CRUD completas disponibles para cada bounded context:
 
 **Módulo de Autenticación (IAM):**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Authentication.jpg)
+![img](images/Back_Authentication.jpg)
 
 **Módulo de Usuarios:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Users.jpg)
+![img](images/Back_Users.jpg)
 
 **Módulo de Gestión de Mascotas:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_pets.jpg)
+![img](images/Back_pets.jpg)
 
 **Módulo de Appointments (Citas):**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Appointment.jpg)
+![img](images/Back_Appointment.jpg)
 
 **Módulo de Notificaciones:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Notifications.jpg)
+![img](images/Back_Notifications.jpg)
 
 **Módulo de Veterinarios:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Veterinarians.jpg)
+![img](images/Back_Veterinarians.jpg)
 
 **Módulo de Registros Médicos:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Medicals.jpg)
+![img](images/Back_Medicals.jpg)
 
 **Módulo de Recomendaciones:**
-![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Recommendations.jpg)
+![img](images/Back_Recommendations.jpg)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2263,7 +2263,7 @@ Contribuciones destacadas:
 
 A continuación se presentan las evidencias del trabajo colaborativo del equipo durante el Sprint 4:
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+![img](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
 ### 5.3. Validation Interviews
 
@@ -2294,7 +2294,7 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 1:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%201%20de%20validaci%C3%B3n.png)
+![img](images/entrevista%201%20de%20validaci%C3%B3n.png)
 
 **Nombre: Juan Pedro Manosalva Pérez**
 
@@ -2310,7 +2310,7 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 2:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%202%20de%20validaci%C3%B3n.png)
+![img](images/entrevista%202%20de%20validaci%C3%B3n.png)
 
 
 **Nombre: Fabrizio Chong**
@@ -2329,7 +2329,7 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 3:**
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%203%20de%20validaci%C3%B3n.png)
+![img](images/entrevista%203%20de%20validaci%C3%B3n.png)
 
 **Nombre: Keyner Hancco**
 
@@ -2377,7 +2377,7 @@ En esta sección se muestra una captura del video about the product que se encue
 
 Video about the product: https://youtu.be/7kLxtACvOlM
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/video-about-the-product.png)
+![img](images/video-about-the-product.png)
 
 ## 6. Conclusiones y Recomendaciones
 
