@@ -1,0 +1,17 @@
+{
+  "markdown-pdf.styles": [
+    "${workspaceFolder}/pdf-styles.css"
+  ],
+  "markdown-pdf.includeDefaultStyles": true,
+  "markdown-pdf.displayHeaderFooter": true,
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 10px; text-align: center; width: 100%;\"></div>",
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 10px; text-align: center; width: 100%;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
+  "markdown-pdf.margin.top": "2cm",
+  "markdown-pdf.margin.bottom": "2cm",
+  "markdown-pdf.margin.right": "2cm",
+  "markdown-pdf.margin.left": "2cm",
+  "markdown-pdf.format": "A4",
+  "markdown-pdf.orientation": "portrait",
+  "markdown-pdf.executablePath": null,
+  "markdown-pdf.phantomPath": null
+}

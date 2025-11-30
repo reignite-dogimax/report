@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 Universidad Peruana de Ciencias Aplicadas 
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX1K0yo4bAGOIBKRuUAeEqilP5F8tYJlkH49HOD3hAcG58Fv4UoPqcjsaAOrN5P3JvG4Pn-bS9vSwP1RpcMh8JDkVEj5Gd0Ve_cLd_vlw5pBx7i6UXLgtksUknmzNWAh_r5Sja?key=wLsuErVgqDz-qczrBI4kMctR)
@@ -32,8 +32,10 @@ Septiembre 2025
 
 | Versión | Fecha      | Autor                                                        | Descripción de modificación                                  |
 | ------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 0.0.1   | 09/09/2025 | Bryan Martinez                                               | Iniciando el proyecto luego de las divisiones de trabajo, dividimos la primera parte del proyecto que incluyen los primeros 2 puntos del proyecto final, tanto la idea principal del proyecto, nuestras misiones, visiones, nuestros objetivos, plantear los diferentes problemas y como nuestor proyecto lo soluciona, tambien la creacion del segmento objetivo, entender cuales son sus sentimientos y como nuestro proyecto cambia e influye en su vida, realizamos las entrevistas y completamos esta etapa satisfactoriamente para comenzar a realizar la elaboracion de los puntos 3 y 4.
-| 1.0.0   | 21/09/2025 | Bryan Martinez                                               | Completamos los puntos faltantes en el proyecto, punto 4 y 5, se dividio equitativamente, logramos desplegar la landing page, hicimos una analisis del diseño de la pagina y finalmente recopilamos el aporte de cada miembro y el spint1.
+| 0.0.1   | 09/09/2025 | Bryan Martinez                                               | Iniciando el proyecto luego de las divisiones de trabajo, dividimos la primera parte del proyecto que incluyen los primeros 2 puntos del proyecto final, tanto la idea principal del proyecto, nuestras misiones, visiones, nuestros objetivos, plantear los diferentes problemas y como nuestor proyecto lo soluciona, tambien la creacion del segmento objetivo, entender cuales son sus sentimientos y como nuestro proyecto cambia e influye en su vida, realizamos las entrevistas y completamos esta etapa satisfactoriamente para comenzar a realizar la elaboracion de los puntos 3 y 4. |
+| 1.0.0   | 21/09/2025 | Bryan Martinez                                               | Completamos los puntos faltantes en el proyecto, punto 4 y 5, se dividio equitativamente, logramos desplegar la landing page, hicimos una analisis del diseño de la pagina y finalmente recopilamos el aporte de cada miembro y el spint1. |
+| 1.1.0   | 08/11/2025 | Bryan Martinez                                               | Actualización del documento con mejoras en formato de tablas, corrección de imágenes y estandarización del formato markdown. |
+| 1.2.0   | 30/11/2025 | Bryan Martinez                                               | Finalización del documento con todas las tablas en formato unificado, imágenes corregidas y PDF generado con formato mejorado. |
 
 # Project Report Collaboration Insights
 
@@ -370,10 +372,10 @@ La contribuccion de cada integrante es la siguiente:
 
 # Student Outcome
 
-| Criterio Especifico | Acciones Realizadas | Conclusiones |
-| :---- | :---- | :---- |
-|                     Trabaja en equipo para proporcionar liderazgo de manera conjunta.       | TB1: ·        **Brayan Ccarita:** Participé activamente en las reuniones del equipo, desarrollé las tareas que me correspondían de manera satisfactoria y las entregué en los plazos establecidos. ·         **Joseph Chavez:** Asistí a todas las reuniones del grupo, completé de forma oportuna las responsabilidades asignadas y, además, brindé retroalimentación en algunos apartados del trabajo. ·         **Juan Saldaña:** Tomé parte en las reuniones programadas del equipo y cumplí con las actividades que se me asignaron, entregándolas dentro de la fecha prevista. ·         **Bryan Martinez:** Estuve presente en las reuniones del equipo, realicé de manera exitosa las secciones que se me encargaron y las entregué dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Asistí a las reuniones correspondientes, cumplí con las tareas que se me asignaron de manera adecuada y en los plazos determinados.<br/>·          EB1: **Brayan Ccarita** — Trabaja en equipo: Participó activamente en reuniones, gestionó repositorios y ramas, implementó las características iniciales (creación del repo, instalación de dependencias, componentes compartidos) y codificó/testeó el bounded context de gestión de citas. Conclusión: aportó liderazgo técnico y cumplió entregables dentro de los plazos.  |                TB1:   Todos los miembros se comprometieron con el desarrollo del trabajo y estuvieron presentes y aportando en todas las reuniones, de forma presencial y remotas, además se tomo liderazgo por parte de algunos, lo q apoyo a organizarnos mejor |
-|                     Fomenta un ambiente inclusivo y de colaboración, define metas claras, organiza las tareas y alcanza los objetivos propuestos. | TB1: ·         **Brayan Ccarita:** Participé en las reuniones del equipo, desarrollé de manera exitosa las tareas que me correspondían y las entregué dentro de los plazos establecidos. ·         **Joseph Chavez:** Estuve presente en todas las sesiones del grupo, apoyé a mis compañeros cuando fue necesario y asumí la responsabilidad de la elaboración del capítulo 1 del proyecto junto con el *student outcome*. ·         **Juan Saldaña:** Asistí y colaboré activamente en cada reunión programada, además de encargarme de la correcion de algunos puntos del proyecto, tambien el sprint 2 con la creacion del router con la database y para finalizar el *student outcome*. ·         **Bryan Martinez:** Asistí a las reuniones del equipo, completé con éxito las secciones que me fueron asignadas y realicé las entregas dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Participé de manera activa en las reuniones y trabajé en la elaboración del capítulo 3 del proyecto junto con su respectivo *student outcome*. <br/>**EB1: Brayan Ccarita** — Fomenta colaboración y organización: Coordinó tareas y metas técnicas, documentó procesos, facilitó integraciones y despliegues (frontend en Netlify y fake API en VPS) y apoyó a compañeros en las entregas. Conclusión: promovió un ambiente colaborativo y garantizó el cumplimiento de los objetivos del sprint.|                 TB1 :   Cada integrante de nuestro equipo demostró compromiso y fomentó un ambiente de colaboración mediante una comunicación efectiva. Junto con revisiones constantes de cada capítulo del proyecto. Nos reunimos de forma periódica para aportar ideas y trabajar en conjunto en cada etapa del desarrollo del producto y su documentación. Asimismo, definimos metas tempranas con una adecuada planificación de tareas, que fuimos mejorando colectivamente. |
+Criterio Especifico|Acciones Realizadas|Conclusiones|
+|---------------------|---------------------|---------------|
+Trabaja en equipo para proporcionar liderazgo de manera conjunta.|TB1: ·        **Brayan Ccarita:** Participé activamente en las reuniones del equipo, desarrollé las tareas que me correspondían de manera satisfactoria y las entregué en los plazos establecidos. ·         **Joseph Chavez:** Asistí a todas las reuniones del grupo, completé de forma oportuna las responsabilidades asignadas y, además, brindé retroalimentación en algunos apartados del trabajo. ·         **Juan Saldaña:** Tomé parte en las reuniones programadas del equipo y cumplí con las actividades que se me asignaron, entregándolas dentro de la fecha prevista. ·         **Bryan Martinez:** Estuve presente en las reuniones del equipo, realicé de manera exitosa las secciones que se me encargaron y las entregué dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Asistí a las reuniones correspondientes, cumplí con las tareas que se me asignaron de manera adecuada y en los plazos determinados.<br/>·          EB1: **Brayan Ccarita** — Trabaja en equipo: Participó activamente en reuniones, gestionó repositorios y ramas, implementó las características iniciales (creación del repo, instalación de dependencias, componentes compartidos) y codificó/testeó el bounded context de gestión de citas. Conclusión: aportó liderazgo técnico y cumplió entregables dentro de los plazos.|TB1:   Todos los miembros se comprometieron con el desarrollo del trabajo y estuvieron presentes y aportando en todas las reuniones, de forma presencial y remotas, además se tomo liderazgo por parte de algunos, lo q apoyo a organizarnos mejor|
+Fomenta un ambiente inclusivo y de colaboración, define metas claras, organiza las tareas y alcanza los objetivos propuestos.|TB1: ·         **Brayan Ccarita:** Participé en las reuniones del equipo, desarrollé de manera exitosa las tareas que me correspondían y las entregué dentro de los plazos establecidos. ·         **Joseph Chavez:** Estuve presente en todas las sesiones del grupo, apoyé a mis compañeros cuando fue necesario y asumí la responsabilidad de la elaboración del capítulo 1 del proyecto junto con el *student outcome*. ·         **Juan Saldaña:** Asistí y colaboré activamente en cada reunión programada, además de encargarme de la correcion de algunos puntos del proyecto, tambien el sprint 2 con la creacion del router con la database y para finalizar el *student outcome*. ·         **Bryan Martinez:** Asistí a las reuniones del equipo, completé con éxito las secciones que me fueron asignadas y realicé las entregas dentro de los tiempos establecidos. ·         **Leonardo Dueñas:** Participé de manera activa en las reuniones y trabajé en la elaboración del capítulo 3 del proyecto junto con su respectivo *student outcome*. <br/>**EB1: Brayan Ccarita** — Fomenta colaboración y organización: Coordinó tareas y metas técnicas, documentó procesos, facilitó integraciones y despliegues (frontend en Netlify y fake API en VPS) y apoyó a compañeros en las entregas. Conclusión: promovió un ambiente colaborativo y garantizó el cumplimiento de los objetivos del sprint.|TB1 :   Cada integrante de nuestro equipo demostró compromiso y fomentó un ambiente de colaboración mediante una comunicación efectiva. Junto con revisiones constantes de cada capítulo del proyecto. Nos reunimos de forma periódica para aportar ideas y trabajar en conjunto en cada etapa del desarrollo del producto y su documentación. Asimismo, definimos metas tempranas con una adecuada planificación de tareas, que fuimos mejorando colectivamente.|
 
 # 1. Capítulo I: Introducción
 
@@ -393,16 +395,13 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Alumno: Brayan Roberto Ccarita Cruz Código:  Carrera: |                                                      |
-| ---------------------------------------------- |------------------------------------------------------|
-| Apacionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](/assets/member_u20221c218.png)                                             |
-| Alumno: Bryan Félix Martínez Ramos Código: u202316246 Carrera: Ingeniería de Software |                                                      |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](images/Bryan.png)                                             |
-| Alumno: Juan David Saldaña De Souza Código: U20221F192 Carrera: Ingeniería de software |                                                      |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Juan_profile.jpeg](assets/Juan_profile.jpeg) |
-| Alumno: Joseph Manuel Chavez Viera Código: U202314019 Carrera: Ingenieria de Software |                                                       |
-| Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera dispocicion al desarrollo del proyecto. | ![img](images/Joseph.jpeg) |
-| Alumno: Dueñas Canales Leonardo Manuel Código: U202117475 Carrera: Ingeniería de software |  <img src="images/image.png" alt="image.png" />                                                            |
+| Alumno | Descripción | Foto |
+|--------|-------------|------|
+| Brayan Roberto Ccarita Cruz <br/> Código: <br/> Carrera: | Apasionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](file:///C:/Users/PC-%20Usuario/report/images/member_u20221c218.png) |
+| Bryan Félix Martínez Ramos <br/> Código: u202316246 <br/> Carrera: Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Bryan.png) |
+| Juan David Saldaña De Souza <br/> Código: U20221F192 <br/> Carrera: Ingeniería de software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Juan_profile.jpeg) |
+| Joseph Manuel Chavez Viera <br/> Código: U202314019 <br/> Carrera: Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera disposición al desarrollo del proyecto. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Joseph.jpeg) |
+| Dueñas Canales Leonardo Manuel <br/> Código: U202117475 <br/> Carrera: Ingeniería de software | | ![img](file:///C:/Users/PC-%20Usuario/report/images/image.png) |
 
 ## 1.2. Solution Profile
 
@@ -577,7 +576,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 1:**
 
-![Segmento1-Entrevista 1.png](assets/Segmento1-Entrevista%201.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%201.png)
 
 **Nombre: Eduardo Alonso Rojas Torres**
 
@@ -596,7 +595,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 2:**
 
-![Segmento1-Entrevista 2.png](assets/Segmento1-Entrevista%202.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%202.png)
 
 **Nombre: Frank Gen Saldaña Kannan**
 
@@ -611,7 +610,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 3:**
 
-![Segmento1-Entrevista 3.png](https://github.com/reignite-dogimax/report/blob/dcd05d69b1f56ec0c683449b3984f2eee37a66f4/assets/Segmento1-Entrevista%203.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%203.png)
 
 **Nombre: Janet Linda Ramos Gomez**
 
@@ -632,7 +631,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 **Entrevista 1:**
 
-![Segmento 2 - Entrevista 1.png](assets/Segmento%202%20-%20Entrevista%201.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento%202%20-%20Entrevista%201.png)
 
 **Nombre: Fabrizio Chong.**
 
@@ -651,7 +650,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-## 2.2.3 Análisis de entrevistas
+## 2.2.3. Análisis de entrevistas
 
 ### Segmento 1: Amantes de Perros (Usuarios)
 
@@ -724,8 +723,8 @@ Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera in
 - Los usuarios tienen **dificultades para organizar cuidados** de sus mascotas, mientras que los veterinarios señalan la **falta de información confiable** como su principal obstáculo.  
 - Esto crea un punto de encuentro: una solución tecnológica que apoye tanto a dueños como a veterinarios mediante **recordatorios, historial clínico y educación confiable**.
 
-## 2.1. Competidores.
-### 2.1.2 Análisis competitivo.
+## 2.1. Competidores
+### 2.1.2. Análisis competitivo
 
 # Competitive Analysis Landscape
 
@@ -738,7 +737,7 @@ Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera in
 
 |                | DogiMax (startup)                                                                 | Dimu (Perú)                                                                                      | GoPetsApp (Perú)                                                                 | PetCard / MyPetCard (Perú)                                                             | QPet / iPets (Perú)                                                                                   |
 |----------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Overview**   | Plataforma digital (agenda para perros + IA de recomendaciones personalizadas según raza y necesidades). Enfoque integral: agenda + historial + IA + alianzas. | App peruana: cartilla digital, reservas de veterinarios, servicios a domicilio, tienda online. Ecosistema de servicios integrados. | Red social peruana para dueños de mascotas: cartilla virtual, recordatorios, comunidad, tienda, eventos. | Cartilla digital con QR; registro de vacunas e historial. Se usa como “carnet digital” para compartir con veterinarios. | Servicios de identificación (placas QR, microchip) + apps de ficha; algunos con recordatorio de vacunas y emergencias. |
+| **Overview**   | Plataforma digital (agenda para perros + IA de recomendaciones personalizadas según raza y necesidades). Enfoque integral: agenda + historial + IA + alianzas. | App peruana: cartilla digital, reservas de veterinarios, servicios a domicilio, tienda online. Ecosistema de servicios integrados. | Red social peruana para dueños de mascotas: cartilla virtual, recordatorios, comunidad, tienda, eventos. | Cartilla digital con QR; registro de vacunas e historial. Se usa como "carnet digital" para compartir con veterinarios. | Servicios de identificación (placas QR, microchip) + apps de ficha; algunos con recordatorio de vacunas y emergencias. |
 | **Ventaja competitiva** | IA personalizada validada + posibilidad de alianzas clínicas. Diferenciación en recomendaciones inteligentes. | Ecosistema ya consolidado en Perú; acceso inmediato a servicios y compras. | Fuerte en comunidad y engagement social; ecosistema de dueños conectados. | Simplicidad y confiabilidad en la gestión del historial clínico. | Seguridad e identificación en casos de extravío; valor muy alto para dueños preocupados. |
 | **Perfil de marketing** | Segmento: dueños jóvenes–adultos en Lima y principales ciudades, con perro como miembro familiar. Estrategia: diferenciación por IA + educación en cuidado responsable. | Segmento: dueños digitales en Lima que buscan conveniencia. Marketing: Instagram, alianzas con marcas de delivery/vet. | Segmento: dueños jóvenes, comunidad pet lovers. Marketing: redes sociales, eventos locales, comunidad activa. | Segmento: dueños que buscan solución práctica de historial/vacunas. Marketing: clínicas, ferias de mascotas. | Segmento: dueños preocupados por seguridad. Marketing: venta directa en web/ferias; veterinarias y tiendas físicas. |
 
@@ -835,73 +834,32 @@ Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera in
   - DogiMax: historial inteligente con recomendaciones dinámicas.  
   - **Táctica:** ofrecer importación de datos de PetCard.  
 
-## 2.3. Needfinding.
+## 2.3. Needfinding
 
 ### 2.3.1. User Personas.
 Las User Personas representaron a los usuarios clave del sistema: Eduardo, un dueño de perro joven y estudiante universitario que enfrenta dificultades para organizar el cuidado de sus tres perros debido a su apretada rutina, y Fabricio, un veterinario de 25 años que necesita una herramienta digital que centralice toda la información médica de los perros para mejorar la calidad de la atención. Cada persona tiene sus responsabilidades, frustraciones, motivaciones y metas, lo que proporciona una guía para la creación de la solución.
 Veterinario:
 
 
-<img src="images/Fabricio_Chong.png" alt="Fabricio_Chong.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong.png)
 
 Cuidador de Perros:
 
 
-<img src="images/Eduardo_Torres.png" alt="Eduardo_Torres.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo_Torres.png)
 
 ### 2.3.2. User Task Matrix.
 La User Task Matrix mapea las tareas clave que los usuarios realizan al interactuar con la plataforma. Se identifican tareas como la gestión de citas médicas, el seguimiento de la salud de los perros y la consulta de recomendaciones personalizadas. Estas tareas se analizan para determinar cómo los usuarios interactúan con la plataforma, la frecuencia con que realizan cada tarea y los beneficios que obtienen de ella.
-<table border="1">
-  <thead>
-    <tr>
-      <th>TASK</th>
-      <th>Persona 1: Eduardo (Dog Lover)</th>
-      <th>Persona 2: Fabricio (Veterinario)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Calibrar herramientas para el cuidado del perro</td>
-      <td>Sometimes</td>
-      <td>Always</td>
-    </tr>
-    <tr>
-      <td>Registrar información médica del perro</td>
-      <td>Sometimes</td>
-      <td>Always</td>
-    </tr>
-    <tr>
-      <td>Gestionar citas médicas y actividades</td>
-      <td>Sometimes</td>
-      <td>Often</td>
-    </tr>
-    <tr>
-      <td>Consultar recomendaciones sobre salud</td>
-      <td>Often</td>
-      <td>Often</td>
-    </tr>
-    <tr>
-      <td>Compartir información sobre cuidados</td>
-      <td>Sometimes</td>
-      <td>Always</td>
-    </tr>
-    <tr>
-      <td>Documentar el cuidado del perro</td>
-      <td>Rarely</td>
-      <td>Often</td>
-    </tr>
-    <tr>
-      <td>Recomendar productos para el cuidado</td>
-      <td>Often</td>
-      <td>Sometimes</td>
-    </tr>
-    <tr>
-      <td>Supervisar el estado de salud del perro</td>
-      <td>Rarely</td>
-      <td>Always</td>
-    </tr>
-  </tbody>
-</table>
+TASK|Persona 1: Eduardo (Dog Lover)|Persona 2: Fabricio (Veterinario)|
+|------|--------------------------------|-----------------------------------|
+Calibrar herramientas para el cuidado del perro|Sometimes|Always|
+Registrar información médica del perro|Sometimes|Always|
+Gestionar citas médicas y actividades|Sometimes|Often|
+Consultar recomendaciones sobre salud|Often|Often|
+Compartir información sobre cuidados|Sometimes|Always|
+Documentar el cuidado del perro|Rarely|Often|
+Recomendar productos para el cuidado|Often|Sometimes|
+Supervisar el estado de salud del perro|Rarely|Always|
 
 ### 2.3.3. User Journey Mapping.
 
@@ -910,12 +868,12 @@ El User Journey Mapping describe cómo los usuarios, Eduardo y Fabricio, interac
 Veterinario:
 
 
-<img src="images/Journey _Fabricio.png" alt="Journey _Fabricio.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/Journey%20_Fabricio.png)
 
 Cuidador de Perros:
 
 
-<img src="images/Journey_Eduardo.png" alt="Journey_Eduardo.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Journey_Eduardo.png)
 
 ### 2.3.4. Empathy Mapping.
 
@@ -923,13 +881,13 @@ En el Empathy Mapping, se busca entender profundamente las emociones, pensamient
 Veterinario:
 
 
-<img src="images/Fabricio.png" alt="Fabricio.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio.png)
 
 
 Cuidador de Perros:
 
 
-<img src="images/Eduardo.png" alt="Eduardo.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo.png)
 
 
  ###  2.3.5. As-is Scenario Mapping.
@@ -939,49 +897,24 @@ El As-is Scenario Mapping describe cómo los usuarios gestionan actualmente el c
 Veterinario:
 
 
-<img src="images/AS_IS_VETERINARIOS.png" alt="AS_IS_VETERINARIOS.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_VETERINARIOS.png)
 
 
 Cuidador de Perros:
 
 
-<img src="images/AS_IS_Dueños_de_Perros.png" alt="AS_IS_Dueños_de_Perros.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_Due%C3%B1os_de_Perros.png)
 
 ###  2.4. Ubiquitous Language.
 
 El Ubiquitous Language establece los términos clave usados a lo largo del desarrollo, asegurando una comprensión común entre todos los involucrados. En este caso, se definen términos como dueños de perros, plataforma digital, recordatorios automáticos y recomendaciones personalizadas, asegurando que todos los participantes en el proyecto tengan una visión clara y consistente del sistema.
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Term (English)</th>
-      <th>Término en Español</th>
-      <th>Definición (Español)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Dog Owners</td>
-      <td>Dueños de Perros</td>
-      <td>Personas que tienen uno o más perros como mascotas y que buscan una solución para organizar el cuidado de sus animales.</td>
-    </tr>
-    <tr>
-      <td>Digital Platform</td>
-      <td>Plataforma Digital</td>
-      <td>Herramienta tecnológica (aplicación móvil o web) que centraliza todas las actividades de cuidado de los perros, como citas médicas, paseos y alimentación.</td>
-    </tr>
-    <tr>
-      <td>Automatic Reminders</td>
-      <td>Recordatorios Automáticos</td>
-      <td>Notificaciones que la plataforma envía a los dueños para recordarles las actividades programadas relacionadas con el cuidado de sus perros.</td>
-    </tr>
-    <tr>
-      <td>Personalized Recommendations</td>
-      <td>Recomendaciones Personalizadas</td>
-      <td>Sugerencias automáticas dadas por la plataforma basadas en la raza, edad y necesidades específicas de cada perro, para optimizar su cuidado.</td>
-    </tr>
-  </tbody>
-</table>
+Term (English)|Término en Español|Definición (Español)|
+|----------------|-------------------|----------------------|
+Dog Owners|Dueños de Perros|Personas que tienen uno o más perros como mascotas y que buscan una solución para organizar el cuidado de sus animales.|
+Digital Platform|Plataforma Digital|Herramienta tecnológica (aplicación móvil o web) que centraliza todas las actividades de cuidado de los perros, como citas médicas, paseos y alimentación.|
+Automatic Reminders|Recordatorios Automáticos|Notificaciones que la plataforma envía a los dueños para recordarles las actividades programadas relacionadas con el cuidado de sus perros.|
+Personalized Recommendations|Recomendaciones Personalizadas|Sugerencias automáticas dadas por la plataforma basadas en la raza, edad y necesidades específicas de cada perro, para optimizar su cuidado.|
 
 ## Capítulo III: Requirements Specification
 
@@ -991,697 +924,68 @@ En el To-Be Scenario Mapping, se describe la situación ideal después de la imp
 
 Veterinario:
 
-<img src="images/TO_BE_VETERINARIOS.png" alt="TO_BE_VETERINARIOS.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_VETERINARIOS.png)
 
 Cuidador de Perros:
 
-<img src="images/TO_BE_DUEÑO_DE_PERROS.png" alt="TO_BE_DUEÑO_DE_PERROS.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_DUE%C3%91O_DE_PERROS.png)
 
 ###  3.2. User Stories.
 
 Las User Stories definen las funcionalidades del sistema desde la perspectiva de los usuarios. Por ejemplo, se describe cómo un dueño de perro podría querer recibir notificaciones automáticas de citas médicas para no olvidarlas. Estas historias guían el desarrollo de la plataforma, enfocándose en necesidades clave y asegurando que se ofrezcan soluciones específicas que resuelvan los problemas de los usuarios.
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Epic/User Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EP01</td>
-      <td>Registro y Gestión de Usuarios</td>
-      <td>Como sistema, necesito permitir el registro, inicio de sesión y configuración de perfil para que los usuarios accedan y gestionen sus datos.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>US01</td>
-      <td>Registro de Usuario Nuevo</td>
-      <td>Como usuario, quiero registrarme en la plataforma para comenzar a usarla.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario completa el registro y recibe confirmación de bienvenida. <br>
-        <strong>Dado que</strong> soy un nuevo usuario, <br>
-        <strong>Cuando</strong> completo el formulario de registro, <br>
-        <strong>Entonces</strong> mi cuenta es creada y recibo una confirmación de bienvenida. <br><br>
-        <strong>Escenario 2:</strong> Si el correo ya está registrado, el sistema lo notifica. <br>
-        <strong>Dado que</strong> intento registrarme con un correo electrónico ya existente, <br>
-        <strong>Cuando</strong> ingreso mi correo, <br>
-        <strong>Entonces</strong> la plataforma me notifica que ya existe una cuenta asociada con ese correo.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>US02</td>
-      <td>Inicio de Sesión de Usuario</td>
-      <td>Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario ingresa usuario y contraseña, accediendo a su perfil. <br>
-        <strong>Dado que</strong> tengo una cuenta registrada, <br>
-        <strong>Cuando</strong> ingreso mi usuario y contraseña, <br>
-        <strong>Entonces</strong> accedo a mi perfil personal. <br><br>
-        <strong>Escenario 2:</strong> Si olvida la contraseña, el usuario recibe un enlace para restablecerla. <br>
-        <strong>Dado que</strong> olvidé mi contraseña, <br>
-        <strong>Cuando</strong> selecciono "Olvidé mi contraseña", <br>
-        <strong>Entonces</strong> recibo un enlace para restablecerla.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Configuración Inicial del Perfil</td>
-      <td>Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario ingresa los datos de su perro y recibe recomendaciones personalizadas. <br>
-        <strong>Dado que</strong> estoy registrando a mi perro, <br>
-        <strong>Cuando</strong> ingreso sus datos, <br>
-        <strong>Entonces</strong> la plataforma me proporciona recomendaciones personalizadas basadas en la raza y edad de mi perro. <br><br>
-        <strong>Escenario 2:</strong> El usuario actualiza la información del perro y la plataforma la guarda. <br>
-        <strong>Dado que</strong> quiero actualizar los datos de mi perro, <br>
-        <strong>Cuando</strong> edito su perfil, <br>
-        <strong>Entonces</strong> la plataforma guarda la nueva información correctamente.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>EP02</td>
-      <td>Gestión de Citas y Actividades</td>
-      <td>Como sistema, necesito permitir que los usuarios agenden citas y gestionen actividades para cuidar a sus perros.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>US04</td>
-      <td>Agendar Cita Médica</td>
-      <td>Como usuario, quiero agendar citas médicas para mi perro en la plataforma.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario agenda una cita y se confirma en su calendario. <br>
-        <strong>Dado que</strong> quiero agendar una cita para mi perro, <br>
-        <strong>Cuando</strong> selecciono el día y la hora, <br>
-        <strong>Entonces</strong> la cita se confirma y se agrega a mi calendario. <br><br>
-        <strong>Escenario 2:</strong> Si la cita es urgente, se prioriza y notifica al usuario. <br>
-        <strong>Dado que</strong> mi perro requiere una cita urgente, <br>
-        <strong>Cuando</strong> selecciono la opción de urgencia, <br>
-        <strong>Entonces</strong> la cita se prioriza y se me notifica inmediatamente.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>US05</td>
-      <td>Gestionar Actividades de Ejercicio</td>
-      <td>Como usuario, quiero gestionar las actividades de ejercicio de mi perro para asegurarme de que haga suficiente ejercicio.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario registra un paseo y se añade automáticamente al calendario. <br>
-        <strong>Dado que</strong> quiero registrar un paseo para mi perro, <br>
-        <strong>Cuando</strong> ingreso la actividad en la plataforma, <br>
-        <strong>Entonces</strong> se añade automáticamente al calendario de actividades. <br><br>
-        <strong>Escenario 2:</strong> El usuario ingresa una caminata diaria y la plataforma lo recuerda cada semana. <br>
-        <strong>Dado que</strong> planeo hacer una caminata diaria, <br>
-        <strong>Cuando</strong> ingreso la actividad con frecuencia semanal, <br>
-        <strong>Entonces</strong> la plataforma me recuerda cada semana.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>US06</td>
-      <td>Notificación de Citas Médicas</td>
-      <td>Como usuario, quiero recibir notificaciones recordándome las citas médicas de mi perro.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe un recordatorio de la cita médica a medida que se acerca. <br>
-        <strong>Dado que</strong> mi perro tiene una cita médica agendada, <br>
-        <strong>Cuando</strong> la cita se acerca, <br>
-        <strong>Entonces</strong> recibo una notificación recordándome la cita. <br><br>
-        <strong>Escenario 2:</strong> La plataforma avisa al usuario cuando se aproxima a la ubicación de la cita. <br>
-        <strong>Dado que</strong> tengo una cita médica programada, <br>
-        <strong>Cuando</strong> me aproximo al lugar, <br>
-        <strong>Entonces</strong> la aplicación me avisa para que no me olvide de llegar.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>EP03</td>
-      <td>Bienestar y Salud del Perro</td>
-      <td>Como sistema, necesito proporcionar recomendaciones de salud y seguimiento para mejorar el bienestar de los perros.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>US07</td>
-      <td>Consultar Recomendaciones de Alimentación</td>
-      <td>Como usuario, quiero recibir recomendaciones de alimentación para mi perro basadas en su raza y edad.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe recomendaciones de alimentos según la raza y edad de su perro. <br>
-        <strong>Dado que</strong> estoy buscando información sobre la dieta de mi perro, <br>
-        <strong>Cuando</strong> accedo a la sección de recomendaciones de alimentación, <br>
-        <strong>Entonces</strong> obtengo una lista con alimentos recomendados para su raza y edad. <br><br>
-        <strong>Escenario 2:</strong> Si el perro tiene un problema de salud, la plataforma sugiere dietas adaptadas. <br>
-        <strong>Dado que</strong> mi perro tiene un problema de salud, <br>
-        <strong>Cuando</strong> ingreso sus condiciones, <br>
-        <strong>Entonces</strong> la plataforma me sugiere dietas adaptadas a su situación.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US08</td>
-      <td>Consultar Estado de Salud</td>
-      <td>Como usuario, quiero ver el historial médico de mi perro para tener un panorama claro sobre su salud.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario consulta las vacunas de su perro en el historial médico. <br>
-        <strong>Dado que</strong> quiero consultar las vacunas de mi perro, <br>
-        <strong>Cuando</strong> accedo a su historial médico, <br>
-        <strong>Entonces</strong> puedo ver las fechas y detalles de las vacunas administradas. <br><br>
-        <strong>Escenario 2:</strong> El usuario revisa los tratamientos previos que ha recibido el perro. <br>
-        <strong>Dado que</strong> quiero saber qué tratamientos ha recibido, <br>
-        <strong>Cuando</strong> reviso su historial, <br>
-        <strong>Entonces</strong> encuentro todos los tratamientos con sus respectivas fechas y detalles.
-      </td>
-      <td>EP03</td>
-    </tr>
-<tr>
-      <td>US09</td>
-      <td>Ver Notificaciones de Bienestar</td>
-      <td>Como usuario, quiero recibir notificaciones relacionadas con el bienestar de mi perro, como alertas para nuevas vacunas o chequeos.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe una notificación para una vacuna próxima de su perro. <br>
-        <strong>Dado que</strong> mi perro tiene una próxima vacuna, <br>
-        <strong>Cuando</strong> se acerca la fecha de la vacuna, <br>
-        <strong>Entonces</strong> recibo una notificación informándome del recordatorio. <br><br>
-        <strong>Escenario 2:</strong> El usuario recibe una alerta para un chequeo programado de su perro. <br>
-        <strong>Dado que</strong> mi perro tiene un chequeo programado, <br>
-        <strong>Cuando</strong> la fecha se acerca, <br>
-        <strong>Entonces</strong> me llega una alerta sobre la cita programada.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>EP04</td>
-      <td>Comunicación y Soporte</td>
-      <td>Como sistema, necesito ofrecer soporte y comunicación con veterinarios para resolver dudas y problemas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Interacción con Veterinario</td>
-      <td>Como usuario, quiero poder comunicarme directamente con un veterinario a través de la plataforma.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario envía preguntas al veterinario y recibe respuestas en tiempo real. <br>
-        <strong>Dado que</strong> tengo preguntas sobre el cuidado de mi perro, <br>
-        <strong>Cuando</strong> accedo al chat con el veterinario, <br>
-        <strong>Entonces</strong> puedo enviarle preguntas y recibir respuestas en tiempo real. <br><br>
-        <strong>Escenario 2:</strong> El usuario contacta al veterinario para una consulta inicial en línea. <br>
-        <strong>Dado que</strong> mi perro está enfermo, <br>
-        <strong>Cuando</strong> contacto al veterinario a través de la plataforma, <br>
-        <strong>Entonces</strong> puedo recibir una consulta inicial en línea.
-      </td>
-      <td>EP04</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Soporte al Usuario</td>
-      <td>Como usuario, quiero recibir soporte en caso de problemas técnicos con la plataforma.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe asistencia técnica dentro de las 24 horas. <br>
-        <strong>Dado que</strong> tengo un problema con la plataforma, <br>
-        <strong>Cuando</strong> me comunico con el soporte, <br>
-        <strong>Entonces</strong> recibo asistencia dentro de las 24 horas. <br><br>
-        <strong>Escenario 2:</strong> El usuario consulta la sección de ayuda y sigue un tutorial paso a paso. <br>
-        <strong>Dado que</strong> quiero saber cómo funciona una función de la plataforma, <br>
-        <strong>Cuando</strong> accedo a la sección de ayuda, <br>
-        <strong>Entonces</strong> encuentro un tutorial paso a paso.
-      </td>
-      <td>EP04</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Responder Consultas Comunes</td>
-      <td>Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario consulta la sección de preguntas frecuentes y encuentra respuestas claras. <br>
-        <strong>Dado que</strong> tengo dudas sobre el uso de la plataforma, <br>
-        <strong>Cuando</strong> accedo a las preguntas frecuentes, <br>
-        <strong>Entonces</strong> encuentro respuestas claras a mis inquietudes. <br><br>
-        <strong>Escenario 2:</strong> El usuario busca cómo configurar una notificación y encuentra la guía adecuada. <br>
-        <strong>Dado que</strong> quiero saber cómo configurar una notificación, <br>
-        <strong>Cuando</strong> reviso la sección de preguntas frecuentes, <br>
-        <strong>Entonces</strong> encuentro una guía sobre cómo hacerlo.
-      </td>
-      <td>EP04</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Edición de Perfil</td>
-      <td>Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario edita los datos de su perro y la plataforma guarda la nueva información. <br>
-        <strong>Dado que</strong> quiero cambiar los datos de mi perro, <br>
-        <strong>Cuando</strong> accedo a la sección de perfil, <br>
-        <strong>Entonces</strong> puedo editar la información y guardarla correctamente. <br><br>
-        <strong>Escenario 2:</strong> El usuario actualiza su correo electrónico y el perfil se actualiza correctamente. <br>
-        <strong>Dado que</strong> quiero cambiar mi dirección de correo electrónico, <br>
-        <strong>Cuando</strong> ingreso una nueva dirección, <br>
-        <strong>Entonces</strong> la plataforma actualiza mi perfil con el nuevo correo.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Cambio de Contraseña</td>
-      <td>Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario selecciona "cambiar contraseña", ingresa una nueva y la confirma. <br>
-        <strong>Dado que</strong> quiero cambiar mi contraseña, <br>
-        <strong>Cuando</strong> selecciono la opción de cambiar contraseña, <br>
-        <strong>Entonces</strong> ingreso una nueva contraseña y la confirmo. <br><br>
-        <strong>Escenario 2:</strong> El usuario olvida su contraseña, solicita restablecimiento y recibe un enlace para hacerlo. <br>
-        <strong>Dado que</strong> olvidé mi contraseña, <br>
-        <strong>Cuando</strong> selecciono "Olvidé mi contraseña", <br>
-        <strong>Entonces</strong> recibo un enlace para restablecerla por correo electrónico.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>US15</td>
-      <td>Gestión de Recordatorios</td>
-      <td>Como usuario, quiero que la plataforma me envíe recordatorios para mis citas médicas y actividades de mi perro.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe un recordatorio cuando se acerca una cita médica programada. <br>
-        <strong>Dado que</strong> tengo una cita médica programada, <br>
-        <strong>Cuando</strong> la fecha de la cita se acerca, <br>
-        <strong>Entonces</strong> la plataforma me envía un recordatorio con los detalles. <br><br>
-        <strong>Escenario 2:</strong> El usuario recibe un recordatorio semanal para una actividad recurrente, como el paseo diario. <br>
-        <strong>Dado que</strong> tengo una actividad recurrente (por ejemplo, paseo diario), <br>
-        <strong>Cuando</strong> se aproxima el horario de la actividad, <br>
-        <strong>Entonces</strong> la plataforma me envía una notificación recordándome la actividad.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>US16</td>
-      <td>Confirmación de Citas</td>
-      <td>Como usuario, quiero confirmar la asistencia a las citas médicas para asegurar que todo está organizado.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario recibe una notificación de cita y la confirma a través de la plataforma. <br>
-        <strong>Dado que</strong> tengo una cita programada, <br>
-        <strong>Cuando</strong> recibo la notificación de la cita, <br>
-        <strong>Entonces</strong> puedo confirmar la cita desde la plataforma. <br><br>
-        <strong>Escenario 2:</strong> Si el usuario no puede asistir a la cita, la plataforma le permite cancelar y reprogramar. <br>
-        <strong>Dado que</strong> no puedo asistir a una cita, <br>
-        <strong>Cuando</strong> selecciono la opción de cancelar, <br>
-        <strong>Entonces</strong> la plataforma me solicita la reprogramación de la cita.
-      </td>
-      <td>EP02</td>
-    </tr>
-<tr>
-      <td>US17</td>
-      <td>Control de Alimentación</td>
-      <td>Como usuario, quiero hacer un seguimiento de la alimentación de mi perro para asegurarme de que está recibiendo la nutrición adecuada.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario registra la alimentación diaria de su perro, que queda guardada en el historial de actividades. <br>
-        <strong>Dado que</strong> quiero llevar un registro de la alimentación de mi perro, <br>
-        <strong>Cuando</strong> ingreso los alimentos que le doy, <br>
-        <strong>Entonces</strong> la plataforma guarda la información en el historial de actividades. <br><br>
-        <strong>Escenario 2:</strong> El usuario cambia la dieta de su perro, y la plataforma ofrece recomendaciones personalizadas basadas en sus nuevas necesidades. <br>
-        <strong>Dado que</strong> quiero cambiar la dieta de mi perro, <br>
-        <strong>Cuando</strong> selecciono las opciones de nueva alimentación, <br>
-        <strong>Entonces</strong> la plataforma me recomienda alimentos según sus necesidades.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US18</td>
-      <td>Consultas sobre Salud</td>
-      <td>Como usuario, quiero realizar consultas sobre la salud de mi perro para estar informado sobre su bienestar.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario busca información sobre síntomas de malestar en su perro y recibe recomendaciones básicas. <br>
-        <strong>Dado que</strong> mi perro presenta síntomas de malestar, <br>
-        <strong>Cuando</strong> ingreso a la sección de salud, <br>
-        <strong>Entonces</strong> la plataforma me da recomendaciones básicas sobre lo que podría estar ocurriendo. <br><br>
-        <strong>Escenario 2:</strong> El usuario contacta a un veterinario a través de la plataforma para resolver dudas sobre el tratamiento de su perro. <br>
-        <strong>Dado que</strong> tengo dudas sobre el tratamiento de mi perro, <br>
-        <strong>Cuando</strong> accedo a la sección de consultas, <br>
-        <strong>Entonces</strong> la plataforma me ofrece una opción para contactar con un veterinario.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US19</td>
-      <td>Soporte Técnico de la Plataforma</td>
-      <td>Como usuario, quiero recibir soporte técnico en caso de problemas con la plataforma para garantizar su buen funcionamiento.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario contacta al soporte técnico por un problema y recibe ayuda dentro de 24 horas. <br>
-        <strong>Dado que</strong> tengo un problema técnico con la plataforma, <br>
-        <strong>Cuando</strong> contacto con el soporte, <br>
-        <strong>Entonces</strong> recibo ayuda dentro de las 24 horas. <br><br>
-        <strong>Escenario 2:</strong> El usuario enfrenta dificultades para acceder a su cuenta y el soporte técnico lo guía para resolver el problema. <br>
-        <strong>Dado que</strong> tengo dificultades para acceder a mi cuenta, <br>
-        <strong>Cuando</strong> solicito asistencia, <br>
-        <strong>Entonces</strong> el soporte técnico me guía para resolver el problema.
-      </td>
-      <td>EP04</td>
-    </tr>
-    <tr>
-      <td>US20</td>
-      <td>Información General y Ayuda</td>
-      <td>Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte.</td>
-      <td>
-        <strong>Escenario 1:</strong> El usuario consulta la sección de ayuda y encuentra tutoriales y respuestas a preguntas frecuentes. <br>
-        <strong>Dado que</strong> tengo dudas sobre cómo usar la plataforma, <br>
-        <strong>Cuando</strong> accedo a la sección de ayuda, <br>
-        <strong>Entonces</strong> puedo encontrar tutoriales y respuestas a preguntas frecuentes. <br><br>
-        <strong>Escenario 2:</strong> El usuario aprende a agregar una actividad para su perro a través de la guía paso a paso en la sección de preguntas frecuentes. <br>
-        <strong>Dado que</strong> quiero saber cómo agregar una nueva actividad para mi perro, <br>
-        <strong>Cuando</strong> reviso las preguntas frecuentes, <br>
-        <strong>Entonces</strong> encuentro una guía paso a paso para realizar la acción.
-      </td>
-      <td>EP04</td>
-    </tr>
-<tr>
-      <td>TS01</td>
-      <td>Registro de Nuevo Usuario</td>
-      <td>Como desarrollador, necesito registrar nuevos usuarios mediante una API para permitir el acceso al sistema.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que tengo acceso a la API de registro de usuarios, <br>
-        Cuando solicito registrar un usuario con datos válidos, <br>
-        Entonces recibo confirmación de usuario creado con su identificador. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que tengo acceso a la API de registro de usuarios, <br>
-        Cuando solicito registrar un usuario con un email ya existente, <br>
-        Entonces recibo un mensaje indicando que el email ya está registrado.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>TS02</td>
-      <td>Edición de Perfil del Usuario</td>
-      <td>Como desarrollador, necesito permitir que los usuarios editen su perfil para mantener la información actualizada.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que el usuario está autenticado, <br>
-        Cuando selecciona la opción de editar perfil, <br>
-        Entonces la plataforma debe mostrar los campos del perfil con la opción de modificarlos. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que el usuario cambia su dirección de correo electrónico, <br>
-        Cuando ingresa una nueva dirección, <br>
-        Entonces la plataforma debe actualizar su perfil con el nuevo correo.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>TS03</td>
-      <td>Cambio de Contraseña</td>
-      <td>Como desarrollador, necesito permitir que los usuarios cambien su contraseña para mejorar la seguridad.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que el usuario accede a la opción de cambiar contraseña, <br>
-        Cuando introduce una nueva contraseña y la confirma, <br>
-        Entonces el sistema debe actualizar su contraseña con la nueva. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que el usuario ha olvidado su contraseña, <br>
-        Cuando selecciona "Olvidé mi contraseña" y sigue los pasos, <br>
-        Entonces el sistema le enviará un enlace para restablecer la contraseña.
-      </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>TS04</td>
-      <td>Gestión de Recordatorios Automáticos</td>
-      <td>Como desarrollador, necesito configurar recordatorios automáticos para las citas y actividades de los usuarios.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que un usuario tiene una cita médica programada, <br>
-        Cuando se acerca la fecha de la cita, <br>
-        Entonces la plataforma enviará una notificación recordando al usuario sobre la cita. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que un usuario tiene una actividad programada (paseo, alimentación), <br>
-        Cuando se acerque el horario, <br>
-        Entonces el sistema enviará un recordatorio de la actividad programada.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>TS05</td>
-      <td>Confirmación de Citas</td>
-      <td>Como desarrollador, necesito crear un sistema para que los usuarios confirmen o cancelen sus citas.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que un usuario recibe una notificación sobre una cita programada, <br>
-        Cuando hace clic en "Confirmar cita", <br>
-        Entonces la plataforma actualizará el estado de la cita a "confirmada". <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que un usuario no puede asistir a la cita, <br>
-        Cuando selecciona la opción "Cancelar cita", <br>
-        Entonces la plataforma pedirá al usuario que reprograma la cita.
-      </td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>TS06</td>
-      <td>Registro de Alimentación</td>
-      <td>Como desarrollador, necesito permitir que los usuarios registren la alimentación de sus perros.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que el usuario tiene una nueva comida para su perro, <br>
-        Cuando el usuario ingresa la comida en la plataforma, <br>
-        Entonces la plataforma guardará la información en el historial. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que el usuario desea cambiar la dieta de su perro, <br>
-        Cuando ingresa una nueva opción de alimentación, <br>
-        Entonces la plataforma le recomienda productos basados en la raza del perro.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>TS07</td>
-      <td>Consultas sobre Salud</td>
-      <td>Como desarrollador, necesito que los usuarios puedan hacer consultas sobre la salud de sus perros en la plataforma.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que el usuario tiene dudas sobre la salud de su perro, <br>
-        Cuando consulta la sección de salud, <br>
-        Entonces la plataforma le muestra información relevante y recomendaciones generales. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que el usuario tiene síntomas que le preocupan, <br>
-        Cuando ingresa su consulta, <br>
-        Entonces la plataforma ofrece la opción de contactar con un veterinario.
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>TS08</td>
-      <td>Soporte Técnico</td>
-      <td>Como desarrollador, necesito crear un sistema de soporte técnico para los usuarios.</td>
-      <td>
-        <strong>Escenario 1:</strong> <br>
-        Dado que el usuario tiene un problema técnico, <br>
-        Cuando contacta con el soporte, <br>
-        Entonces el sistema crea un ticket y lo notifica al usuario. <br><br>
-        <strong>Escenario 2:</strong> <br>
-        Dado que el problema no se resuelve por teléfono, <br>
-        Cuando el soporte envía una solución vía email, <br>
-        Entonces el usuario recibe instrucciones claras para solucionar el problema.
-      </td>
-      <td>EP04</td>
-    </tr>
-<tr>
-  <td>TS09</td>
-  <td>Resolución de Problemas de Plataforma</td>
-  <td>Como desarrollador, necesito garantizar que los usuarios puedan solucionar problemas comunes de acceso.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario no puede iniciar sesión en la plataforma, <br>
-    Cuando selecciona "Olvidé mi contraseña", <br>
-    Entonces recibe un enlace para restablecerla. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario no puede acceder debido a un error técnico, <br>
-    Cuando contacta con soporte, <br>
-    Entonces el equipo técnico realiza una revisión y resuelve el problema.
-  </td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>TS10</td>
-  <td>Página de Ayuda</td>
-  <td>Como desarrollador, quiero crear una página de ayuda donde los usuarios puedan obtener respuestas rápidas.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario tiene preguntas frecuentes, <br>
-    Cuando accede a la sección de ayuda, <br>
-    Entonces puede encontrar una lista de problemas comunes con soluciones detalladas. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario busca información técnica específica, <br>
-    Cuando accede a los tutoriales, <br>
-    Entonces puede seguir un paso a paso que le ayude a resolver sus dudas.
-  </td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>TS11</td>
-  <td>Validación de Datos del Usuario</td>
-  <td>Como desarrollador, necesito validar los datos ingresados por los usuarios para evitar registros incorrectos.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que un usuario ingresa un nombre y correo válido, <br>
-    Cuando envía el formulario, <br>
-    Entonces el sistema valida los datos y los guarda en la base de datos. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario ingresa un correo electrónico no válido, <br>
-    Cuando envía el formulario, <br>
-    Entonces el sistema muestra un mensaje de error indicando que el correo no es válido.
-  </td>
-  <td>EP01</td>
-</tr>
-<tr>
-  <td>TS12</td>
-  <td>Verificación de Correo Electrónico</td>
-  <td>Como desarrollador, necesito que los usuarios verifiquen su correo electrónico después de registrarse.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario ha registrado su cuenta, <br>
-    Cuando el sistema envía un correo de verificación, <br>
-    Entonces el usuario hace clic en el enlace de verificación. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario no verifica su correo electrónico, <br>
-    Cuando intenta iniciar sesión, <br>
-    Entonces el sistema le recuerda verificar su correo electrónico antes de continuar.
-  </td>
-  <td>EP01</td>
-</tr>
-<tr>
-  <td>TS13</td>
-  <td>Cancelación de Citas Médicas</td>
-  <td>Como desarrollador, necesito que los usuarios puedan cancelar sus citas médicas fácilmente.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario tiene una cita médica programada, <br>
-    Cuando hace clic en "Cancelar cita", <br>
-    Entonces el sistema le pregunta si está seguro de cancelar. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario confirma la cancelación, <br>
-    Cuando el sistema procesa la cancelación, <br>
-    Entonces la cita se elimina de su calendario y el veterinario es notificado.
-  </td>
-  <td>EP02</td>
-</tr>
-<tr>
-  <td>TS14</td>
-  <td>Reprogramación de Citas</td>
-  <td>Como desarrollador, necesito que los usuarios puedan reprogramar sus citas médicas.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario desea cambiar la fecha de una cita médica, <br>
-    Cuando elige una nueva fecha, <br>
-    Entonces el sistema actualiza la cita en el calendario del usuario. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario elige una fecha que ya está ocupada, <br>
-    Cuando intenta confirmar la cita, <br>
-    Entonces el sistema muestra un mensaje indicando que la fecha ya está ocupada.
-  </td>
-  <td>EP02</td>
-</tr>
-<tr>
-  <td>TS15</td>
-  <td>Notificación de Citas Programadas</td>
-  <td>Como desarrollador, quiero enviar una notificación automática a los usuarios recordándoles sus citas programadas.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario tiene una cita programada para el día siguiente, <br>
-    Cuando se acerca la fecha de la cita, <br>
-    Entonces el sistema envía una notificación recordando al usuario sobre la cita. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario tiene una cita programada para una semana más tarde, <br>
-    Cuando se acerca la fecha de la cita, <br>
-    Entonces el sistema envía un recordatorio anticipado.
-  </td>
-  <td>EP02</td>
-</tr>
-<tr>
-  <td>TS16</td>
-  <td>Recordatorio de Alimentación</td>
-  <td>Como desarrollador, necesito que el sistema envíe recordatorios automáticos a los usuarios para alimentar a sus perros.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario ha programado una hora para alimentar a su perro, <br>
-    Cuando se acerca la hora de alimentación, <br>
-    Entonces el sistema envía un recordatorio al usuario. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario ha seleccionado un tipo de alimento específico para su perro, <br>
-    Cuando se acerca la hora de alimentación, <br>
-    Entonces el sistema envía un recordatorio indicando el tipo de alimento que debe dar.
-  </td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>TS17</td>
-  <td>Registro de Visitas al Veterinario</td>
-  <td>Como desarrollador, necesito que el sistema permita registrar las visitas al veterinario de los perros.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario ha llevado a su perro al veterinario, <br>
-    Cuando el usuario ingresa los detalles de la visita, <br>
-    Entonces el sistema registra la información en el historial médico del perro. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario tiene una nueva visita programada al veterinario, <br>
-    Cuando el usuario ingresa la cita en el sistema, <br>
-    Entonces la visita se agrega al calendario de la plataforma.
-  </td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>TS18</td>
-  <td>Recomendaciones de Ejercicio</td>
-  <td>Como desarrollador, quiero que el sistema envíe recomendaciones de ejercicio personalizadas según la raza del perro.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario ha registrado la raza de su perro, <br>
-    Cuando el sistema analiza la raza, <br>
-    Entonces le envía recomendaciones de ejercicio adaptadas a esa raza. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario desea obtener un plan de ejercicio personalizado, <br>
-    Cuando introduce detalles como la edad y peso del perro, <br>
-    Entonces el sistema genera recomendaciones basadas en la salud del perro.
-  </td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>TS19</td>
-  <td>Notificación de Soporte Técnico</td>
-  <td>Como desarrollador, quiero que los usuarios reciban notificaciones cuando se resuelva un ticket de soporte técnico.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que un usuario ha abierto un ticket de soporte, <br>
-    Cuando el problema se resuelve, <br>
-    Entonces el sistema envía una notificación al usuario informándole que su problema ha sido solucionado. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario tiene dudas sobre su problema, <br>
-    Cuando el soporte técnico resuelve el problema, <br>
-    Entonces se envía una notificación detallada al usuario con la solución.
-  </td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>TS20</td>
-  <td>Asistencia en Vivo</td>
-  <td>Como desarrollador, necesito implementar un chat en vivo para que los usuarios puedan interactuar con el soporte.</td>
-  <td>
-    <strong>Escenario 1:</strong> <br>
-    Dado que el usuario necesita ayuda, <br>
-    Cuando accede a la opción de soporte en vivo, <br>
-    Entonces se abre una ventana de chat donde puede interactuar con un representante de soporte. <br><br>
-    <strong>Escenario 2:</strong> <br>
-    Dado que el usuario está en una llamada de soporte en vivo, <br>
-    Cuando el representante ofrece una solución, <br>
-    Entonces el usuario recibe una confirmación de que el problema ha sido resuelto.
-  </td>
-  <td>EP04</td>
-</tr>
-  </tbody>
-</table>
+Epic/User Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
+|-------------------|-------|-------------|------------------------|--------------------------|
+EP01|Registro y Gestión de Usuarios|Como sistema, necesito permitir el registro, inicio de sesión y configuración de perfil para que los usuarios accedan y gestionen sus datos.|N/A|N/A|
+US01|Registro de Usuario Nuevo|Como usuario, quiero registrarme en la plataforma para comenzar a usarla.|Escenario 1: El usuario completa el registro y recibe confirmación de bienvenida.  Dado que soy un nuevo usuario, Cuando completo el formulario de registro, Entonces mi cuenta es creada y recibo una confirmación de bienvenida. Escenario 2: Si el correo ya está registrado, el sistema lo notifica. Dado que intento registrarme con un correo electrónico ya existente, Cuando ingreso mi correo, Entonces la plataforma me notifica que ya existe una cuenta asociada con ese correo.|EP01|
+US02|Inicio de Sesión de Usuario|Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma.|Escenario 1: El usuario ingresa usuario y contraseña, accediendo a su perfil.  Dado que tengo una cuenta registrada, Cuando ingreso mi usuario y contraseña, Entonces accedo a mi perfil personal. Escenario 2: Si olvida la contraseña, el usuario recibe un enlace para restablecerla. Dado que olvidé mi contraseña, Cuando selecciono "Olvidé mi contraseña", Entonces recibo un enlace para restablecerla.|EP01|
+US03|Configuración Inicial del Perfil|Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.|Escenario 1: El usuario ingresa los datos de su perro y recibe recomendaciones personalizadas.  Dado que estoy registrando a mi perro, Cuando ingreso sus datos, Entonces la plataforma me proporciona recomendaciones personalizadas basadas en la raza y edad de mi perro. Escenario 2: El usuario actualiza la información del perro y la plataforma la guarda. Dado que quiero actualizar los datos de mi perro, Cuando edito su perfil, Entonces la plataforma guarda la nueva información correctamente.|EP01|
+EP02|Gestión de Citas y Actividades|Como sistema, necesito permitir que los usuarios agenden citas y gestionen actividades para cuidar a sus perros.|N/A|N/A|
+US04|Agendar Cita Médica|Como usuario, quiero agendar citas médicas para mi perro en la plataforma.|Escenario 1: El usuario agenda una cita y se confirma en su calendario.  Dado que quiero agendar una cita para mi perro, Cuando selecciono el día y la hora, Entonces la cita se confirma y se agrega a mi calendario. Escenario 2: Si la cita es urgente, se prioriza y notifica al usuario. Dado que mi perro requiere una cita urgente, Cuando selecciono la opción de urgencia, Entonces la cita se prioriza y se me notifica inmediatamente.|EP02|
+US05|Gestionar Actividades de Ejercicio|Como usuario, quiero gestionar las actividades de ejercicio de mi perro para asegurarme de que haga suficiente ejercicio.|Escenario 1: El usuario registra un paseo y se añade automáticamente al calendario.  Dado que quiero registrar un paseo para mi perro, Cuando ingreso la actividad en la plataforma, Entonces se añade automáticamente al calendario de actividades. Escenario 2: El usuario ingresa una caminata diaria y la plataforma lo recuerda cada semana. Dado que planeo hacer una caminata diaria, Cuando ingreso la actividad con frecuencia semanal, Entonces la plataforma me recuerda cada semana.|EP02|
+US06|Notificación de Citas Médicas|Como usuario, quiero recibir notificaciones recordándome las citas médicas de mi perro.|Escenario 1: El usuario recibe un recordatorio de la cita médica a medida que se acerca.  Dado que mi perro tiene una cita médica agendada, Cuando la cita se acerca, Entonces recibo una notificación recordándome la cita. Escenario 2: La plataforma avisa al usuario cuando se aproxima a la ubicación de la cita. Dado que tengo una cita médica programada, Cuando me aproximo al lugar, Entonces la aplicación me avisa para que no me olvide de llegar.|EP02|
+EP03|Bienestar y Salud del Perro|Como sistema, necesito proporcionar recomendaciones de salud y seguimiento para mejorar el bienestar de los perros.|N/A|N/A|
+US07|Consultar Recomendaciones de Alimentación|Como usuario, quiero recibir recomendaciones de alimentación para mi perro basadas en su raza y edad.|Escenario 1: El usuario recibe recomendaciones de alimentos según la raza y edad de su perro.  Dado que estoy buscando información sobre la dieta de mi perro, Cuando accedo a la sección de recomendaciones de alimentación, Entonces obtengo una lista con alimentos recomendados para su raza y edad. Escenario 2: Si el perro tiene un problema de salud, la plataforma sugiere dietas adaptadas. Dado que mi perro tiene un problema de salud, Cuando ingreso sus condiciones, Entonces la plataforma me sugiere dietas adaptadas a su situación.|EP03|
+US08|Consultar Estado de Salud|Como usuario, quiero ver el historial médico de mi perro para tener un panorama claro sobre su salud.|Escenario 1: El usuario consulta las vacunas de su perro en el historial médico.  Dado que quiero consultar las vacunas de mi perro, Cuando accedo a su historial médico, Entonces puedo ver las fechas y detalles de las vacunas administradas. Escenario 2: El usuario revisa los tratamientos previos que ha recibido el perro. Dado que quiero saber qué tratamientos ha recibido, Cuando reviso su historial, Entonces encuentro todos los tratamientos con sus respectivas fechas y detalles.|EP03|
+US09|Ver Notificaciones de Bienestar|Como usuario, quiero recibir notificaciones relacionadas con el bienestar de mi perro, como alertas para nuevas vacunas o chequeos.|Escenario 1: El usuario recibe una notificación para una vacuna próxima de su perro.  Dado que mi perro tiene una próxima vacuna, Cuando se acerca la fecha de la vacuna, Entonces recibo una notificación informándome del recordatorio. Escenario 2: El usuario recibe una alerta para un chequeo programado de su perro. Dado que mi perro tiene un chequeo programado, Cuando la fecha se acerca, Entonces me llega una alerta sobre la cita programada.|EP03|
+EP04|Comunicación y Soporte|Como sistema, necesito ofrecer soporte y comunicación con veterinarios para resolver dudas y problemas.|N/A|N/A|
+US10|Interacción con Veterinario|Como usuario, quiero poder comunicarme directamente con un veterinario a través de la plataforma.|Escenario 1: El usuario envía preguntas al veterinario y recibe respuestas en tiempo real.  Dado que tengo preguntas sobre el cuidado de mi perro, Cuando accedo al chat con el veterinario, Entonces puedo enviarle preguntas y recibir respuestas en tiempo real. Escenario 2: El usuario contacta al veterinario para una consulta inicial en línea. Dado que mi perro está enfermo, Cuando contacto al veterinario a través de la plataforma, Entonces puedo recibir una consulta inicial en línea.|EP04|
+US11|Soporte al Usuario|Como usuario, quiero recibir soporte en caso de problemas técnicos con la plataforma.|Escenario 1: El usuario recibe asistencia técnica dentro de las 24 horas.  Dado que tengo un problema con la plataforma, Cuando me comunico con el soporte, Entonces recibo asistencia dentro de las 24 horas. Escenario 2: El usuario consulta la sección de ayuda y sigue un tutorial paso a paso. Dado que quiero saber cómo funciona una función de la plataforma, Cuando accedo a la sección de ayuda, Entonces encuentro un tutorial paso a paso.|EP04|
+US12|Responder Consultas Comunes|Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes.|Escenario 1: El usuario consulta la sección de preguntas frecuentes y encuentra respuestas claras.  Dado que tengo dudas sobre el uso de la plataforma, Cuando accedo a las preguntas frecuentes, Entonces encuentro respuestas claras a mis inquietudes. Escenario 2: El usuario busca cómo configurar una notificación y encuentra la guía adecuada. Dado que quiero saber cómo configurar una notificación, Cuando reviso la sección de preguntas frecuentes, Entonces encuentro una guía sobre cómo hacerlo.|EP04|
+US13|Edición de Perfil|Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro.|Escenario 1: El usuario edita los datos de su perro y la plataforma guarda la nueva información.  Dado que quiero cambiar los datos de mi perro, Cuando accedo a la sección de perfil, Entonces puedo editar la información y guardarla correctamente. Escenario 2: El usuario actualiza su correo electrónico y el perfil se actualiza correctamente. Dado que quiero cambiar mi dirección de correo electrónico, Cuando ingreso una nueva dirección, Entonces la plataforma actualiza mi perfil con el nuevo correo.|EP01|
+US14|Cambio de Contraseña|Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta.|Escenario 1: El usuario selecciona "cambiar contraseña", ingresa una nueva y la confirma.  Dado que quiero cambiar mi contraseña, Cuando selecciono la opción de cambiar contraseña, Entonces ingreso una nueva contraseña y la confirmo. Escenario 2: El usuario olvida su contraseña, solicita restablecimiento y recibe un enlace para hacerlo. Dado que olvidé mi contraseña, Cuando selecciono "Olvidé mi contraseña", Entonces recibo un enlace para restablecerla por correo electrónico.|EP01|
+US15|Gestión de Recordatorios|Como usuario, quiero que la plataforma me envíe recordatorios para mis citas médicas y actividades de mi perro.|Escenario 1: El usuario recibe un recordatorio cuando se acerca una cita médica programada.  Dado que tengo una cita médica programada, Cuando la fecha de la cita se acerca, Entonces la plataforma me envía un recordatorio con los detalles. Escenario 2: El usuario recibe un recordatorio semanal para una actividad recurrente, como el paseo diario. Dado que tengo una actividad recurrente (por ejemplo, paseo diario), Cuando se aproxima el horario de la actividad, Entonces la plataforma me envía una notificación recordándome la actividad.|EP02|
+US16|Confirmación de Citas|Como usuario, quiero confirmar la asistencia a las citas médicas para asegurar que todo está organizado.|Escenario 1: El usuario recibe una notificación de cita y la confirma a través de la plataforma.  Dado que tengo una cita programada, Cuando recibo la notificación de la cita, Entonces puedo confirmar la cita desde la plataforma. Escenario 2: Si el usuario no puede asistir a la cita, la plataforma le permite cancelar y reprogramar. Dado que no puedo asistir a una cita, Cuando selecciono la opción de cancelar, Entonces la plataforma me solicita la reprogramación de la cita.|EP02|
+US17|Control de Alimentación|Como usuario, quiero hacer un seguimiento de la alimentación de mi perro para asegurarme de que está recibiendo la nutrición adecuada.|Escenario 1: El usuario registra la alimentación diaria de su perro, que queda guardada en el historial de actividades.  Dado que quiero llevar un registro de la alimentación de mi perro, Cuando ingreso los alimentos que le doy, Entonces la plataforma guarda la información en el historial de actividades. Escenario 2: El usuario cambia la dieta de su perro, y la plataforma ofrece recomendaciones personalizadas basadas en sus nuevas necesidades. Dado que quiero cambiar la dieta de mi perro, Cuando selecciono las opciones de nueva alimentación, Entonces la plataforma me recomienda alimentos según sus necesidades.|EP03|
+US18|Consultas sobre Salud|Como usuario, quiero realizar consultas sobre la salud de mi perro para estar informado sobre su bienestar.|Escenario 1: El usuario busca información sobre síntomas de malestar en su perro y recibe recomendaciones básicas.  Dado que mi perro presenta síntomas de malestar, Cuando ingreso a la sección de salud, Entonces la plataforma me da recomendaciones básicas sobre lo que podría estar ocurriendo. Escenario 2: El usuario contacta a un veterinario a través de la plataforma para resolver dudas sobre el tratamiento de su perro. Dado que tengo dudas sobre el tratamiento de mi perro, Cuando accedo a la sección de consultas, Entonces la plataforma me ofrece una opción para contactar con un veterinario.|EP03|
+US19|Soporte Técnico de la Plataforma|Como usuario, quiero recibir soporte técnico en caso de problemas con la plataforma para garantizar su buen funcionamiento.|Escenario 1: El usuario contacta al soporte técnico por un problema y recibe ayuda dentro de 24 horas.  Dado que tengo un problema técnico con la plataforma, Cuando contacto con el soporte, Entonces recibo ayuda dentro de las 24 horas. Escenario 2: El usuario enfrenta dificultades para acceder a su cuenta y el soporte técnico lo guía para resolver el problema. Dado que tengo dificultades para acceder a mi cuenta, Cuando solicito asistencia, Entonces el soporte técnico me guía para resolver el problema.|EP04|
+US20|Información General y Ayuda|Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte.|Escenario 1: El usuario consulta la sección de ayuda y encuentra tutoriales y respuestas a preguntas frecuentes.  Dado que tengo dudas sobre cómo usar la plataforma, Cuando accedo a la sección de ayuda, Entonces puedo encontrar tutoriales y respuestas a preguntas frecuentes. Escenario 2: El usuario aprende a agregar una actividad para su perro a través de la guía paso a paso en la sección de preguntas frecuentes. Dado que quiero saber cómo agregar una nueva actividad para mi perro, Cuando reviso las preguntas frecuentes, Entonces encuentro una guía paso a paso para realizar la acción.|EP04|
+TS01|Registro de Nuevo Usuario|Como desarrollador, necesito registrar nuevos usuarios mediante una API para permitir el acceso al sistema.|Escenario 1:  Dado que tengo acceso a la API de registro de usuarios, Cuando solicito registrar un usuario con datos válidos, Entonces recibo confirmación de usuario creado con su identificador. Escenario 2: Dado que tengo acceso a la API de registro de usuarios, Cuando solicito registrar un usuario con un email ya existente, Entonces recibo un mensaje indicando que el email ya está registrado.|EP01|
+TS02|Edición de Perfil del Usuario|Como desarrollador, necesito permitir que los usuarios editen su perfil para mantener la información actualizada.|Escenario 1:  Dado que el usuario está autenticado, Cuando selecciona la opción de editar perfil, Entonces la plataforma debe mostrar los campos del perfil con la opción de modificarlos. Escenario 2: Dado que el usuario cambia su dirección de correo electrónico, Cuando ingresa una nueva dirección, Entonces la plataforma debe actualizar su perfil con el nuevo correo.|EP01|
+TS03|Cambio de Contraseña|Como desarrollador, necesito permitir que los usuarios cambien su contraseña para mejorar la seguridad.|Escenario 1:  Dado que el usuario accede a la opción de cambiar contraseña, Cuando introduce una nueva contraseña y la confirma, Entonces el sistema debe actualizar su contraseña con la nueva. Escenario 2: Dado que el usuario ha olvidado su contraseña, Cuando selecciona "Olvidé mi contraseña" y sigue los pasos, Entonces el sistema le enviará un enlace para restablecer la contraseña.|EP01|
+TS04|Gestión de Recordatorios Automáticos|Como desarrollador, necesito configurar recordatorios automáticos para las citas y actividades de los usuarios.|Escenario 1:  Dado que un usuario tiene una cita médica programada, Cuando se acerca la fecha de la cita, Entonces la plataforma enviará una notificación recordando al usuario sobre la cita. Escenario 2: Dado que un usuario tiene una actividad programada (paseo, alimentación), Cuando se acerque el horario, Entonces el sistema enviará un recordatorio de la actividad programada.|EP02|
+TS05|Confirmación de Citas|Como desarrollador, necesito crear un sistema para que los usuarios confirmen o cancelen sus citas.|Escenario 1:  Dado que un usuario recibe una notificación sobre una cita programada, Cuando hace clic en "Confirmar cita", Entonces la plataforma actualizará el estado de la cita a "confirmada". Escenario 2: Dado que un usuario no puede asistir a la cita, Cuando selecciona la opción "Cancelar cita", Entonces la plataforma pedirá al usuario que reprograma la cita.|EP02|
+TS06|Registro de Alimentación|Como desarrollador, necesito permitir que los usuarios registren la alimentación de sus perros.|Escenario 1:  Dado que el usuario tiene una nueva comida para su perro, Cuando el usuario ingresa la comida en la plataforma, Entonces la plataforma guardará la información en el historial. Escenario 2: Dado que el usuario desea cambiar la dieta de su perro, Cuando ingresa una nueva opción de alimentación, Entonces la plataforma le recomienda productos basados en la raza del perro.|EP03|
+TS07|Consultas sobre Salud|Como desarrollador, necesito que los usuarios puedan hacer consultas sobre la salud de sus perros en la plataforma.|Escenario 1:  Dado que el usuario tiene dudas sobre la salud de su perro, Cuando consulta la sección de salud, Entonces la plataforma le muestra información relevante y recomendaciones generales. Escenario 2: Dado que el usuario tiene síntomas que le preocupan, Cuando ingresa su consulta, Entonces la plataforma ofrece la opción de contactar con un veterinario.|EP03|
+TS08|Soporte Técnico|Como desarrollador, necesito crear un sistema de soporte técnico para los usuarios.|Escenario 1:  Dado que el usuario tiene un problema técnico, Cuando contacta con el soporte, Entonces el sistema crea un ticket y lo notifica al usuario. Escenario 2: Dado que el problema no se resuelve por teléfono, Cuando el soporte envía una solución vía email, Entonces el usuario recibe instrucciones claras para solucionar el problema.|EP04|
+TS09|Resolución de Problemas de Plataforma|Como desarrollador, necesito garantizar que los usuarios puedan solucionar problemas comunes de acceso.|Escenario 1:  Dado que el usuario no puede iniciar sesión en la plataforma, Cuando selecciona "Olvidé mi contraseña", Entonces recibe un enlace para restablecerla. Escenario 2: Dado que el usuario no puede acceder debido a un error técnico, Cuando contacta con soporte, Entonces el equipo técnico realiza una revisión y resuelve el problema.|EP04|
+TS10|Página de Ayuda|Como desarrollador, quiero crear una página de ayuda donde los usuarios puedan obtener respuestas rápidas.|Escenario 1:  Dado que el usuario tiene preguntas frecuentes, Cuando accede a la sección de ayuda, Entonces puede encontrar una lista de problemas comunes con soluciones detalladas. Escenario 2: Dado que el usuario busca información técnica específica, Cuando accede a los tutoriales, Entonces puede seguir un paso a paso que le ayude a resolver sus dudas.|EP04|
+TS11|Validación de Datos del Usuario|Como desarrollador, necesito validar los datos ingresados por los usuarios para evitar registros incorrectos.|Escenario 1:  Dado que un usuario ingresa un nombre y correo válido, Cuando envía el formulario, Entonces el sistema valida los datos y los guarda en la base de datos. Escenario 2: Dado que el usuario ingresa un correo electrónico no válido, Cuando envía el formulario, Entonces el sistema muestra un mensaje de error indicando que el correo no es válido.|EP01|
+TS12|Verificación de Correo Electrónico|Como desarrollador, necesito que los usuarios verifiquen su correo electrónico después de registrarse.|Escenario 1:  Dado que el usuario ha registrado su cuenta, Cuando el sistema envía un correo de verificación, Entonces el usuario hace clic en el enlace de verificación. Escenario 2: Dado que el usuario no verifica su correo electrónico, Cuando intenta iniciar sesión, Entonces el sistema le recuerda verificar su correo electrónico antes de continuar.|EP01|
+TS13|Cancelación de Citas Médicas|Como desarrollador, necesito que los usuarios puedan cancelar sus citas médicas fácilmente.|Escenario 1:  Dado que el usuario tiene una cita médica programada, Cuando hace clic en "Cancelar cita", Entonces el sistema le pregunta si está seguro de cancelar. Escenario 2: Dado que el usuario confirma la cancelación, Cuando el sistema procesa la cancelación, Entonces la cita se elimina de su calendario y el veterinario es notificado.|EP02|
+TS14|Reprogramación de Citas|Como desarrollador, necesito que los usuarios puedan reprogramar sus citas médicas.|Escenario 1:  Dado que el usuario desea cambiar la fecha de una cita médica, Cuando elige una nueva fecha, Entonces el sistema actualiza la cita en el calendario del usuario. Escenario 2: Dado que el usuario elige una fecha que ya está ocupada, Cuando intenta confirmar la cita, Entonces el sistema muestra un mensaje indicando que la fecha ya está ocupada.|EP02|
+TS15|Notificación de Citas Programadas|Como desarrollador, quiero enviar una notificación automática a los usuarios recordándoles sus citas programadas.|Escenario 1:  Dado que el usuario tiene una cita programada para el día siguiente, Cuando se acerca la fecha de la cita, Entonces el sistema envía una notificación recordando al usuario sobre la cita. Escenario 2: Dado que el usuario tiene una cita programada para una semana más tarde, Cuando se acerca la fecha de la cita, Entonces el sistema envía un recordatorio anticipado.|EP02|
+TS16|Recordatorio de Alimentación|Como desarrollador, necesito que el sistema envíe recordatorios automáticos a los usuarios para alimentar a sus perros.|Escenario 1:  Dado que el usuario ha programado una hora para alimentar a su perro, Cuando se acerca la hora de alimentación, Entonces el sistema envía un recordatorio al usuario. Escenario 2: Dado que el usuario ha seleccionado un tipo de alimento específico para su perro, Cuando se acerca la hora de alimentación, Entonces el sistema envía un recordatorio indicando el tipo de alimento que debe dar.|EP03|
+TS17|Registro de Visitas al Veterinario|Como desarrollador, necesito que el sistema permita registrar las visitas al veterinario de los perros.|Escenario 1:  Dado que el usuario ha llevado a su perro al veterinario, Cuando el usuario ingresa los detalles de la visita, Entonces el sistema registra la información en el historial médico del perro. Escenario 2: Dado que el usuario tiene una nueva visita programada al veterinario, Cuando el usuario ingresa la cita en el sistema, Entonces la visita se agrega al calendario de la plataforma.|EP03|
+TS18|Recomendaciones de Ejercicio|Como desarrollador, quiero que el sistema envíe recomendaciones de ejercicio personalizadas según la raza del perro.|Escenario 1:  Dado que el usuario ha registrado la raza de su perro, Cuando el sistema analiza la raza, Entonces le envía recomendaciones de ejercicio adaptadas a esa raza. Escenario 2: Dado que el usuario desea obtener un plan de ejercicio personalizado, Cuando introduce detalles como la edad y peso del perro, Entonces el sistema genera recomendaciones basadas en la salud del perro.|EP03|
+TS19|Notificación de Soporte Técnico|Como desarrollador, quiero que los usuarios reciban notificaciones cuando se resuelva un ticket de soporte técnico.|Escenario 1:  Dado que un usuario ha abierto un ticket de soporte, Cuando el problema se resuelve, Entonces el sistema envía una notificación al usuario informándole que su problema ha sido solucionado. Escenario 2: Dado que el usuario tiene dudas sobre su problema, Cuando el soporte técnico resuelve el problema, Entonces se envía una notificación detallada al usuario con la solución.|EP04|
+TS20|Asistencia en Vivo|Como desarrollador, necesito implementar un chat en vivo para que los usuarios puedan interactuar con el soporte.|Escenario 1:  Dado que el usuario necesita ayuda, Cuando accede a la opción de soporte en vivo, Entonces se abre una ventana de chat donde puede interactuar con un representante de soporte. Escenario 2: Dado que el usuario está en una llamada de soporte en vivo, Cuando el representante ofrece una solución, Entonces el usuario recibe una confirmación de que el problema ha sido resuelto.|EP04|
+EP05|Gestión de Veterinarios|Como sistema, necesito permitir que los veterinarios accedan a la plataforma, gestionen sus citas y pacientes para que puedan brindar atención médica de manera organizada.|N/A|N/A|
+US21|Inicio de Sesión de Veterinario|Como veterinario, quiero iniciar sesión en la plataforma para acceder a mi panel de gestión de citas y pacientes.|Escenario 1: El veterinario ingresa sus credenciales y accede a su panel.  Dado que soy un veterinario registrado, Cuando ingreso mi usuario y contraseña en la pantalla de login, Entonces accedo a mi panel principal donde puedo ver mis pacientes y citas pendientes. Escenario 2: El veterinario ingresa credenciales incorrectas y recibe un mensaje de error. Dado que intento iniciar sesión con credenciales incorrectas, Cuando ingreso usuario o contraseña incorrectos, Entonces el sistema me muestra un mensaje de error indicando que las credenciales son inválidas.|EP05|
+US22|Visualización de Lista de Pacientes/Mascotas|Como veterinario, quiero ver la lista de pacientes/mascotas que tengo asignados para poder gestionar su información médica.|Escenario 1: El veterinario accede a su panel y ve la lista de pacientes.  Dado que he iniciado sesión como veterinario, Cuando accedo a la sección principal después del login, Entonces veo una lista de todos los pacientes/mascotas que tengo asignados con su información básica. Escenario 2: El veterinario busca un paciente específico en la lista. Dado que tengo múltiples pacientes en mi lista, Cuando utilizo la función de búsqueda para encontrar un paciente específico, Entonces el sistema filtra la lista mostrando solo los resultados que coinciden con mi búsqueda.|EP05|
+US23|Agendar Nueva Cita a un Perro Específico|Como veterinario, quiero poder agendar una nueva cita médica para un perro específico desde mi panel de gestión.|Escenario 1: El veterinario agenda una nueva cita para un paciente.  Dado que estoy en la pantalla de citas y necesito agendar una nueva cita, Cuando selecciono la sección de "Agendar nueva cita" y selecciono un perro específico de la lista, Entonces se abre un formulario donde puedo ingresar los detalles de la cita (fecha, hora, motivo) y confirmarla. Escenario 2: El veterinario intenta agendar una cita en un horario no disponible. Dado que estoy agendando una nueva cita, Cuando selecciono una fecha y hora que ya está ocupada, Entonces el sistema me muestra un mensaje indicando que ese horario no está disponible y sugiere alternativas.|EP05|
+US24|Visualización de Lista de Citas Pendientes|Como veterinario, quiero ver la lista de citas pendientes que tengo programadas para poder organizar mi agenda y prepararme para cada consulta.|Escenario 1: El veterinario ve todas sus citas pendientes.  Dado que he iniciado sesión como veterinario, Cuando accedo a la sección de citas, Entonces veo una lista de todas las citas pendientes que tengo programadas, ordenadas por fecha y hora, con información del paciente y motivo de la consulta. Escenario 2: El veterinario filtra las citas por fecha. Dado que tengo múltiples citas en diferentes fechas, Cuando selecciono un rango de fechas específico, Entonces el sistema muestra solo las citas que están dentro del rango seleccionado.|EP05|
+US25|Ver Detalle de Cita|Como veterinario, quiero ver el detalle completo de una cita específica para conocer toda la información relevante del paciente y la consulta antes de atenderla.|Escenario 1: El veterinario accede al detalle de una cita desde la lista.  Dado que estoy viendo la lista de citas pendientes, Cuando selecciono una cita específica de la lista, Entonces se abre una vista detallada (modal o pantalla completa) que muestra toda la información de la cita: datos del paciente, historial médico relevante, motivo de la consulta, fecha y hora programada. Escenario 2: El veterinario cierra la vista de detalle y regresa a la lista. Dado que estoy viendo el detalle de una cita, Cuando cierro la vista de detalle o presiono el botón de regresar, Entonces vuelvo a la lista de citas pendientes manteniendo el estado anterior.|EP05|
 
 ###  3.3. Impact Mapping.
 
@@ -1690,170 +994,43 @@ El Impact Mapping conecta las funcionalidades del sistema con los resultados que
 Veterinario:
 
 
-<img src="images/Fabricio_Chong _impact_map.png" alt="Fabricio_Chong _impact_map.png" />
+ ![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong%20_impact_map.png)
 
 Cuidador de Perros:
 
 
-<img src="images/IMPACT_Dueño_de_Perro.png" alt="IMPACT_Dueño_de_Perro.png"/>
+![img](file:///C:/Users/PC-%20Usuario/report/images/IMPACT_Due%C3%B1o_de_Perro.png)
 
 ### 3.4. Product Backlog.
 
 El Product Backlog es una lista priorizada de las tareas y funcionalidades que deben implementarse para desarrollar la plataforma. Incluye tareas como la gestión de citas médicas, el desarrollo de recordatorios automáticos y la integración con marcas y veterinarias. Esta lista se mantiene actualizada durante el desarrollo para garantizar que las funcionalidades más importantes se implementen primero, brindando valor a los usuarios de forma constante.
-<table border="1">
-  <thead>
-    <tr>
-      <th>Order</th>
-      <th>User Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Story Points</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Epic 1: Registro y Gestión de Usuarios -->
-    <tr>
-      <td>1</td>
-      <td>US01</td>
-      <td>Registro de Usuario Nuevo</td>
-      <td>Como usuario, quiero registrarme en la plataforma para comenzar a usarla.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>US02</td>
-      <td>Inicio de Sesión de Usuario</td>
-      <td>Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>US03</td>
-      <td>Configuración Inicial del Perfil</td>
-      <td>Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>US04</td>
-      <td>Agendar Cita Médica</td>
-      <td>Como usuario, quiero agendar citas médicas para mi perro en la plataforma.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>US05</td>
-      <td>Gestionar Actividades de Ejercicio</td>
-      <td>Como usuario, quiero gestionar las actividades de ejercicio de mi perro para asegurarme de que haga suficiente ejercicio.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>US06</td>
-      <td>Notificación de Citas Médicas</td>
-      <td>Como usuario, quiero recibir notificaciones recordándome las citas médicas de mi perro.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>US07</td>
-      <td>Consultar Recomendaciones de Alimentación</td>
-      <td>Como usuario, quiero recibir recomendaciones de alimentación para mi perro basadas en su raza y edad.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>US08</td>
-      <td>Consultar Estado de Salud</td>
-      <td>Como usuario, quiero ver el historial médico de mi perro para tener un panorama claro sobre su salud.</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>US09</td>
-      <td>Ver Notificaciones de Bienestar</td>
-      <td>Como usuario, quiero recibir notificaciones relacionadas con el bienestar de mi perro, como alertas para nuevas vacunas o chequeos.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>US10</td>
-      <td>Interacción con Veterinario</td>
-      <td>Como usuario, quiero poder comunicarme directamente con un veterinario a través de la plataforma.</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>US11</td>
-      <td>Soporte al Usuario</td>
-      <td>Como usuario, quiero recibir soporte en caso de problemas técnicos con la plataforma.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>US12</td>
-      <td>Responder Consultas Comunes</td>
-      <td>Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes.</td>
-      <td>2</td>
-    </tr>
-<tr>
-      <td>13</td>
-      <td>US13</td>
-      <td>Edición de Perfil</td>
-      <td>Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>US14</td>
-      <td>Cambio de Contraseña</td>
-      <td>Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>US15</td>
-      <td>Gestión de Recordatorios</td>
-      <td>Como usuario, quiero que la plataforma me envíe recordatorios para mis citas médicas y actividades de mi perro.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>US16</td>
-      <td>Confirmación de Citas</td>
-      <td>Como usuario, quiero confirmar la asistencia a las citas médicas para asegurar que todo está organizado.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>US17</td>
-      <td>Control de Alimentación</td>
-      <td>Como usuario, quiero hacer un seguimiento de la alimentación de mi perro para asegurarme de que está recibiendo la nutrición adecuada.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>US18</td>
-      <td>Consultas sobre Salud</td>
-      <td>Como usuario, quiero realizar consultas sobre la salud de mi perro para estar informado sobre su bienestar.</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>US19</td>
-      <td>Soporte Técnico de la Plataforma</td>
-      <td>Como usuario, quiero recibir soporte técnico en caso de problemas con la plataforma para garantizar su buen funcionamiento.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>US20</td>
-      <td>Información General y Ayuda</td>
-      <td>Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte.</td>
-      <td>2</td>
-    </tr>
-  </tbody>
-</table>
+Order|User Story ID|Título|Descripción|Story Points|
+|-----|-------------|------|-----------|------------|
+1|US01|Registro de Usuario Nuevo|Como usuario, quiero registrarme en la plataforma para comenzar a usarla.|3|
+2|US02|Inicio de Sesión de Usuario|Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma.|3|
+3|US03|Configuración Inicial del Perfil|Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.|4|
+4|US04|Agendar Cita Médica|Como usuario, quiero agendar citas médicas para mi perro en la plataforma.|3|
+5|US05|Gestionar Actividades de Ejercicio|Como usuario, quiero gestionar las actividades de ejercicio de mi perro para asegurarme de que haga suficiente ejercicio.|3|
+6|US06|Notificación de Citas Médicas|Como usuario, quiero recibir notificaciones recordándome las citas médicas de mi perro.|2|
+7|US07|Consultar Recomendaciones de Alimentación|Como usuario, quiero recibir recomendaciones de alimentación para mi perro basadas en su raza y edad.|3|
+8|US08|Consultar Estado de Salud|Como usuario, quiero ver el historial médico de mi perro para tener un panorama claro sobre su salud.|4|
+9|US09|Ver Notificaciones de Bienestar|Como usuario, quiero recibir notificaciones relacionadas con el bienestar de mi perro, como alertas para nuevas vacunas o chequeos.|2|
+10|US10|Interacción con Veterinario|Como usuario, quiero poder comunicarme directamente con un veterinario a través de la plataforma.|4|
+11|US11|Soporte al Usuario|Como usuario, quiero recibir soporte en caso de problemas técnicos con la plataforma.|3|
+12|US12|Responder Consultas Comunes|Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes.|2|
+13|US13|Edición de Perfil|Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro.|3|
+14|US14|Cambio de Contraseña|Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta.|2|
+15|US15|Gestión de Recordatorios|Como usuario, quiero que la plataforma me envíe recordatorios para mis citas médicas y actividades de mi perro.|3|
+16|US16|Confirmación de Citas|Como usuario, quiero confirmar la asistencia a las citas médicas para asegurar que todo está organizado.|2|
+17|US17|Control de Alimentación|Como usuario, quiero hacer un seguimiento de la alimentación de mi perro para asegurarme de que está recibiendo la nutrición adecuada.|3|
+18|US18|Consultas sobre Salud|Como usuario, quiero realizar consultas sobre la salud de mi perro para estar informado sobre su bienestar.|4|
+19|US19|Soporte Técnico de la Plataforma|Como usuario, quiero recibir soporte técnico en caso de problemas con la plataforma para garantizar su buen funcionamiento.|3|
+20|US20|Información General y Ayuda|Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte.|2|
+21|US21|Inicio de Sesión de Veterinario|Como veterinario, quiero iniciar sesión en la plataforma para acceder a mi panel de gestión de citas y pacientes.|3|
+22|US22|Visualización de Lista de Pacientes/Mascotas|Como veterinario, quiero ver la lista de pacientes/mascotas que tengo asignados para poder gestionar su información médica.|5|
+23|US23|Agendar Nueva Cita a un Perro Específico|Como veterinario, quiero poder agendar una nueva cita médica para un perro específico desde mi panel de gestión.|5|
+24|US24|Visualización de Lista de Citas Pendientes|Como veterinario, quiero ver la lista de citas pendientes que tengo programadas para poder organizar mi agenda y prepararme para cada consulta.|4|
+25|US25|Ver Detalle de Cita|Como veterinario, quiero ver el detalle completo de una cita específica para conocer toda la información relevante del paciente y la consulta antes de atenderla.|3|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1864,7 +1041,7 @@ Las Style Guidelines de DogiMax son un conjunto de principios visuales y comunic
 ** Nombre de marca:  ** DogiMax
 Un nombre que fusiona "Dogi" (relacionado con los perros) y "Max" (máximo, lo mejor), reflejando nuestro enfoque en ofrecer el mejor cuidado posible para las mascotas.
 
-<img src="images/Logo.png" alt="Logos.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Logo.png)
 
 ** Misión: **
 Brindar a los dueños de perros una plataforma digital que centralice todas las tareas relacionadas con el cuidado de sus mascotas, desde citas médicas hasta recomendaciones personalizadas basadas en IA para mejorar la salud y bienestar de los perros.
@@ -1878,13 +1055,13 @@ Ser la plataforma líder en gestión del cuidado de perros, proporcionando herra
 -	** Color de Texto: **
 #2C3E50 para texto primario sobre fondos claros y #FFFFFF sobre fondos oscuros, para garantizar la legibilidad y un contraste adecuado.
 
-<img src="images/Colors.png" alt="Colors.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Colors.png)
 
 -	 Color de Botones:
 - Botones primarios: #FF6B1A (Naranja).
 - Botones secundarios: Fondo transparente con borde en #FF6B1A para mantener consistencia con la paleta de colores.
 
-<img src="images/Buttons.png" alt="Buttons.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Buttons.png)
   
 ** Tipografía: ** 
 La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se han definido los siguientes estilos:
@@ -1897,12 +1074,12 @@ La tipografía define la jerarquía visual y la legibilidad de la plataforma. Se
 - **Texto técnico:** Roboto Mono – 14pxTono de comunicación: 
 Profesional y cercano, con un enfoque técnico pero accesible para todos los dueños de perros, utilizando un lenguaje claro, amigable y entusiasta.
 
-<img src="images/1.png" alt="1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/1.png)
 
-<img src="images/2.png" alt="2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/2.png)
 
 
-####  4.1.2. Web Style Guidelines 
+#### 4.1.2. Web Style Guidelines
 Las Web Style Guidelines para DogiMax están orientadas a optimizar la experiencia de usuario en la versión web, asegurando que la plataforma sea eficiente y atractiva tanto en escritorio como en dispositivos móviles.
 ** Tarjetas y visualizaciones: **
 •	Las tarjetas tienen un diseño minimalista y moderno, con imágenes e íconos representativos del proceso de cuidado de la mascota (por ejemplo, íconos de salud, citas, actividad física, etc.).
@@ -1915,16 +1092,17 @@ Las tablas son simples pero funcionales, mostrando información de manera clara 
 ** Pantallas emergentes: **
 Las pantallas emergentes tienen un fondo oscuro opaco y texto claro. Los botones de acción son grandes, fáciles de identificar y se destacan con un color naranja para indicar acción.
 
-##  4.2. Information Architecture  
+## 4.2. Information Architecture
 La arquitectura de información de DogiMax está diseñada para facilitar el acceso rápido y fácil a todas las funcionalidades necesarias para el cuidado de los perros, organizando el contenido de manera lógica y estructurada.
 #### 4.2.1. Organization Systems 
- #### Organización jerárquica (Visual Hierarchy):  #### 
+#### 4.2.1.1. Organización jerárquica (Visual Hierarchy) 
 En la interfaz de DogiMax, la información más importante, como las citas médicas y las recomendaciones, ocupa una posición destacada en la página de inicio. Los módulos con información adicional, como el perfil del perro o la información de contacto, están disponibles en el menú de navegación.
-#### Organización secuencial (Step-by-step): 
+#### 4.2.1.2. Organización secuencial (Step-by-step) 
 El registro de nuevas citas, la creación de perfiles para los perros y las recomendaciones de salud se presentan de manera secuencial, guiando al usuario paso a paso para que no se sienta abrumado por la cantidad de opciones.
-#### Categorización del contenido: 
+#### 4.2.1.3. Categorización del contenido 
 El contenido está organizado en categorías claras: Citas, Salud, Ejercicio, y Recomendaciones. Cada categoría agrupa información relevante y permite a los usuarios encontrar lo que buscan rápidamente.
-4.2.2. Labeling Systems
+
+### 4.2.2. Labeling Systems
 El sistema de etiquetado en DogiMax asegura que cada sección y funcionalidad esté claramente identificada, utilizando etiquetas precisas y simples.
 Etiquetas breves en menús:
 Las opciones del menú se etiquetan de forma clara y concisa: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil.
@@ -1937,13 +1115,13 @@ Cada tarjeta de información, ya sea de citas o recomendaciones, tiene un ícono
 
 **Páginas principales y sus SEO Tags:**
 
-| Página           | Title                                   | Meta Description                                                                                                                                 | Keywords                                                       | Author       |
+Página|Title|Meta Description|Keywords|Author|
 |------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
-| Landing Page     | DogiMax - Cuida a tu perro de forma fácil | DogiMax es la plataforma digital que permite gestionar el cuidado de tus perros, desde citas médicas hasta recomendaciones personalizadas.       | DogiMax, cuidado de perros, agenda mascotas, veterinaria, salud canina | Equipo DogiMax |
-| Login / Registro | DogiMax - Acceso y Registro             | Inicia sesión o crea tu cuenta en DogiMax para organizar y mejorar la salud y bienestar de tu perro.                                             | DogiMax, login, registro, cuenta, mascota                      | Equipo DogiMax |
-| Dashboard        | DogiMax - Panel de control              | Visualiza las próximas citas, recomendaciones personalizadas y el estado de tu mascota en DogiMax.                                               | DogiMax, dashboard, mascotas, recomendaciones                  | Equipo DogiMax |
-| Perfil de Mascota| DogiMax - Perfil de [Nombre Mascota]    | Revisa y actualiza la información de tu perro, su historial de vacunas y actividad física.                                                       | DogiMax, perfil mascota, vacunas, actividad física              | Equipo DogiMax |
-| Citas            | DogiMax - Citas Médicas                 | Agenda y consulta todas las citas médicas de tus mascotas de forma organizada.                                                                   | DogiMax, citas, veterinaria, agenda                            | Equipo DogiMax |
+Landing Page|DogiMax - Cuida a tu perro de forma fácil|DogiMax es la plataforma digital que permite gestionar el cuidado de tus perros, desde citas médicas hasta recomendaciones personalizadas.|DogiMax, cuidado de perros, agenda mascotas, veterinaria, salud canina|Equipo DogiMax|
+Login / Registro|DogiMax - Acceso y Registro|Inicia sesión o crea tu cuenta en DogiMax para organizar y mejorar la salud y bienestar de tu perro.|DogiMax, login, registro, cuenta, mascota|Equipo DogiMax|
+Dashboard|DogiMax - Panel de control|Visualiza las próximas citas, recomendaciones personalizadas y el estado de tu mascota en DogiMax.|DogiMax, dashboard, mascotas, recomendaciones|Equipo DogiMax|
+Perfil de Mascota|DogiMax - Perfil de [Nombre Mascota]|Revisa y actualiza la información de tu perro, su historial de vacunas y actividad física.|DogiMax, perfil mascota, vacunas, actividad física|Equipo DogiMax|
+Citas|DogiMax - Citas Médicas|Agenda y consulta todas las citas médicas de tus mascotas de forma organizada.|DogiMax, citas, veterinaria, agenda|Equipo DogiMax|
 
 ---
 
@@ -1997,302 +1175,222 @@ Cada tarjeta de información, ya sea de citas o recomendaciones, tiene un ícono
   - Permite un flujo natural y consistente con los objetivos de cada User Persona.
 
 
-### 4.3. Landing Page UI Design ###
-### 4.3.1. Landing Page Wireframe ###
+### 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
 El wireframe de la página de aterrizaje está diseñado para ser simple y directo. En la parte superior se encuentra la barra de navegación con enlaces a las secciones principales: Inicio, Citas, Salud, Ejercicio, Recomendaciones, Perfil. En el centro, se destacan los botones de llamada a la acción (CTA), como Registrarse o Iniciar sesión. La página incluye secciones claras que detallan los beneficios de DogiMax para los dueños de perros.
 
-<img src="images/Parte1.png" alt="Parte1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Parte1.png)
 
-<img src="images/Parte2.png" alt="Parte2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Parte2.png)
 
-<img src="images/Parte3.png" alt="Parte3.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Parte3.png)
 
 
-### 4.3.2. Landing Page Mock-up ###
+### 4.3.2. Landing Page Mock-up
 El mock-up refleja la implementación completa de los elementos de diseño. La paleta de colores se aplica a lo largo de la página, con el color #FF6B1A en los botones y títulos. Los encabezados son grandes y prominentes, utilizando Poppins para transmitir un tono moderno y accesible. Las visualizaciones y gráficos de la página están alineados con la estética de la marca y presentan información de manera clara y atractiva.
 
 
-<img src="images/Landing1.png" alt="Landing1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing1.png)
 
-<img src="images/Landing2.png" alt="Landing2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing2.png)
 
-<img src="images/Landing3.png" alt="Landing3.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing3.png)
 
-<img src="images/Landing4.png" alt="Landing4.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing4.png)
 
-<img src="images/Landing5.png" alt="Landing5.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing5.png)
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-<img src="images/wireframe1.png" alt="wireframe1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe1.png)
 
-<img src="images/wireframe2.png" alt="wireframe2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe2.png)
 
-<img src="images/wireframe3.png" alt="wireframe3.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe3.png)
 
-<img src="images/wireframe4.png" alt="wireframe4.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe4.png)
 
-<img src="images/wireframe45.png" alt="wireframe45.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe45.png)
 
-<img src="images/wireframe5.png" alt="wireframe5.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe5.png)
 
-<img src="images/wireframe6.png" alt="wireframe6.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe6.png)
 
-<img src="images/wireframe7.png" alt="wireframe7.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe7.png)
 
-<img src="images/wireframe8.png" alt="wireframe8.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe8.png)
 
-<img src="images/wireframe9.png" alt="wireframe9.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe9.png)
 
-<img src="images/wireframe10.png" alt="wireframe10.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe10.png)
 
-<img src="images/wireframe11.png" alt="wireframe11.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe11.png)
 
 [wireframes en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-<img src="images/wireflow.png" alt="wireflow.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/wireflow.png)
 
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="images/login.png" alt="login.png" />
-<img src="images/mockup.png" alt="mockup.png" />
-<img src="images/mockup2.png" alt="mockup2.png" />
-<img src="images/mockup3.png" alt="mockup3.png" />
-<img src="images/mockup4.png" alt="mockup4.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/mockup2.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/mockup3.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/mockup4.png)
 [Mockup en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 
-<img src="images/userflow.png" alt="userflow.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/userflow.png)
 
 ### 4.5. Web Applications Prototyping
 
-<img src="images/login.png" alt="login.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
 
-<img src="images/mockup.png" alt="mockup.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
 
-### 4.6 Domain Driven Software Architecture ###
+### 4.6. Domain Driven Software Architecture
 En esta sección se presenta la arquitectura de software basada en el dominio para DogiMax. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
 
-### 4.6.1. Software Architecture Context Diagram ###
+### 4.6.1. Software Architecture Context Diagram
 Este diagrama muestra cómo interactúan los usuarios (Dueños de Perros y Veterinarios) con la plataforma DogiMax. Los usuarios usan la aplicación para gestionar y monitorear el cuidado de sus mascotas. Además, DogiMax se conecta con servicios de terceros para funcionalidades especializadas como la entrega de recomendaciones basadas en IA, el envío de notificaciones y la gestión de pagos.
 
-![4.6.1..png](images/4.6.1..png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.1..png)
 
 
-### 4.6.2. Software Architecture Container Diagrams ###
+### 4.6.2. Software Architecture Container Diagrams
 Este diagrama ilustra los diferentes contenedores o componentes tecnológicos de DogiMax y cómo interactúan entre sí. Los contenedores representan las diferentes capas y servicios que componen la plataforma, como la interfaz de usuario (Web Application), la lógica de negocio (API Application) y la base de datos.
 
-![4.6.2..png](images/4.6.2..png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.2..png)
 
-### 4.6.3. Software Architecture Components Diagrams ###
+### 4.6.3. Software Architecture Components Diagrams
 **Mi Perro Bounded Context** 
 Este diagrama representa los componentes encargados de la gestión de las mascotas. Los usuarios pueden crear perfiles de perros, registrar información de salud y acceder a recomendaciones personalizadas.
 
-![4.6.3..png](images/4.6.3..png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.3..png)
 
 
 **Citas Bounded Context**
 Este diagrama se centra en la gestión de las citas y la agenda de las mascotas. Aquí se muestran los componentes involucrados en el proceso de agendar, modificar y cancelar citas con los veterinarios.
 
-![4.6.33..png](images/4.6.33..png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.33..png)
 
 
 **Notificaciones Bounded Context**
 Este diagrama describe los componentes que gestionan las notificaciones, esenciales para mantener a los usuarios informados sobre los próximos eventos y recordatorios importantes.
 
-![4.6.333..png](images/4.6.333..png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.333..png)
 
 
-### 4.7. Software Object-Oriented Design ###
+### 4.7. Software Object-Oriented Design
 En esta sección se presenta el diseño de software orientado a objetos para DogiMax. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
 
-### 4.7.1. Class Diagrams ###
+### 4.7.1. Class Diagrams
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![Diagrama de clase.png](assets/Diagrama%20de%20clase.png)
-
-
-### 4.7.2. Class Dictionary ###
-
-**Clase: Usuario**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único del usuario.	INT
-
-2	nombre	Nombre completo del usuario.	VARCHAR
-
-3	correo	Correo electrónico de contacto.	VARCHAR
-
-**Clase: Mascota**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único de la mascota.	INT
-
-2	usuarioId	Referencia al usuario propietario.	INT
-
-3	nombre	Nombre de la mascota.	VARCHAR
-
-4	raza	Raza de la mascota.	VARCHAR
-
-5	edad	Edad de la mascota.	INT
-
-6	fotoUrl	URL de la foto de la mascota.	TEXT
-
-**Clase: HistorialMedico**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único del evento médico.	INT
-
-2	mascotaId	Referencia a la mascota.	INT
-
-3	fecha	Fecha del evento médico.	DATE
-
-4	tipo	Tipo de evento médico.	VARCHAR
-
-5	descripcion	Detalles del evento médico.	TEXT
-
-**Clase: Recomendacion**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único de la recomendación.	INT
-
-2	mascotaId	Referencia a la mascota.	INT
-
-3	tipo	Categoría de la recomendación.	VARCHAR
-
-4	contenido	Detalles de la recomendación.	TEXT
-
-**Clase: Cita**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único de la cita.	INT
-
-2	mascotaId	Referencia a la mascota.	INT
-
-3	fechaHora	Fecha y hora programada de la cita.	DATETIME
-
-4	veterinarioId	Referencia al veterinario asignado.	INT
-
-5	estado	Estado actual de la cita.	VARCHAR
-
-**Clase: Veterinario**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único del veterinario.	INT
-
-2	nombre	Nombre completo del veterinario.	VARCHAR
-
-3	especialidad	Área de especialización.	VARCHAR
-
-**Clase: Disponibilidad**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único del bloque de disponibilidad.	INT
-
-2	veterinarioId	Referencia al veterinario.	INT
-
-3	fecha	Fecha disponible.	DATE
-
-4	horaInicio	Hora de inicio del bloque.	TIME
-
-5	horaFin	Hora de fin del bloque.	TIME
-
-**Clase: PreferenciasUsuario**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	usuarioId	Referencia al usuario (clave primaria).	INT
-
-2	canalPreferido	Canal preferido de notificación.	VARCHAR
-
-3	horarioPreferido	Horario preferido para recibir notificaciones.	TIME
-
-**Clase: Notificacion**
-
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único de la notificación.	INT
-
-2	usuarioId	Referencia al usuario destinatario.	INT
-
-3	tipo	Tipo de notificación.	VARCHAR
-
-4	mensaje	Contenido del mensaje.	TEXT
-
-5	fechaEnvio	Fecha y hora de envío.	DATETIME
-
-6	canal	Canal de entrega utilizado.	VARCHAR
-
-**Clase: Recordatorio**
-Nº	Nombre de atributo	Descripción	Tipo de dato
-
-1	id	Identificador único del recordatorio.	INT
-
-2	eventoRelacionado	Evento vinculado al recordatorio.	VARCHAR
-
-3	fechaProgramada	Fecha y hora programada para el recordatorio.	DATETIME
-
-### 4.8. Database Design ###
+![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
+
+### 4.7.2. Class Dictionary
+
+Clase|Nº|Nombre de atributo|Descripción|Tipo de dato|
+| :---- | :---- | :---- | :---- | :---- |
+**Usuario**|1|id|Identificador único del usuario.|INT|
+**Usuario**|2|nombre|Nombre completo del usuario.|VARCHAR|
+**Usuario**|3|correo|Correo electrónico de contacto.|VARCHAR|
+**Mascota**|1|id|Identificador único de la mascota.|INT|
+**Mascota**|2|usuarioId|Referencia al usuario propietario.|INT|
+**Mascota**|3|nombre|Nombre de la mascota.|VARCHAR|
+**Mascota**|4|raza|Raza de la mascota.|VARCHAR|
+**Mascota**|5|edad|Edad de la mascota.|INT|
+**Mascota**|6|fotoUrl|URL de la foto de la mascota.|TEXT|
+**HistorialMedico**|1|id|Identificador único del evento médico.|INT|
+**HistorialMedico**|2|mascotaId|Referencia a la mascota.|INT|
+**HistorialMedico**|3|fecha|Fecha del evento médico.|DATE|
+**HistorialMedico**|4|tipo|Tipo de evento médico.|VARCHAR|
+**HistorialMedico**|5|descripcion|Detalles del evento médico.|TEXT|
+**Recomendacion**|1|id|Identificador único de la recomendación.|INT|
+**Recomendacion**|2|mascotaId|Referencia a la mascota.|INT|
+**Recomendacion**|3|tipo|Categoría de la recomendación.|VARCHAR|
+**Recomendacion**|4|contenido|Detalles de la recomendación.|TEXT|
+**Cita**|1|id|Identificador único de la cita.|INT|
+**Cita**|2|mascotaId|Referencia a la mascota.|INT|
+**Cita**|3|fechaHora|Fecha y hora programada de la cita.|DATETIME|
+**Cita**|4|veterinarioId|Referencia al veterinario asignado.|INT|
+**Cita**|5|estado|Estado actual de la cita.|VARCHAR|
+**Veterinario**|1|id|Identificador único del veterinario.|INT|
+**Veterinario**|2|nombre|Nombre completo del veterinario.|VARCHAR|
+**Veterinario**|3|especialidad|Área de especialización.|VARCHAR|
+**Disponibilidad**|1|id|Identificador único del bloque de disponibilidad.|INT|
+**Disponibilidad**|2|veterinarioId|Referencia al veterinario.|INT|
+**Disponibilidad**|3|fecha|Fecha disponible.|DATE|
+**Disponibilidad**|4|horaInicio|Hora de inicio del bloque.|TIME|
+**Disponibilidad**|5|horaFin|Hora de fin del bloque.|TIME|
+**PreferenciasUsuario**|1|usuarioId|Referencia al usuario (clave primaria).|INT|
+**PreferenciasUsuario**|2|canalPreferido|Canal preferido de notificación.|VARCHAR|
+**PreferenciasUsuario**|3|horarioPreferido|Horario preferido para recibir notificaciones.|TIME|
+**Notificacion**|1|id|Identificador único de la notificación.|INT|
+**Notificacion**|2|usuarioId|Referencia al usuario destinatario.|INT|
+**Notificacion**|3|tipo|Tipo de notificación.|VARCHAR|
+**Notificacion**|4|mensaje|Contenido del mensaje.|TEXT|
+**Notificacion**|5|fechaEnvio|Fecha y hora de envío.|DATETIME|
+**Notificacion**|6|canal|Canal de entrega utilizado.|VARCHAR|
+**Recordatorio**|1|id|Identificador único del recordatorio.|INT|
+**Recordatorio**|2|eventoRelacionado|Evento vinculado al recordatorio.|VARCHAR|
+**Recordatorio**|3|fechaProgramada|Fecha y hora programada para el recordatorio.|DATETIME|
+
+### 4.8. Database Design
 
 Esta sección presenta la estructura lógica del sistema DogiMax desde el punto de vista del almacenamiento y organización de los datos. Se describen las entidades principales del sistema, sus atributos, tipos de datos y las relaciones entre ellas. El modelo de base de datos ha sido diseñado para garantizar integridad, consistencia y eficiencia en el acceso a la información.
 
-### 4.8.1. Database Diagram ###
+### 4.8.1. Database Diagram
 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema DogiMax, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes. Este modelo permite garantizar la integridad referencial, la consistencia de los datos y la eficiencia en las operaciones de consulta y actualización.
 
-![Diagrama de clases.png](images/Diagrama%20de%20clases.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
     
-## 5.1. Software Configuration Management.
+## 5.1. Software Configuration Management
 
-### 5.1.1. Software Development Environment Configuration.
+### 5.1.1. Software Development Environment Configuration
 
 En esta sección se detallan todas las herramientas de software utilizadas para el desarrollo del proyecto DogiMax, organizadas por categorías según su propósito en el proyecto.
 
-| Producto | Propósito en el proyecto | Categoría | Ruta De descarga/acceso | Descripción |
+Producto|Propósito en el proyecto|Categoría|Ruta De descarga/acceso|Descripción|
 | :---- | :---- | :---- | :---- | :---- |
-| **OpenJDK** | Compilación de aplicaciones Java. | Software Development | https://openjdk.java.net/ | Implementación de código abierto del JDK (Java Development Kit), esencial para ejecutar y compilar aplicaciones Java en el backend. |
-| **Maven** | Automatización de compilación y gestión de proyectos Java. | Software Development | https://maven.apache.org/ | Herramienta de automatización de compilación y gestión de proyectos Java, ampliamente utilizada con Spring Boot para gestionar dependencias y builds. |
-| **Spring Boot** | Creación simplificada de aplicaciones backend y servicios REST. | Software Development | https://spring.io/projects/spring-boot | Framework que simplifica la creación de aplicaciones backend con Java, permitiendo levantar servicios REST de forma rápida y eficiente con arquitectura DDD. |
-| **Spring Data JPA** | Persistencia de datos y acceso a base de datos. | Software Development | https://spring.io/projects/spring-data-jpa | Framework que facilita la implementación de repositorios y acceso a datos mediante JPA, simplificando las operaciones con MySQL. |
-| **Spring Security** | Seguridad y autenticación en aplicaciones web. | Software Development | https://spring.io/projects/spring-security | Framework de seguridad que proporciona autenticación y autorización, incluyendo soporte para JWT en el backend. |
-| **MySQL 8.0** | Almacenamiento y administración de información para backend. | Software Development | https://dev.mysql.com/downloads/ | Sistema gestor de bases de datos relacional ampliamente usado para almacenar y administrar la información estructurada de aplicaciones backend. |
-| **Angular** | Desarrollo de aplicaciones web frontend. | Software Development | https://angular.io/ | Framework de desarrollo frontend basado en TypeScript, utilizado para crear la aplicación web con arquitectura de componentes y módulos. |
-| **Angular CLI** | Gestión del ciclo de vida de aplicaciones Angular. | Software Development | https://angular.io/cli | Interfaz de línea de comandos que permite generar componentes, servicios y manejar el ciclo de vida de una aplicación Angular. |
-| **TypeScript** | Desarrollo tipado para aplicaciones web. | Software Development | https://www.typescriptlang.org/ | Lenguaje de programación que extiende JavaScript con tipado estático, utilizado en el desarrollo frontend con Angular. |
-| **Node.js** | Entorno de ejecución para herramientas de desarrollo frontend. | Software Development | https://nodejs.org/ | Entorno de ejecución de JavaScript que permite ejecutar herramientas como Angular CLI, npm y otras utilidades de desarrollo. |
-| **Visual Studio Code** | Desarrollo web moderno (e.g., con Angular, TypeScript). | Software Development | https://code.visualstudio.com/ | IDE especializado en desarrollo web moderno, con soporte completo para Angular, TypeScript y otras tecnologías frontend y backend. |
-| **HTML5** | Estructura y organización del contenido de páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/HTML | Lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos. |
-| **CSS3** | Estilos y diseño visual de páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/CSS | Lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías. |
-| **JavaScript** | Interactividad y lógica en páginas web. | Software Development | https://developer.mozilla.org/es/docs/Web/JavaScript | Lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, compatible con frameworks como Angular. |
-| **Postman** | Prueba y documentación interactiva de APIs. | Software Development | https://www.postman.com/ | Plataforma para probar y documentar APIs de forma interactiva, ideal para validar endpoints desarrollados con Spring Boot. |
-| **OpenAPI (Swagger)** | Documentación interactiva de APIs REST. | Software Development | https://swagger.io/ | Herramienta para documentar APIs REST de forma estándar, generando documentación interactiva accesible mediante Swagger UI. |
-| **Git** | Control de versiones distribuido. | Software Development | https://git-scm.com/ | Sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de software. |
-| **GitHub** | Alojamiento de repositorios y colaboración. | Software Development | https://github.com/ | Plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo. |
-| **Netlify** | Despliegue y hosting de aplicaciones web frontend. | Software Development | https://www.netlify.com/ | Plataforma de hosting y despliegue continuo para aplicaciones web estáticas y dinámicas, utilizada para desplegar la aplicación Angular. |
-| **GitHub Pages** | Hosting estático para landing page. | Software Development | https://pages.github.com/ | Servicio de hosting estático que permite publicar sitios web directamente desde un repositorio de GitHub, utilizado para la landing page. |
-| **Figma** | Diseño UX/UI y creación de wireframes. | Product UX/UI Design | https://www.figma.com/ | Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows. |
-| **UXPressia** | Visualización de la experiencia del usuario. | Product UX/UI Design | https://uxpressia.com/ | Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema. Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping. |
-| **Lucidchart** | Planificación visual de software mediante diagramas. | Product UX/UI Design | https://www.lucidchart.com/ | Plataforma para crear diagramas de procesos, flujos y arquitecturas de sistema, facilitando la planificación visual del software. |
-| **WhatsApp** | Comunicación y coordinación del equipo. | Gestión del Proyecto | https://www.whatsapp.com/ | Usamos WhatsApp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades. |
-| **Discord** | Reuniones y comunicación del equipo. | Gestión del Proyecto | https://discord.com/ | Usamos Discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revisamos el flujo de trabajo de cada miembro. |
+**OpenJDK**|Compilación de aplicaciones Java.|Software Development|https://openjdk.java.net/|Implementación de código abierto del JDK (Java Development Kit), esencial para ejecutar y compilar aplicaciones Java en el backend.|
+**Maven**|Automatización de compilación y gestión de proyectos Java.|Software Development|https://maven.apache.org/|Herramienta de automatización de compilación y gestión de proyectos Java, ampliamente utilizada con Spring Boot para gestionar dependencias y builds.|
+**Spring Boot**|Creación simplificada de aplicaciones backend y servicios REST.|Software Development|https://spring.io/projects/spring-boot|Framework que simplifica la creación de aplicaciones backend con Java, permitiendo levantar servicios REST de forma rápida y eficiente con arquitectura DDD.|
+**Spring Data JPA**|Persistencia de datos y acceso a base de datos.|Software Development|https://spring.io/projects/spring-data-jpa|Framework que facilita la implementación de repositorios y acceso a datos mediante JPA, simplificando las operaciones con MySQL.|
+**Spring Security**|Seguridad y autenticación en aplicaciones web.|Software Development|https://spring.io/projects/spring-security|Framework de seguridad que proporciona autenticación y autorización, incluyendo soporte para JWT en el backend.|
+**MySQL 8.0**|Almacenamiento y administración de información para backend.|Software Development|https://dev.mysql.com/downloads/|Sistema gestor de bases de datos relacional ampliamente usado para almacenar y administrar la información estructurada de aplicaciones backend.|
+**Angular**|Desarrollo de aplicaciones web frontend.|Software Development|https://angular.io/|Framework de desarrollo frontend basado en TypeScript, utilizado para crear la aplicación web con arquitectura de componentes y módulos.|
+**Angular CLI**|Gestión del ciclo de vida de aplicaciones Angular.|Software Development|https://angular.io/cli|Interfaz de línea de comandos que permite generar componentes, servicios y manejar el ciclo de vida de una aplicación Angular.|
+**TypeScript**|Desarrollo tipado para aplicaciones web.|Software Development|https://www.typescriptlang.org/|Lenguaje de programación que extiende JavaScript con tipado estático, utilizado en el desarrollo frontend con Angular.|
+**Node.js**|Entorno de ejecución para herramientas de desarrollo frontend.|Software Development|https://nodejs.org/|Entorno de ejecución de JavaScript que permite ejecutar herramientas como Angular CLI, npm y otras utilidades de desarrollo.|
+**Visual Studio Code**|Desarrollo web moderno (e.g., con Angular, TypeScript).|Software Development|https://code.visualstudio.com/|IDE especializado en desarrollo web moderno, con soporte completo para Angular, TypeScript y otras tecnologías frontend y backend.|
+**HTML5**|Estructura y organización del contenido de páginas web.|Software Development|https://developer.mozilla.org/es/docs/Web/HTML|Lenguaje de marcado estándar empleado para organizar y estructurar el contenido de las páginas web, siendo compatible con todos los navegadores modernos.|
+**CSS3**|Estilos y diseño visual de páginas web.|Software Development|https://developer.mozilla.org/es/docs/Web/CSS|Lenguaje de hojas de estilo que establece la apariencia visual de las páginas web, permitiendo gestionar el diseño, los colores y las tipografías.|
+**JavaScript**|Interactividad y lógica en páginas web.|Software Development|https://developer.mozilla.org/es/docs/Web/JavaScript|Lenguaje de programación dinámico que incorpora interactividad y lógica a las páginas web, compatible con frameworks como Angular.|
+**Postman**|Prueba y documentación interactiva de APIs.|Software Development|https://www.postman.com/|Plataforma para probar y documentar APIs de forma interactiva, ideal para validar endpoints desarrollados con Spring Boot.|
+**OpenAPI (Swagger)**|Documentación interactiva de APIs REST.|Software Development|https://swagger.io/|Herramienta para documentar APIs REST de forma estándar, generando documentación interactiva accesible mediante Swagger UI.|
+**Git**|Control de versiones distribuido.|Software Development|https://git-scm.com/|Sistema de control de versiones distribuido que facilita la gestión de cambios en el código, el trabajo colaborativo en equipo y el mantenimiento de un historial completo de los proyectos de software.|
+**GitHub**|Alojamiento de repositorios y colaboración.|Software Development|https://github.com/|Plataforma destinada a alojar repositorios, fomentar la colaboración y revisar las contribuciones realizadas por el equipo.|
+**Netlify**|Despliegue y hosting de aplicaciones web frontend.|Software Development|https://www.netlify.com/|Plataforma de hosting y despliegue continuo para aplicaciones web estáticas y dinámicas, utilizada para desplegar la aplicación Angular.|
+**GitHub Pages**|Hosting estático para landing page.|Software Development|https://pages.github.com/|Servicio de hosting estático que permite publicar sitios web directamente desde un repositorio de GitHub, utilizado para la landing page.|
+**Figma**|Diseño UX/UI y creación de wireframes.|Product UX/UI Design|https://www.figma.com/|Utilizamos la plataforma Figma para elaborar nuestros diseños, enfocándonos principalmente en la creación de wireframes y wireflows.|
+**UXPressia**|Visualización de la experiencia del usuario.|Product UX/UI Design|https://uxpressia.com/|Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema. Esta herramienta fue empleada para elaborar el Impact Mapping, el Empathy Mapping y el User Journey Mapping.|
+**Lucidchart**|Planificación visual de software mediante diagramas.|Product UX/UI Design|https://www.lucidchart.com/|Plataforma para crear diagramas de procesos, flujos y arquitecturas de sistema, facilitando la planificación visual del software.|
+**WhatsApp**|Comunicación y coordinación del equipo.|Gestión del Proyecto|https://www.whatsapp.com/|Usamos WhatsApp como nuestro principal canal para comunicarnos, la coordinación de tareas, los tiempos de entrega, las nuevas ideas y brindar soporte a otros miembros que tengan dificultades.|
+**Discord**|Reuniones y comunicación del equipo.|Gestión del Proyecto|https://discord.com/|Usamos Discord para realizar reuniones sobre el proyecto, en los cuales dividimos las secciones a trabajar y revisamos el flujo de trabajo de cada miembro.|
 
     
-### 5.1.2. Source Code Management.
+### 5.1.2. Source Code Management
 
 Para administrar y organizar las modificaciones del proyecto, se estableció un repositorio en GitHub que funcionó como núcleo central del desarrollo.
 
@@ -2311,7 +1409,7 @@ feature:Ramas temporales creadas a partir de develop, destinadas a implementar n
 Develop: Es la rama principal de desarrollo en la que se integran y validan nuevas funcionalidades antes de ser llevadas a producción.
 
     
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions
 
 El mantenimiento de un estilo de código estandarizado y una arquitectura bien definida es esencial para la escalabilidad, mantenibilidad y colaboración efectiva en proyectos de desarrollo de software. En el proyecto DogiMax, se han adoptado prácticas de codificación y convenciones estructurales que aseguran calidad técnica, legibilidad y coherencia en todos los módulos del sistema, tanto del frontend como del backend, siguiendo lineamientos basados en estándares de la industria y metodologías modernas.
 
@@ -2377,7 +1475,7 @@ Para el desarrollo frontend con Angular, se utiliza TypeScript como lenguaje pri
 Para la gestión de versiones se implementa GitFlow, con ramas específicas para desarrollo (develop), producción (main), nuevas funcionalidades (feature/), correcciones (fix/) y lanzamientos (release/). Esto permite flujos de trabajo paralelos sin comprometer la estabilidad. Se emplea también Conventional Commits, una convención que estandariza los mensajes de commit y facilita la generación automática de changelogs. Los mensajes siguen la sintaxis: `tipo(scope): descripción`, por ejemplo, `feat(mascotas): add CRUD endpoints` o `fix(citas): correct date validation`.
 
     
-### 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration
 
 El despliegue del proyecto DogiMax se realiza mediante diferentes plataformas según el tipo de aplicación, garantizando disponibilidad, escalabilidad y facilidad de mantenimiento. A continuación se detalla el proceso de configuración y despliegue para cada componente del sistema.
 
@@ -2446,96 +1544,101 @@ A continuación se presentan las capturas de pantalla que ilustran el proceso de
 
 * Ilustración GitHub Software Deployment Configuration 1
 
-<img src="assets/Software_Deployment_Configuration_1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_1.png)
 
 * Ilustración GitHub Software Deployment Configuration 2
 
-<img src="assets/Software_Deployment_Configuration_2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_2.png)
 
 * Ilustración GitHub Software Deployment Configuration 3
 
-<img src="assets/Software_Deployment_Configuration_3.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_3.png)
 
 * Ilustración GitHub Software Deployment Configuration 4
 
-<img src="assets/Software_Deployment_Configuration_4.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_4.png)
 
 * Ilustración GitHub Software Deployment Configuration 5
 
-<img src="assets/Software_Deployment_Configuration_5.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_5.png)
 
-## 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation
 
 Esta sección documenta la implementación de la landing page, servicios y aplicaciones del proyecto DogiMax, una plataforma integral para la gestión del cuidado de perros. El trabajo abarcó desde la estructura y el diseño visual hasta funcionalidades esenciales como la responsividad, gestión de mascotas, agendamiento de citas y la implementación del backend con arquitectura Domain-Driven Design. A continuación, se detallan la planificación, el backlog ejecutado, la evidencia de desarrollo y los aspectos de colaboración de cada sprint.
     
 ## 5.2.1. Sprint 1
 
+**Trello Board:** [Sprint 1](https://trello.com/invite/b/692a6da5bc216a37d9b8385f/ATTI28b86a090258c845716dd84e21c9f2ddE1E75912/sprint-1)
+
+![img](images/trello1.jpg)
+
+    
 La implementación de la landing page de la plataforma DogiMax, estableciendo la presencia inicial y los puntos de contacto clave para los usuarios. El trabajo abarcó desde la estructura y el diseño visual hasta funcionalidades esenciales como la responsividad, internacionalización y accesibilidad. A continuación, se detallan la planificación, el backlog ejecutado, la evidencia de desarrollo y los aspectos de colaboración.
     
-### 5.2.1.1. Sprint Planning 1.
+### 5.2.1.1. Sprint Planning 1
 
 Esta sección documenta la planificación inicial del primer sprint del proyecto DogiMax. Durante esta fase, el equipo estableció los objetivos, alcance y metodología de trabajo para el desarrollo de la landing page, que serviría como punto de entrada principal para los usuarios de la plataforma. La planificación incluyó la definición del stack tecnológico, la asignación de roles y la estimación de historias de usuario relacionadas con la creación de la página de aterrizaje.
 
-| Sprint \# | Sprint 1 |
+Sprint \#|Sprint 1|
 | :---: | :---: |
-| Sprint Planning Background |  |
-| Date | 9 septiembre \- 18 septiembre del 2025 |
-| Time | 20:00 PM |
-| Location | Remoto |
-| Prepared By | Bryan Martinez |
-| Attendees (to planning meeting) | Joseph Chavez, Brayan Ccarita |
-| Sprint n – 1 Retrospective Summary | No hay trabajo previo para realizar una retrospección |
-| Tech Stack | HTML5,CSS,figma,JavaScript |
-| Sprint Goal & User Stories |  |
-| Sprint Goal | Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona |
-| Sprint 1 Velocity | 22 |
-| Sum of Story Points | 19 |
+Sprint Planning Background||
+Date|9 septiembre \- 18 septiembre del 2025|
+Time|20:00 PM|
+Location|Remoto|
+Prepared By|Bryan Martinez|
+Attendees (to planning meeting)|Joseph Chavez, Brayan Ccarita|
+Sprint n – 1 Retrospective Summary|No hay trabajo previo para realizar una retrospección|
+Tech Stack|HTML5,CSS,figma,JavaScript|
+Sprint Goal & User Stories||
+Sprint Goal|Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona|
+Sprint 1 Velocity|22|
+Sum of Story Points|19|
 
     
-### 5.2.1.2. Aspect Leaders and Collaborators.
+### 5.2.1.2. Aspect Leaders and Collaborators
 
 Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 1, identificando a los líderes (L) y colaboradores (C) en diferentes aspectos del desarrollo de la landing page. La asignación de roles se basó en las habilidades y experiencia de cada miembro, asegurando una distribución equitativa del trabajo y un liderazgo efectivo en áreas clave como coordinación del equipo, comunicación, resolución de problemas, apoyo mutuo y mejora continua.
 
-| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Aspect Team Coordination and Organization Leader (L) / Collaborator | Aspect Effective Communication Leader (L) / Collaborator (C) | Aspect Problem-Solving and Decision-Making Leader (L) / Collaboration (C) | Aspect Mutual Support and Knowledge Sharing Leader (L) / Collaboration (C) | Aspect Monitoring and Continuous Improvement Leader (L) / Collaboration (C) |
+Team Member (Berrospi Marin, Angel Guillermo)|GitHub Username|Aspect Team Coordination and Organization Leader (L) / Collaborator|Aspect Effective Communication Leader (L) / Collaborator (C)|Aspect Problem-Solving and Decision-Making Leader (L) / Collaboration (C)|Aspect Mutual Support and Knowledge Sharing Leader (L) / Collaboration (C)|Aspect Monitoring and Continuous Improvement Leader (L) / Collaboration (C)|
 | :---- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Brayan Roberto Ccarita Cruz |  hallzyx  |  C  |  L |  C |  C |  L |
-| Joseph Manuel Chavez |  u202314019-MrOsoPanda |  C |  C |  C |  L |  C |
-| Martinez Ramos Bryan |  BryanMR1 |  C |  C |  C |  C |  C |
-| Juan Saldaña | jndesouza  |  C |  C |  C |  C |  C |
-| Dueñas Canales Leonardo Manuel |  Insonnio |  L |  C |  C |  C |  C |
+Brayan Roberto Ccarita Cruz|hallzyx|C|L|C|C|L|
+Joseph Manuel Chavez|u202314019-MrOsoPanda|C|C|C|L|C|
+Martinez Ramos Bryan|BryanMR1|C|C|C|C|C|
+Juan Saldaña|jndesouza|C|C|C|C|C|
+Dueñas Canales Leonardo Manuel|Insonnio|L|C|C|C|C|
     
-### 5.2.1.3. Sprint Backlog 1.
+### 5.2.1.3. Sprint Backlog 1
 
 Esta sección contiene el backlog del Sprint 1, que incluye todas las historias de usuario planificadas para el desarrollo de la landing page. Cada historia de usuario representa una funcionalidad o característica que debe ser implementada, con su estado de completitud, asignación a miembros del equipo, y estimación de horas tanto estimadas como reales. El backlog refleja el trabajo realizado en la creación de la página de aterrizaje, incluyendo funcionalidades de registro, inicio de sesión, configuración de perfil y secciones de ayuda.
 
-| ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
+ID Historia de Usuario|Descripción de Tarea|Estado|Asignado a|Horas Estimadas|Horas Reales|
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| US-01 | Como usuario, quiero registrarme en la plataforma para comenzar a usarla | Completado | Brayan Ccarita | 3 | 2.5 |
-| US-02 | Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma | Completado | Joseph Chavez | 3 | 2 |
-| US-03 | Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro.. | Completado | Brayan Ccarita | 4 | 5 |
-| US-12 | Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes. | Completado | Joseph Chavez | 2 | 3 |
-| US-13 | Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro. | Completado | Bryan Martinez | 2 | 3 |
-| US-14 | Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta. | Completado | Juan saldaña | 3 | 2 |
-| US-20 | Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte. | Completado | Dueñas Leonardo | 5 | 4 |
+US-01|Como usuario, quiero registrarme en la plataforma para comenzar a usarla|Completado|Brayan Ccarita|3|2.5|
+US-02|Como usuario, quiero iniciar sesión en mi cuenta para acceder a las funcionalidades de la plataforma|Completado|Joseph Chavez|3|2|
+US-03|Como usuario, quiero configurar mi perfil personal para que la plataforma personalice las recomendaciones para mi perro..|Completado|Brayan Ccarita|4|5|
+US-12|Como usuario, quiero acceder a una sección de preguntas frecuentes para resolver dudas comunes.|Completado|Joseph Chavez|2|3|
+US-13|Como usuario, quiero poder editar la información de mi perfil para mantener actualizados los datos de mi perro.|Completado|Bryan Martinez|2|3|
+US-14|Como usuario, quiero poder cambiar mi contraseña para asegurar la seguridad de mi cuenta.|Completado|Juan saldaña|3|2|
+US-20|Como usuario, quiero acceder a una sección de ayuda y preguntas frecuentes para resolver mis dudas sin necesidad de contactar al soporte.|Completado|Dueñas Leonardo|5|4|
     
-### 5.2.1.4. Development Evidence for Sprint Review.
+### 5.2.1.4. Development Evidence for Sprint Review
 
 Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 1, mostrando los commits realizados en el repositorio de GitHub. Cada commit representa un cambio específico en el código o documentación, proporcionando trazabilidad del trabajo realizado. La evidencia incluye commits relacionados con la implementación de la landing page, documentación de servicios, configuración de despliegue y análisis de entrevistas, demostrando el progreso continuo del proyecto.
 
-| Repository | Branch | Commit ID | Commit mensaje | Commit Body | Commit on Date |
+Repository|Branch|Commit ID|Commit mensaje|Commit Body|Commit on Date|
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | 8141205 | docs: add Services Documentation and Software Deployment section | \- | 18/09/2025 |
-| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | c8e6f2b | feat: add design interview | \- | c8e6f2b |
-| reignite-dogimax/report | feature/LandingPage-Services-Applications-Implementation | bbfb6e6 | docs: add Aspect Leaders and Collaborators section | \- | 18/09/2025 |
-| reignite-dogimax/report | feature/chapter-two-2.2.1 | c8e6f2b | feat: add design interview. | \- | 15/09/2025 |
-| reignite-dogimax/report | feature/chapter-two-2.2.2 | 21cf7e9 | Add interview analysis for dog lovers segment | \- | 15/09/2025 |
-| reignite-dogimax/report | feature/chapter-two-and-three | 1df385e | add competitive analysis | \- | 15/09/2025 |
-| reignite-dogimax/report | feature/chapter-two-and-three | 05dcad3 | Update header for Competitive Analysis Landscape section | \- | 15/09/2025 |
-| reignite-dogimax/report | feature/software/configuration-management | 902bf5a | docs: add Software Deployment Configuration section  | \- | 18/09/2025 |
-| reignite-dogimax/report | feature/software/configuration-management | 48c8220 | docs: add Source Code Style Guide & Conventions secction | \- | 17/09/2025 |
+reignite-dogimax/report|feature/LandingPage-Services-Applications-Implementation|8141205|docs: add Services Documentation and Software Deployment section|\-|18/09/2025|
+reignite-dogimax/report|feature/LandingPage-Services-Applications-Implementation|c8e6f2b|feat: add design interview|\-|c8e6f2b|
+reignite-dogimax/report|feature/LandingPage-Services-Applications-Implementation|bbfb6e6|docs: add Aspect Leaders and Collaborators section|\-|18/09/2025|
+reignite-dogimax/report|feature/chapter-two-2.2.1|c8e6f2b|feat: add design interview.|\-|15/09/2025|
+reignite-dogimax/report|feature/chapter-two-2.2.2|21cf7e9|Add interview analysis for dog lovers segment|\-|15/09/2025|
+reignite-dogimax/report|feature/chapter-two-and-three|1df385e|add competitive analysis|\-|15/09/2025|
+reignite-dogimax/report|feature/chapter-two-and-three|05dcad3|Update header for Competitive Analysis Landscape section|\-|15/09/2025|
+reignite-dogimax/report|feature/software/configuration-management|902bf5a|docs: add Software Deployment Configuration section|\-|18/09/2025|
+reignite-dogimax/report|feature/software/configuration-management|48c8220|docs: add Source Code Style Guide & Conventions secction|\-|17/09/2025|
 
     
-### 5.2.1.5. Execution Evidence for Sprint Review.
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 1 del proyecto DogiMax se logró implementar la estructura base de la landing page, enfocándose en una experiencia accesible, responsiva e informativa. El equipo desarrolló y conectó los principales puntos de navegación mediante un header funcional con enlaces activos y un footer informativo con accesos a secciones clave.
 
@@ -2545,21 +1648,21 @@ Además, se diseñaron y habilitaron secciones como Propuesta de Valor, Informac
 
 A continuación, se presentan capturas de las vistas más relevantes implementadas en este Sprint.
 
-<img src="assets/evidence-LandingPage1.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage1.png)
 
-<img src="assets/evidence-LandingPage2.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage2.png)
 
-<img src="assets/evidence-LandingPage3.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage3.png)
 
-<img src="assets/evidence-LandingPage4.png" />
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage4.png)
     
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el sprint 1, el equipo logró completar satisfactoriamente todas las tareas planificadas, con un enfoque principal en la construcción de la landing page. Durante el desarrollo se identificaron y corrigieron diversos errores en el código, lo que permitió optimizar los resultados obtenidos.
 
 En el contexto del desarrollo web, una página de aterrizaje cumple un rol esencial al convertir visitantes en clientes al guiarlos hacia una acción concreta, como realizar una compra, registrarse o descargar un recurso. A diferencia de un sitio web general, concentra todo su contenido en un solo objetivo, reduciendo distracciones y mejorando la experiencia del usuario.
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Esta sección documenta el proceso de despliegue de la landing page desarrollada durante el Sprint 1. El despliegue se realizó utilizando GitHub Pages, una plataforma de hosting estático que permite publicar sitios web directamente desde un repositorio de GitHub. Esta sección incluye la URL de despliegue y confirma que la landing page fue publicada exitosamente y está accesible para usuarios finales, cumpliendo con el objetivo principal del sprint.
 
@@ -2567,7 +1670,7 @@ El entregable desarrollado durante el sprint 1 fue desplegado en un entorno acce
 
 * URL de despliegue: [Landing_Page](https://reignite-dogimax.github.io/landing/)
     
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 1 del proyecto DogiMax, las actividades de implementación se organizaron en torno al desarrollo de la landing page. Cada uno de los miembros del equipo participó activamente en el desarrollo de los entregables asignados, garantizando una distribución equilibrada del esfuerzo técnico.
 
@@ -2581,15 +1684,20 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 * LandingPage:
 
-<img src="assets/Landing-Contributors.png">
-<img src="assets/Landing-Network.png">
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Contributors.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Network.png)
 
 * READ.ME 
 
-<img src="assets/Read-Contributors.png">
-<img src="assets/read-Network.png">
+![img](file:///C:/Users/PC-%20Usuario/report/images/Read-Contributors.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/read-Network.png)
 
 ### 5.2.2. Sprint 2
+
+**Trello Board:** [Sprint 2](https://trello.com/invite/b/692a6daf19e4f77b239ee0f6/ATTI0e04af41738540ff80d70f84b221c29f1ADFB257/sprint-2)
+
+![img](images/trello2.jpg)
+
 
 Continuando con el desarrollo del proyecto DogiMax, el Sprint 2 se enfocó en expandir las funcionalidades de la aplicación web, introduciendo la estructura de navegación interna, las herramientas de gestión de mascotas y el agendamiento de citas médicas. Este ciclo iterativo avanzó sobre las bases sentadas en el sprint anterior, comenzando a dar forma a la experiencia interactiva del usuario dentro de la plataforma. A continuación, se detallan los componentes de este sprint.
 
@@ -2597,51 +1705,49 @@ Continuando con el desarrollo del proyecto DogiMax, el Sprint 2 se enfocó en ex
 
 Esta sección documenta la planificación del segundo sprint del proyecto DogiMax, enfocado en el desarrollo de la primera versión funcional de la aplicación web. Durante esta fase, el equipo estableció los objetivos para implementar las funcionalidades básicas de gestión de mascotas y citas médicas, utilizando Angular como framework frontend y una API mock para la integración de datos. La planificación incluyó la definición del alcance, la asignación de tareas y la estimación de esfuerzo para cada funcionalidad.
 
-|             Sprint \#              | Sprint 2 |
+Sprint \#|Sprint 2|
 |:----------------------------------:| :---: |
-|     Sprint Planning Background     |  |
-|                Date                | 2025-09-22 |
-|                Time                | 08:00 PM |
-|              Location              | Remoto |
-|            Prepared By             | Joseph Manuel Chavez Viera |
-|  Attendees (to planning meeting)   | Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel |
-| Sprint n – 1 Retrospective Summary | No hay trabajo previo para realizar una retrospección |
-|             Tech Stack             | HTML5,CSS,figma,JavaScript |
-|     Sprint Goal & User Stories     |  |
-|            Sprint Goal             | Para el sprint 1 el objetivo principal es lograr desarrollar y desplegar la landing page, debe ser una página funcional que permita el acceso a cualquier persona |
-|     Sprint Goal & User Stories     ||
-|           Sprint 2 Goal            |Nuestro enfoque es entregar la primera versión funcional de la aplicación web de DogiMax. El objetivo es implementar las funcionalidades básicas de gestión de mascotas y citas, permitiendo a los usuarios registrar a sus perros, agendar citas médicas y consultar el historial de salud. Creemos que esto proporcionará un Producto Mínimo Viable (MVP) que entregue valor real a nuestros usuarios iniciales. Esto se confirmará cuando los usuarios puedan crear, ver y gestionar perfiles de mascotas y citas médicas en la aplicación desplegada.|
-|         Sprint 2 Velocity          | 20 |
-|        Sum of Story Points         | 19 |
+Sprint Planning Background||
+Date|2025-09-22|
+Time|08:00 PM|
+Location|Remoto|
+Prepared By|Joseph Manuel Chavez Viera|
+Attendees (to planning meeting)|Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel|
+Sprint n – 1 Retrospective Summary|No hay trabajo previo para realizar una retrospección|
+Tech Stack|HTML5,CSS,figma,JavaScript|
+Sprint Goal & User Stories||
+Sprint 2 Goal|Nuestro enfoque es entregar la primera versión funcional de la aplicación web de DogiMax. El objetivo es implementar las funcionalidades básicas de gestión de mascotas y citas, permitiendo a los usuarios registrar a sus perros, agendar citas médicas y consultar el historial de salud. Creemos que esto proporcionará un Producto Mínimo Viable (MVP) que entregue valor real a nuestros usuarios iniciales. Esto se confirmará cuando los usuarios puedan crear, ver y gestionar perfiles de mascotas y citas médicas en la aplicación desplegada.|
+Sprint 2 Velocity|20|
+Sum of Story Points|19|
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
 Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 2, identificando a los líderes y colaboradores en diferentes módulos del desarrollo frontend. La asignación de roles se basó en las áreas de especialización de cada miembro, cubriendo aspectos como la gestión de citas y actividades, módulos de salud y recomendaciones, desarrollo de API backend (mock) y despliegue de la aplicación web. Esta organización permitió un trabajo paralelo eficiente y una distribución equitativa de responsabilidades.
 
-| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | Appointment and Activity Management (Frontend) Leader (L) / Collaborator (C) | Health and Recommendation Module (Frontend) Leader (L) / Collaborator (C) | API Backend Development Leader (L) / Collaborator (C) | Web Application Deployment Leader (L) / Collaborator (C) |
+Team Member (Berrospi Marin, Angel Guillermo)|GitHub Username|Appointment and Activity Management (Frontend) Leader (L) / Collaborator (C)|Health and Recommendation Module (Frontend) Leader (L) / Collaborator (C)|API Backend Development Leader (L) / Collaborator (C)|Web Application Deployment Leader (L) / Collaborator (C)|
 | :---- | ----- |------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------| 
-| Brayan Roberto Ccarita Cruz |  hallzyx  | C                                                                            | C                                                                         | C                                                     | L                                                        | 
-| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                                                                            | L                                                                         | C                                                     | C                                                        | 
-| Juan Saldaña | jndesouza  | C                                                                            | C                                                                         | L                                                     | C                                                        |  
-| Dueñas Canales Leonardo Manuel |  Insonnio | L                                                                            | C                                                                         | C                                                     | C                                                        | 
+Brayan Roberto Ccarita Cruz|hallzyx|C|C|C|L|
+Joseph Manuel Chavez|u202314019-MrOsoPanda|C|L|C|C|
+Juan Saldaña|jndesouza|C|C|L|C|
+Dueñas Canales Leonardo Manuel|Insonnio|L|C|C|C|
 
 ### 5.2.2.3. Sprint Backlog 2
 
 Esta sección contiene el backlog del Sprint 2, que incluye todas las historias de usuario y tareas planificadas para el desarrollo de la aplicación web frontend. El backlog cubre funcionalidades clave como la gestión de perfiles de mascotas, el agendamiento de citas médicas, el dashboard principal, la recepción de notificaciones, la integración con API mock y la navegación del sistema. Cada tarea incluye su descripción, estimación de horas, asignación a miembros del equipo y estado de completitud.
 
-| Sprint # | User Story | Work-Item/TaskId | Title Id | Title Description | Estimation (Hours) | Assigned To| Status|
+Sprint #|User Story|Work-Item/TaskId|Title Id|Title Description|Estimation (Hours)|Assigned To|Status|
 | :---- | :---- |:-----------------| :---- | :---- | :---- | :---- | :----|
-|Id|Title| Id               |Title|Description|(Hours)|||
-| US-04 | Pet Profile Management | UT-01            | Develop the view (MascotasListView) to display the list of registered pet profiles. | 4 | Dueñas Canales, L. |Done|
-| US-04 | Pet Profile Management | UT-02            | Implement the unified form (MascotaFormComponent) to create and edit pet profiles. | 6 | Dueñas Canales, L. |Done|
-| US-04 | Pet Profile Management | UT-03            | Implement the detail view (MascotaDetailView) to consult a specific pet's information and history. | 5 | Chavez Viera, J. |Done|
-| US-08 | Medical Appointment Scheduling | UT-04            | Develop the view (CitasListView) to consult scheduled appointments and history. | 4 | Chavez Viera, J. |Done|
-| US-08 | Medical Appointment Scheduling | UT-05            | Implement the form (CitaFormComponent) to schedule new medical appointments (date, time, reason). | 5 | Chavez Viera, J. |Done|
-| US-10 | View Main Dashboard | UT-06       | Create the HomeComponent with a summary of pets and upcoming appointments. | 4 | Dueñas Canales, L. |Done|
-| US-07| Notification Reception | UT-07       | Implement the view (NotificacionesListView) to display important alerts (vaccines, appointments). | 3 | Ccarita Cruz, B. |Done|
-|US-07|Notification Reception|   UT-08               |Implement the configuration view (NotificacionesConfigView) to manage user preferences.|2|Ccarita Cruz, B.|Done|
-|US-30|Data Integration (API Mock)|    UT-09              |Document and create the mock endpoints (JSON) for Pet and Appointment operations.|6|Saldaña De Souza, J.|Done|
-|US-31|Fluid System Navigation|     UT-10             |Implement all navigation routes, lazy-loading, and the Navigation Guard.|2|Saldaña De Souza, J.|Done|
+Id|Title|Id|Title|Description|(Hours)|||
+US-04|Pet Profile Management|UT-01|Develop the view (MascotasListView) to display the list of registered pet profiles.|4|Dueñas Canales, L.|Done|
+US-04|Pet Profile Management|UT-02|Implement the unified form (MascotaFormComponent) to create and edit pet profiles.|6|Dueñas Canales, L.|Done|
+US-04|Pet Profile Management|UT-03|Implement the detail view (MascotaDetailView) to consult a specific pet's information and history.|5|Chavez Viera, J.|Done|
+US-08|Medical Appointment Scheduling|UT-04|Develop the view (CitasListView) to consult scheduled appointments and history.|4|Chavez Viera, J.|Done|
+US-08|Medical Appointment Scheduling|UT-05|Implement the form (CitaFormComponent) to schedule new medical appointments (date, time, reason).|5|Chavez Viera, J.|Done|
+US-10|View Main Dashboard|UT-06|Create the HomeComponent with a summary of pets and upcoming appointments.|4|Dueñas Canales, L.|Done|
+US-07|Notification Reception|UT-07|Implement the view (NotificacionesListView) to display important alerts (vaccines, appointments).|3|Ccarita Cruz, B.|Done|
+US-07|Notification Reception|UT-08|Implement the configuration view (NotificacionesConfigView) to manage user preferences.|2|Ccarita Cruz, B.|Done|
+US-30|Data Integration (API Mock)|UT-09|Document and create the mock endpoints (JSON) for Pet and Appointment operations.|6|Saldaña De Souza, J.|Done|
+US-31|Fluid System Navigation|UT-10|Implement all navigation routes, lazy-loading, and the Navigation Guard.|2|Saldaña De Souza, J.|Done|
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 En este segundo Sprint, hemos realizado la implementación de nuestra aplicación web. Todo el trabajo fue gestionado a través de nuestro repositorio en GitHub, utilizando un flujo de trabajo basado en ramas de funcionalidad (feature branches) que luego se integraron a la rama develop mediante Pull Requests. Esto aseguró la revisión y validación del código antes de su integración.
@@ -2659,15 +1765,15 @@ En el Sprint 2 hemos logrado implementar y visualizar las siguientes funcionalid
 
 A continuación se muestran capturas de pantalla de las vistas más representativas implementadas durante este sprint:
 
-![evidence-frontend 1.png](assets/evidence-frontend%201.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%201.png)
 
-![evidence-frontend 2.png](assets/evidence-frontend%202.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%202.png)
 
-![evidence-frontend 3.png](assets/evidence-frontend%203.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%203.png)
 
-![evidence-frontend 4.png](assets/evidence-frontend%204.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%204.png)
 
-![evidence-frontend 5.png](assets/evidence-frontend%205.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%205.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2693,15 +1799,15 @@ A partir del Sprint 3, se documentarán:
 
 Esta sección documenta el proceso de despliegue de la aplicación web desarrollada durante el Sprint 2. El despliegue se realizó utilizando Netlify, una plataforma de hosting moderna que permite desplegar aplicaciones web estáticas y dinámicas con facilidad. Esta sección incluye capturas de pantalla del proceso de despliegue, la configuración del entorno y la URL de la aplicación desplegada, confirmando que la aplicación fue publicada exitosamente y está accesible para usuarios finales.
 
-![evidence-deploy 1.png](assets/evidence-deploy%201.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%201.png)
 
-![evidence-deploy 2.png](assets/evidence-deploy%202.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%202.png)
 
-![evidence-deploy 3.png](assets/evidence-deploy%203.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%203.png)
 
-![evidence-deploy 4.png](assets/evidence-deploy%204.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%204.png)
 
-![evidence-deploy 5.png](assets/evidence-deploy%205.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%205.png)
 
 URL de despliegue: https://dogimax.netlify.app/ 
 
@@ -2725,85 +1831,93 @@ La colaboración se gestionó mediante GitHub, empleando ramas por feature, comm
 
 * Frontend
 
-![evidence-teamcollab.png](assets/evidence-teamcollab.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab.png)
 
-![evidence-teamcollab 1.png](assets/evidence-teamcollab%201.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab%201.png)
 
 ### 5.2.3. Sprint 3
 
+**Trello Board:** [Sprint 3](https://trello.com/invite/b/692a6db649e51f156f3c8a00/ATTI8c008bc03087844abc27294cacb4f5877F4FD756/sprint-3)
+
+![img](images/trello3.jpg)
+
+
+
 Continuando con el desarrollo del proyecto DogiMax, el Sprint 3 se enfoca en reforzar los aspectos de seguridad, implementar el backend robusto y optimizar la gestión de datos mediante una arquitectura Domain-Driven Design. Este sprint avanza sobre las bases establecidas en iteraciones anteriores, priorizando la protección de datos, la arquitectura escalable y una experiencia de usuario más fluida mediante la integración del backend con el frontend.
+
+### 5.2.3.1. Sprint Planning 3
 
 Esta sección documenta la planificación del tercer sprint del proyecto DogiMax, enfocado en el desarrollo del backend de la aplicación utilizando Spring Boot y arquitectura Domain-Driven Design (DDD). Durante esta fase, el equipo estableció los objetivos para construir y desplegar la API RESTful que reemplazaría la API simulada del frontend, implementando bounded contexts críticos como IAM (Identity and Access Management) y Gestión de Mascotas. La planificación incluyó la definición del stack tecnológico (Java 21, Spring Boot, MySQL, JWT), la asignación de roles en los diferentes bounded contexts y la estimación de historias de usuario relacionadas con la autenticación y gestión de datos.
 
-|             Sprint \#              |                                                                                                                                                                                                                                                                       Sprint 3                                                                                                                                                                                                                                                                       |
+Sprint \#|Sprint 3|
 |:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Sprint Planning Background     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                Date                |                                                                                                                                                                                                                                                               4 de noviembre del 2025                                                                                                                                                                                                                                                                |
-|                Time                |                                                                                                                                                                                                                                                                       20:00 PM                                                                                                                                                                                                                                                                       |
-|              Location              |                                                                                                                                                                                                                                                                        Remoto                                                                                                                                                                                                                                                                        |
-|            Prepared By             |                                                                                                                                                                                                                                                              Joseph Manuel Chavez Viera                                                                                                                                                                                                                                                              |
-|  Attendees (to planning meeting)   |                                                                                                                                                                                                                               Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel                                                                                                                                                                                                                               |
-| Sprint n – 2 Retrospective Summary |                                                                                                  El Sprint 2 fue exitoso, logrando desplegar la primera versión del frontend en Netlify con una API simulada (fake API). La validación con usuarios (Sprint 2.5) arrojó la necesidad urgente de un backend real para gestionar la persistencia de datos, la autenticación y la lógica de negocio, lo cual es el objetivo principal de este sprint.                                                                                                   |
-|             Tech Stack             |                                                                                                                                                                                                                        Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, OpenAPI (Swagger), Maven                                                                                                                                                                                                                        |
-|     Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|            Sprint Goal             |                                                                                                    Construir y desplegar la API RESTful de DogiMax. El objetivo es reemplazar la API simulada del frontend con un backend robusto desarrollado en Spring Boot, implementando una arquitectura de Domain-Driven Design (DDD). Este sprint se centrará en dos Bounded Contexts críticos: Gestión de Identidad y Acceso (IAM) y Gestión de Mascotas.                                                                                                    |
-|     Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|           Sprint 2 Goal            | Nuestro enfoque es entregar la primera versión funcional del backend web de DogiMax. El objetivo es implementar las funcionalidades básicas de gestión de mascotas y citas, permitiendo a los usuarios registrar a sus perros, agendar citas médicas y consultar el historial de salud. Creemos que esto proporcionará un Producto Mínimo Viable (MVP) que entregue valor real a nuestros usuarios iniciales. Esto se confirmará cuando los usuarios puedan crear, ver y gestionar perfiles de mascotas y citas médicas en la aplicación desplegada. |
-|         Sprint 2 Velocity          |                                                                                                                                                                                                                                                                          30                                                                                                                                                                                                                                                                          |
-|        Sum of Story Points         |                                                                                                                                                                                                                                                                          30                                                                                                                                                                                                                                                                          |
+Sprint Planning Background||
+Date|4 de noviembre del 2025|
+Time|20:00 PM|
+Location|Remoto|
+Prepared By|Joseph Manuel Chavez Viera|
+Attendees (to planning meeting)|Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel|
+Sprint n – 2 Retrospective Summary|El Sprint 2 fue exitoso, logrando desplegar la primera versión del frontend en Netlify con una API simulada (fake API). La validación con usuarios (Sprint 2.5) arrojó la necesidad urgente de un backend real para gestionar la persistencia de datos, la autenticación y la lógica de negocio, lo cual es el objetivo principal de este sprint.|
+Tech Stack|Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, OpenAPI (Swagger), Maven|
+Sprint Goal & User Stories||
+Sprint Goal|Construir y desplegar la API RESTful de DogiMax. El objetivo es reemplazar la API simulada del frontend con un backend robusto desarrollado en Spring Boot, implementando una arquitectura de Domain-Driven Design (DDD). Este sprint se centrará en dos Bounded Contexts críticos: Gestión de Identidad y Acceso (IAM) y Gestión de Mascotas.|
+Sprint Goal & User Stories||
+Sprint 3 Goal|Nuestro enfoque es entregar la primera versión funcional del backend web de DogiMax. El objetivo es implementar las funcionalidades básicas de autenticación y gestión de mascotas, permitiendo a los usuarios registrarse, autenticarse mediante JWT, y gestionar los perfiles de sus mascotas mediante endpoints RESTful. Creemos que esto proporcionará una base sólida para la integración con el frontend y permitirá la persistencia real de datos. Esto se confirmará cuando los usuarios puedan autenticarse y realizar operaciones CRUD sobre sus mascotas mediante la API desplegada.|
+Sprint 3 Velocity|30|
+Sum of Story Points|30|
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
 Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 3, identificando a los líderes y colaboradores en los diferentes bounded contexts del backend. La asignación de roles se basó en las áreas de especialización y experiencia de cada miembro, cubriendo aspectos como el bounded context de IAM (autenticación y autorización), Gestión de Mascotas, Appointments, Notification, y el módulo Shared junto con el despliegue de la API. Esta organización permitió un trabajo paralelo eficiente siguiendo los principios de Domain-Driven Design y aseguró la calidad de cada bounded context.
 
-| Team Member (Berrospi Marin, Angel Guillermo) | GitHub Username | IAM Bounded Context (L) / (C) | Gestión de Mascotas Bounded Context (L) / (C) | Appointments Bounded Context (L) / (C) | Notification Bounded Context (L) / (C) | Shared & API Deployment (L) / (C) | 
+Team Member (Berrospi Marin, Angel Guillermo)|GitHub Username|IAM Bounded Context (L) / (C)|Gestión de Mascotas Bounded Context (L) / (C)|Appointments Bounded Context (L) / (C)|Notification Bounded Context (L) / (C)|Shared & API Deployment (L) / (C)|
 | :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
-| Brayan Roberto Ccarita Cruz |  hallzyx  | L                             | -                                             | L                                      | -                                      | L                                 |
-| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                             | L                                             | -                                      | -                                      | C                                 | 
-| Juan Saldaña | jndesouza  | -                             | -                                             | C                                      | L                                      | -                                 |
-| Dueñas Canales Leonardo Manuel |  Insonnio | -                             | -                                             | -                                      | C                                      | -                                 | 
+Brayan Roberto Ccarita Cruz|hallzyx|L|-|L|-|L|
+Joseph Manuel Chavez|u202314019-MrOsoPanda|C|L|-|-|C|
+Juan Saldaña|jndesouza|-|-|C|L|-|
+Dueñas Canales Leonardo Manuel|Insonnio|-|-|-|C|-|
 
 
-### 5.2.3.3. Sprint Backlog 3.
+### 5.2.3.3. Sprint Backlog 3
 
 Esta sección contiene el backlog del Sprint 3, que incluye todas las historias de usuario y tareas planificadas para el desarrollo del backend de la aplicación. El backlog cubre funcionalidades clave como la autenticación de usuarios (sign-up y sign-in con JWT), la gestión completa de mascotas (CRUD), la documentación de la API con OpenAPI/Swagger, la configuración de la base de datos MySQL, y la creación de la estructura base para los bounded contexts de Appointments y Notification. Cada tarea incluye su descripción, estimación en story points, asignación a miembros del equipo y estado de completitud.
 
-| Sprint # |	User Story	| Work-Item/TaskId |	Title Description|	Estimation (Story Points)|	Assigned To	Status|
+Sprint #|User Story|Work-Item/TaskId|Title Description|Estimation (Story Points)|Assigned To	Status|
 | :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|
-|US-21	|Como usuario, quiero poder registrarme en la plataforma para crear una cuenta.|	UT-21.1	|Implementar endpoint POST /api/v1/authentication/sign-up.|	3	|Brayan Ccarita	|Done|
-|UT-21.2|	Configurar Spring Security y reglas de contraseña.|			
-|US-22|	Como usuario registrado, quiero poder iniciar sesión (sign-in) para acceder a la app.|	UT-22.1|	Implementar endpoint POST /api/v1/authentication/sign-in.|	3|	Brayan Ccarita|	Done|
-|UT-22.2|	Generar y validar tokens JWT en el inicio de sesión exitoso.	|		
-|US-23|	Como usuario, quiero poder crear el perfil de mi mascota.|	UT-23.1|	Implementar endpoint POST /api/v1/mascotas.|	4|	Joseph Chavez|	Done|
-|UT-23.2|	Definir el agregado Mascota en el dominio (DDD).	|		
-|US-24|	Como usuario, quiero poder ver todos los perfiles de mis mascotas.|	UT-24.1	|Implementar endpoint GET /api/v1/mascotas/user/{userId}.|	3	|Joseph Chavez	|Done|
-|UT-24.2|	Crear servicio de query (CQRS) para obtener mascotas por usuario.|			
-|US-25|	Como usuario, quiero poder ver el detalle de una mascota específica.|	UT-25.1|	Implementar endpoint GET /api/v1/mascotas/{mascotaId}.|	2|	Joseph Chavez	|Done|
-|US-26|	Como usuario, quiero poder actualizar la información de mi mascota.	|UT-26.1|	Implementar endpoint PUT /api/v1/mascotas/{mascotaId}.|	3	|Joseph Chavez|	Done|
-|US-27|	Como usuario, quiero poder eliminar el perfil de una mascota.|	UT-27.1	|Implementar endpoint DELETE /api/v1/mascotas/{mascotaId}.|	2	|Joseph Chavez|	Done|
-|US-28|	Como desarrollador, necesito documentar la API para facilitar la integración con el frontend.|	UT-28.1|	Configurar OpenAPI (Swagger) en el proyecto Spring Boot.|	2|	Brayan Ccarita|	Done|
-|US-29|	Como desarrollador, necesito un módulo compartido para reutilizar código y configuraciones.	|UT-29.1|	Crear módulo shared con clases base y configuración de seguridad.|	3	|Joseph Chavez	|Done|
-|US-30|	Como desarrollador, necesito configurar la conexión a la base de datos y la persistencia.|	UT-30.1	|Configurar application.properties para MySQL (local y perfiles).|	2	|Brayan Ccarita|	Done|
-|UT-30.2|	Implementar los Repositorios JPA en la capa de infraestructura.		|	
-|US-31	|Como desarrollador, necesito la estructura base para los próximos Sprints.|	UT-31.1|	Crear la estructura de carpetas (esqueleto) para los bounded contexts Appointments y Notification (basado en la imagen de división de trabajo).|	3	|B. Ccarita, J. Saldaña|	Done|
+US-21|Como usuario, quiero poder registrarme en la plataforma para crear una cuenta.|UT-21.1|Implementar endpoint POST /api/v1/authentication/sign-up.|3|Brayan Ccarita|Done|
+UT-21.2|Configurar Spring Security y reglas de contraseña.|
+US-22|Como usuario registrado, quiero poder iniciar sesión (sign-in) para acceder a la app.|UT-22.1|Implementar endpoint POST /api/v1/authentication/sign-in.|3|Brayan Ccarita|Done|
+UT-22.2|Generar y validar tokens JWT en el inicio de sesión exitoso.|
+US-23|Como usuario, quiero poder crear el perfil de mi mascota.|UT-23.1|Implementar endpoint POST /api/v1/mascotas.|4|Joseph Chavez|Done|
+UT-23.2|Definir el agregado Mascota en el dominio (DDD).|
+US-24|Como usuario, quiero poder ver todos los perfiles de mis mascotas.|UT-24.1|Implementar endpoint GET /api/v1/mascotas/user/{userId}.|3|Joseph Chavez|Done|
+UT-24.2|Crear servicio de query (CQRS) para obtener mascotas por usuario.|
+US-25|Como usuario, quiero poder ver el detalle de una mascota específica.|UT-25.1|Implementar endpoint GET /api/v1/mascotas/{mascotaId}.|2|Joseph Chavez|Done|
+US-26|Como usuario, quiero poder actualizar la información de mi mascota.|UT-26.1|Implementar endpoint PUT /api/v1/mascotas/{mascotaId}.|3|Joseph Chavez|Done|
+US-27|Como usuario, quiero poder eliminar el perfil de una mascota.|UT-27.1|Implementar endpoint DELETE /api/v1/mascotas/{mascotaId}.|2|Joseph Chavez|Done|
+US-28|Como desarrollador, necesito documentar la API para facilitar la integración con el frontend.|UT-28.1|Configurar OpenAPI (Swagger) en el proyecto Spring Boot.|2|Brayan Ccarita|Done|
+US-29|Como desarrollador, necesito un módulo compartido para reutilizar código y configuraciones.|UT-29.1|Crear módulo shared con clases base y configuración de seguridad.|3|Joseph Chavez|Done|
+US-30|Como desarrollador, necesito configurar la conexión a la base de datos y la persistencia.|UT-30.1|Configurar application.properties para MySQL (local y perfiles).|2|Brayan Ccarita|Done|
+UT-30.2|Implementar los Repositorios JPA en la capa de infraestructura.|
+US-31|Como desarrollador, necesito la estructura base para los próximos Sprints.|UT-31.1|Crear la estructura de carpetas (esqueleto) para los bounded contexts Appointments y Notification (basado en la imagen de división de trabajo).|3|B. Ccarita, J. Saldaña|Done|
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
 Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 3, mostrando los commits realizados en el repositorio del backend. Cada commit representa un cambio específico en el código, proporcionando trazabilidad del trabajo realizado en la implementación del backend. La evidencia incluye commits relacionados con la configuración de la base de datos, la integración del módulo Shared, la implementación del bounded context de IAM, la gestión de mascotas, la estructura de appointments y notifications, y la configuración de OpenAPI/Swagger, demostrando el progreso continuo del desarrollo backend.
 
-|Repository|	Branch| 	Commit ID | 	Commit mensaje                                                      | 	Commit on Date |
+Repository|Branch|Commit ID|Commit mensaje|Commit on Date|
 | :---- | ----- |------------|----------------------------------------------------------------------|-----------------|
-|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf   | 	chore: configure database connection and application properties     | 	24/10/2025     |
-|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf	  | merge: Integrate Shared module (domain base, security config)	       | 26/10/2025      |
-|https://github.com/reignite-dogimax/backend-app	|develop	| b2f5aaf   | 	merge: Integrate IAM bounded context (sign-in, sign-up, jwt)	       | 27/10/2025      |
-|https://github.com/reignite-dogimax/backend-app	|feature/pet_management	| 87a08a6   | 	feat(pets): Implement domain aggregate and POST endpoint	           | 28/10/2025      |
-|https://github.com/reignite-dogimax/backend-app	|feature/pet_management	| 87a08a6   | 	feat(pets): Implement domain aggregate and POST endpoint	           | 28/10/2025      |
-|https://github.com/reignite-dogimax/backend-app	|feature/appointments-implementation	| a2d21bd   | 	feat(appoint): Add DDD structure for appointments context	          | 02/11/2025      |
-|https://github.com/reignite-dogimax/backend-app	|feature/notification_management	| 7e02998   | 	feat(notif): Add DDD structure for notification management context	 | 02/11/2025      |
-|https://github.com/reignite-dogimax/backend-app|	develop	| b2f5aaf    | docs: Add OpenAPI (Swagger) configuration	                           | 03/11/2025      |
-|https://github.com/reignite-dogimax/backend-app|	develop	| b2f5aaf	  | merge: Integrate pet_management feature branch	                      | 04/11/2025      |
+https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|chore: configure database connection and application properties|24/10/2025|
+https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate Shared module (domain base, security config)|26/10/2025|
+https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate IAM bounded context (sign-in, sign-up, jwt)|27/10/2025|
+https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
+https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
+https://github.com/reignite-dogimax/backend-app|feature/appointments-implementation|a2d21bd|feat(appoint): Add DDD structure for appointments context|02/11/2025|
+https://github.com/reignite-dogimax/backend-app|feature/notification_management|7e02998|feat(notif): Add DDD structure for notification management context|02/11/2025|
+https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|docs: Add OpenAPI (Swagger) configuration|03/11/2025|
+https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate pet_management feature branch|04/11/2025|
 
-### 5.2.3.5. Execution Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 3, el equipo logró implementar de manera efectiva los módulos funcionales clave del backend de la aplicación DogiMax, consolidando su estructura como plataforma integral para la gestión del cuidado de perros. Se completaron las funcionalidades correspondientes a los bounded contexts prioritarios:
 
@@ -2821,7 +1935,33 @@ Durante el Sprint 3, el equipo logró implementar de manera efectiva los módulo
 
 Estas funcionalidades fueron integradas con el Web Service desarrollado por el equipo, garantizando una arquitectura sólida, respuestas rápidas y coherencia en la estructura del código. El resultado es una versión estable del backend que conecta usuarios, mascotas y servicios en un entorno digital robusto y escalable.
 
-### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+A continuación se presentan las evidencias visuales de los módulos implementados en el backend, mostrando las operaciones CRUD disponibles para cada bounded context:
+
+**Módulo de Autenticación (IAM):**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Authentication.jpg)
+
+**Módulo de Usuarios:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Users.jpg)
+
+**Módulo de Gestión de Mascotas:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_pets.jpg)
+
+**Módulo de Appointments (Citas):**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Appointment.jpg)
+
+**Módulo de Notificaciones:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Notifications.jpg)
+
+**Módulo de Veterinarios:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Veterinarians.jpg)
+
+**Módulo de Registros Médicos:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Medicals.jpg)
+
+**Módulo de Recomendaciones:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Recommendations.jpg)
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3, el equipo Reignite avanzó significativamente en la documentación de los Web Services para la aplicación DogiMax. El enfoque se centró en los módulos de autenticación (IAM), gestión de mascotas, y la estructura base para appointments y notifications. Esta documentación fue creada utilizando OpenAPI (Swagger) para estandarizar la descripción de los Endpoints implementados y su interacción con los diferentes componentes del sistema.
 
@@ -2829,19 +1969,19 @@ El objetivo principal fue asegurar que tanto los desarrolladores del frontend co
 
 A continuación se presenta una tabla con los Endpoints documentados durante el Sprint 3:
 
-| Módulo | Endpoint | Método HTTP | Descripción | Parámetros | Ejemplo de Request | Ejemplo de Response |
+Módulo|Endpoint|Método HTTP|Descripción|Parámetros|Ejemplo de Request|Ejemplo de Response|
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| IAM | `/api/v1/authentication/sign-up` | POST | Registra un nuevo usuario en la plataforma | `body: { email, password, nombre, apellido }` | `POST /api/v1/authentication/sign-up` | `201 Created - Usuario registrado` |
-| IAM | `/api/v1/authentication/sign-in` | POST | Inicia sesión y genera token JWT | `body: { email, password }` | `POST /api/v1/authentication/sign-in` | `200 OK - Token JWT` |
-| Gestión de Mascotas | `/api/v1/mascotas` | POST | Crea un nuevo perfil de mascota | `body: { nombre, raza, fechaNacimiento, peso, userId }` | `POST /api/v1/mascotas` | `201 Created - Mascota creada` |
-| Gestión de Mascotas | `/api/v1/mascotas/user/{userId}` | GET | Obtiene todas las mascotas de un usuario | `:userId (Long)` | `GET /api/v1/mascotas/user/1` | `200 OK - Lista de mascotas` |
-| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | GET | Obtiene el detalle de una mascota específica | `:mascotaId (Long)` | `GET /api/v1/mascotas/1` | `200 OK - Detalle de la mascota` |
-| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | PUT | Actualiza la información de una mascota | `:mascotaId (Long), body: { nombre, raza, peso, ... }` | `PUT /api/v1/mascotas/1` | `200 OK - Mascota actualizada` |
-| Gestión de Mascotas | `/api/v1/mascotas/{mascotaId}` | DELETE | Elimina el perfil de una mascota | `:mascotaId (Long)` | `DELETE /api/v1/mascotas/1` | `200 OK - Mascota eliminada` |
+IAM|`/api/v1/authentication/sign-up`|POST|Registra un nuevo usuario en la plataforma|`body: { email, password, nombre, apellido }`|`POST /api/v1/authentication/sign-up`|`201 Created - Usuario registrado`|
+IAM|`/api/v1/authentication/sign-in`|POST|Inicia sesión y genera token JWT|`body: { email, password }`|`POST /api/v1/authentication/sign-in`|`200 OK - Token JWT`|
+Gestión de Mascotas|`/api/v1/mascotas`|POST|Crea un nuevo perfil de mascota|`body: { nombre, raza, fechaNacimiento, peso, userId }`|`POST /api/v1/mascotas`|`201 Created - Mascota creada`|
+Gestión de Mascotas|`/api/v1/mascotas/user/{userId}`|GET|Obtiene todas las mascotas de un usuario|`:userId (Long)`|`GET /api/v1/mascotas/user/1`|`200 OK - Lista de mascotas`|
+Gestión de Mascotas|`/api/v1/mascotas/{mascotaId}`|GET|Obtiene el detalle de una mascota específica|`:mascotaId (Long)`|`GET /api/v1/mascotas/1`|`200 OK - Detalle de la mascota`|
+Gestión de Mascotas|`/api/v1/mascotas/{mascotaId}`|PUT|Actualiza la información de una mascota|`:mascotaId (Long), body: { nombre, raza, peso, ... }`|`PUT /api/v1/mascotas/1`|`200 OK - Mascota actualizada`|
+Gestión de Mascotas|`/api/v1/mascotas/{mascotaId}`|DELETE|Elimina el perfil de una mascota|`:mascotaId (Long)`|`DELETE /api/v1/mascotas/1`|`200 OK - Mascota eliminada`|
 
 La documentación completa está disponible a través de la interfaz Swagger UI configurada en el proyecto, accesible en `/swagger-ui.html` cuando la aplicación está en ejecución.
 
-### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 3, el equipo configuró y preparó el entorno de despliegue para el backend de DogiMax. Se estableció la infraestructura necesaria para el despliegue del Web Service desarrollado en Spring Boot, incluyendo la configuración de perfiles de aplicación para diferentes entornos (desarrollo, producción).
 
@@ -2857,7 +1997,7 @@ La aplicación backend fue configurada para ejecutarse en un entorno de producci
 
 El backend está preparado para ser desplegado en un servidor de aplicaciones compatible con Spring Boot, garantizando la disponibilidad y el rendimiento adecuado para la integración con el frontend y futuras expansiones del sistema.
 
-### 5.2.3.8. Team Collaboration Insights during Sprint.
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, el equipo Reignite implementó funcionalidades clave del Web Service relacionadas a los módulos IAM (Identity and Access Management), Gestión de Mascotas, Appointments y Notification, respetando la arquitectura DDD y garantizando la calidad de los endpoints generados. La colaboración del equipo se reflejó en el uso efectivo de ramas feature, commits significativos y merge requests bien documentadas. Cada miembro contribuyó en diferentes niveles de desarrollo, según su rol como líder o colaborador en los bounded contexts asignados.
 
@@ -2867,7 +2007,38 @@ Para mejorar la calidad y mantenibilidad del código, se implementó el módulo 
 
 La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales siguiendo Conventional Commits, y pull requests con descripciones detalladas. A continuación, se detallan las contribuciones individuales de cada miembro:
 
+**Brayan Roberto Ccarita Cruz (hallzyx)**
+
+Contribuciones destacadas:
+- Desarrollo completo del backend del sistema.
+- Despliegue del backend en el entorno de producción.
+
+**Joseph Manuel Chavez Viera (u202314019-MrOsoPanda)**
+
+Contribuciones destacadas:
+- Modificación y actualización de la landing page.
+- Trabajo en la edición de componentes del frontend.
+- Encargado de la documentación del proyecto.
+
+**Juan David Saldaña De Souza (jndesouza)**
+
+Contribuciones destacadas:
+- Revisión y corrección del documento del proyecto.
+
+**Dueñas Canales Leonardo Manuel (Insonnio)**
+
+Contribuciones destacadas:
+- Revisión y corrección del documento del proyecto.
+
+A continuación se presentan las evidencias del trabajo colaborativo del equipo durante el Sprint 3:
+
+![img](file:///C:/Users/PC-%20Usuario/report/images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+
 ### 5.2.4. Sprint 4
+
+**Trello Board:** [Sprint 4](https://trello.com/invite/b/692ca45c5bf572ec51d484ec/ATTIbb9858d18e174fd083b188c6ab6985958FE974AD/sprint-4)
+
+![img](images/trello4.jpg)
 
 Continuando con el desarrollo del proyecto DogiMax, el Sprint 4 se centra en integrar, validar y consolidar todas las funcionalidades implementadas en iteraciones anteriores. En esta etapa, el equipo enfoca sus esfuerzos en asegurar un flujo de usuario completamente funcional —desde el registro y autenticación hasta la interacción y gestión de recursos— garantizando que el sistema se comporte correctamente en un entorno real.
 
@@ -2877,77 +2048,222 @@ Este sprint se orienta a unir el frontend con el backend de forma definitiva, va
 
 ### 5.2.4.1. Sprint Planning 4
 
-|             Sprint #              |                                                                                              Sprint 4                                                                                              |
+Sprint #|Sprint 4|
+
+
 |:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Sprint Planning Background     |                                                                                                                                                                                                    |
-|                Date                |                                                                                              28 de noviembre del 2025                                                                                              |
-|                Time                |                                                                                                      17:00                                                                                                        |
-|              Location              |                                                                                                       Remoto                                                                                                       |
-|            Prepared By             |                                                                                         Leonardo Manuel Dueñas Canales                                                                                        |
-|  Attendees (to planning meeting)   |                                                        Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel, Joseph Manuel Chavez Viera                                                        |
-| Sprint n – 3 Retrospective Summary | El Sprint 3 logró implementar el backend completo utilizando Spring Boot y arquitectura Domain-Driven Design, habilitando la API RESTful real e integrando bounded contexts clave como IAM y Gestión de Mascotas. Con esta base sólida, el equipo identificó la necesidad de conectar el backend con el frontend, validar los módulos de citas y notificaciones, optimizar el rendimiento y asegurar un flujo integral para el usuario. |
-|             Tech Stack             |                                                     Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, React, Vite, Cypress, Docker, Netlify                                                      |
-|     Sprint Goal & User Stories     |                                                                                                                                                                                                    |
-|            Sprint Goal             | Consolidar un flujo real de usuario **(registro → login → interacción → gestión)** mediante la integración completa del backend y frontend, validando los módulos ya implementados (appointments y notifications), ejecutando QA testing automatizado, optimizando el rendimiento e implementando un despliegue estable y funcional de DogiMax. |
-|     Sum of Story Points (Sprint 4) |                                                                                                      30                                                                                                       |
-|        Sprint 4 Velocity           |                                                                                                      34                                                                                                       |
+Sprint Planning Background||
+Date|28 de noviembre del 2025|
+Time|17:00|
+Location|Remoto|
+Prepared By|Leonardo Manuel Dueñas Canales|
+Attendees (to planning meeting)|Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel, Joseph Manuel Chavez Viera|
+Sprint n – 3 Retrospective Summary|El Sprint 3 logró implementar el backend completo utilizando Spring Boot y arquitectura Domain-Driven Design, habilitando la API RESTful real e integrando bounded contexts clave como IAM y Gestión de Mascotas. Con esta base sólida, el equipo identificó la necesidad de conectar el backend con el frontend, validar los módulos de citas y notificaciones, optimizar el rendimiento y asegurar un flujo integral para el usuario.|
+Tech Stack|Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, React, Vite, Cypress, Docker, Netlify|
+Sprint Goal & User Stories||
+Sprint 4 Goal|Consolidar un flujo real de usuario **(registro → login → interacción → gestión)** mediante la integración completa del backend y frontend, validando los módulos ya implementados (appointments y notifications), ejecutando QA testing automatizado, optimizando el rendimiento e implementando un despliegue estable y funcional de DogiMax.|
+Sum of Story Points (Sprint 4)|30|
+Sprint 4 Velocity|34|
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
 
-Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 3, identificando a los líderes y colaboradores en los diferentes bounded contexts del backend. La asignación de roles se basó en las áreas de especialización y experiencia de cada miembro, cubriendo aspectos como el bounded context de IAM (autenticación y autorización), Gestión de Mascotas, Appointments, Notification, y el módulo Shared junto con el despliegue de la API. Esta organización permitió un trabajo paralelo eficiente siguiendo los principios de Domain-Driven Design y aseguró la calidad de cada bounded context.
+Esta sección presenta la distribución de roles y responsabilidades del equipo durante el Sprint 4, identificando a los líderes y colaboradores en los diferentes bounded contexts del backend y frontend. La asignación de roles se basó en las áreas de especialización y experiencia de cada miembro, cubriendo aspectos como el bounded context de IAM (autenticación y autorización), Gestión de Mascotas, Appointments, Notification, y el módulo Shared junto con el despliegue de la API. Esta organización permitió un trabajo paralelo eficiente siguiendo los principios de Domain-Driven Design y aseguró la calidad de cada bounded context.
 
-| Team Member | GitHub Username | IAM Bounded Context (L) / (C) | Gestión de Mascotas Bounded Context (L) / (C) | Appointments Bounded Context (L) / (C) | Notification Bounded Context (L) / (C) | Shared & API Deployment (L) / (C) | 
+Team Member|GitHub Username|IAM Bounded Context (L) / (C)|Gestión de Mascotas Bounded Context (L) / (C)|Appointments Bounded Context (L) / (C)|Notification Bounded Context (L) / (C)|Shared & API Deployment (L) / (C)|
 | :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
-| Brayan Roberto Ccarita Cruz |  hallzyx  | L                             | -                                             | L                                      | -                                      | L                                 |
-| Joseph Manuel Chavez |  u202314019-MrOsoPanda | C                             | L                                             | -                                      | -                                      | C                                 | 
-| Juan Saldaña | jndesouza  | -                             | -                                             | C                                      | L                                      | -                                 |
-| Dueñas Canales Leonardo Manuel |  Insonnio | -                             | -                                             | -                                      | C                                      | -                                 | 
+Brayan Roberto Ccarita Cruz|hallzyx|L|-|L|-|L|
+Joseph Manuel Chavez|u202314019-MrOsoPanda|C|L|-|-|C|
+Juan Saldaña|jndesouza|-|-|C|L|-|
+Dueñas Canales Leonardo Manuel|Insonnio|-|-|-|C|-|
 
 
-### 5.2.4.3. Sprint Backlog 4.
+### 5.2.4.3. Sprint Backlog 4
 
+Esta sección contiene el backlog del Sprint 4, que incluye todas las historias de usuario y tareas planificadas para la integración completa del frontend con el backend, validación de módulos, optimización de rendimiento y despliegue estable. El backlog cubre funcionalidades clave como la integración frontend-backend, implementación completa de Appointments y Notifications, gestión de pacientes para veterinarios, pruebas automatizadas y optimización del sistema. Cada tarea incluye su descripción, estimación en story points, asignación a miembros del equipo y estado de completitud.
 
+Sprint #|User Story|Work-Item/TaskId|Title Description|Estimation (Story Points)|Assigned To|Status|
+| :---- | ----- |-------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------| 
+US-32|Como usuario, quiero que el frontend se conecte con el backend real para realizar operaciones reales.|UT-32.1|Integrar servicios del frontend con endpoints del backend (reemplazar API mock).|5|Joseph Chavez, Leonardo Dueñas|Done|
+US-32|Como usuario, quiero que el frontend se conecte con el backend real para realizar operaciones reales.|UT-32.2|Configurar interceptores HTTP para autenticación JWT en el frontend.|3|Joseph Chavez|Done|
+US-33|Como usuario, quiero poder agendar citas médicas completas para mis mascotas.|UT-33.1|Implementar endpoints completos de Appointments (POST, GET, PUT, DELETE).|4|Brayan Ccarita|Done|
+US-33|Como usuario, quiero poder agendar citas médicas completas para mis mascotas.|UT-33.2|Implementar agregado de dominio Appointment siguiendo arquitectura DDD.|3|Brayan Ccarita|Done|
+US-33|Como usuario, quiero poder agendar citas médicas completas para mis mascotas.|UT-33.3|Integrar frontend de citas con endpoints del backend.|3|Leonardo Dueñas|Done|
+US-34|Como usuario, quiero recibir notificaciones sobre eventos importantes de mis mascotas.|UT-34.1|Implementar endpoints completos de Notifications (GET, POST).|4|Juan Saldaña|Done|
+US-34|Como usuario, quiero recibir notificaciones sobre eventos importantes de mis mascotas.|UT-34.2|Implementar agregado de dominio Notification siguiendo arquitectura DDD.|3|Juan Saldaña|Done|
+US-34|Como usuario, quiero recibir notificaciones sobre eventos importantes de mis mascotas.|UT-34.3|Integrar frontend de notificaciones con endpoints del backend.|2|Leonardo Dueñas|Done|
+US-35|Como veterinario, quiero gestionar los pacientes asignados a mi cuidado.|UT-35.1|Implementar endpoints de gestión de pacientes para veterinarios (GET, PUT, DELETE).|4|Brayan Ccarita|Done|
+US-35|Como veterinario, quiero gestionar los pacientes asignados a mi cuidado.|UT-35.2|Implementar agregado de dominio Paciente/Veterinario siguiendo arquitectura DDD.|3|Brayan Ccarita|Done|
+US-36|Como desarrollador, necesito validar que todos los módulos funcionen correctamente.|UT-36.1|Ejecutar pruebas automatizadas (QA testing) con Cypress para flujos críticos.|3|Joseph Chavez, Leonardo Dueñas|Done|
+US-37|Como desarrollador, necesito optimizar el rendimiento de la aplicación.|UT-37.1|Optimizar consultas de base de datos y endpoints del backend.|2|Brayan Ccarita|Done|
+US-37|Como desarrollador, necesito optimizar el rendimiento de la aplicación.|UT-37.2|Optimizar carga y renderizado del frontend.|2|Joseph Chavez|Done|
+US-38|Como desarrollador, necesito desplegar el sistema completo de forma estable.|UT-38.1|Configurar y desplegar backend en entorno de producción.|3|Brayan Ccarita|Done|
+US-38|Como desarrollador, necesito desplegar el sistema completo de forma estable.|UT-38.2|Configurar y desplegar frontend en Netlify con integración al backend.|2|Joseph Chavez|Done|
+US-39|Como desarrollador, necesito actualizar la documentación de la API.|UT-39.1|Actualizar OpenAPI/Swagger con todos los endpoints implementados (Appointments, Notifications, Pacientes).|2|Brayan Ccarita|Done|
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 4, mostrando los commits realizados en el repositorio del backend. Cada commit representa un cambio específico en el código, proporcionando trazabilidad del trabajo realizado en la implementación del backend. La evidencia incluye commits relacionados con la configuración de la base de datos, la integración del módulo Shared, la implementación del bounded context de IAM, la gestión de mascotas, la estructura de appointments, notifications, la adición de el segemento veterinarios y gestión de pacientes y la configuración de OpenAPI/Swagger, demostrando el progreso continuo del desarrollo backend y frontend. Por último también se logró una conexión satisfactoría entre frontend y backend, y el despliegue de estos mismos.
+
+Repository|Branch|Commit ID|Commit mensaje|Commit on Date|
+| :---- | ----- |------------|----------------------------------------------------------------------|-----------------|
+|https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|chore: configure database connection and application properties|24/10/2025|
+|https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate Shared module (domain base, security config)|26/10/2025|
+|https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate IAM bounded context (sign-in, sign-up, jwt)|27/10/2025|
+|https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
+|https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
+|https://github.com/reignite-dogimax/backend-app|feature/appointments-implementation|a2d21bd|feat(appoint): Add DDD structure for appointments context|02/11/2025|
+|https://github.com/reignite-dogimax/backend-app|feature/notification_management|7e02998|feat(notif): Add DDD structure for notification management context|02/11/2025|
+|https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|docs: Add OpenAPI (Swagger) configuration|03/11/2025|
+|https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate pet_management feature branch|04/11/2025|
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el *Sprint 4*, el equipo logró consolidar el flujo completo de usuario en la aplicación DogiMax, integrando de manera efectiva el frontend con el backend y validando los módulos funcionales previamente desarrollados. Se completaron y verificaron las funcionalidades correspondientes a los bounded contexts y segmentos objetivos:
+
+*IAM (Identity and Access Management):*  
+
+Se validó la integración completa del sistema de autenticación con el frontend, asegurando que los usuarios puedan registrarse (sign-up) e iniciar sesión (sign-in) correctamente, con generación y validación de tokens JWT.
+
+*Gestión de Mascotas:*  
+
+Se verificó el CRUD completo de mascotas desde el frontend, garantizando que los usuarios puedan crear, visualizar, actualizar y eliminar perfiles de sus mascotas con un flujo consistente y sin errores.
+
+*Appointments Bounded Context:*  
+
+Se validó el módulo de citas, permitiendo a los usuarios agendar, consultar y cancelar citas médicas para sus mascotas, con la interacción correcta con el backend.
+
+*Notification Bounded Context:*  
+
+Se comprobó el correcto funcionamiento del sistema de notificaciones, integrando los eventos importantes de la aplicación para que los usuarios reciban alertas oportunas.
+
+*Gestión de Pacientes (Veterinarios):*  
+
+Se implementó y validó el módulo de pacientes, permitiendo a los veterinarios visualizar, consultar, actualizar y eliminar información de sus pacientes, así como gestionar el flujo de citas asociado.
+
+*Shared Module:*  
+
+Se mantuvo y validó el módulo compartido, garantizando la correcta reutilización de clases base y configuraciones de seguridad en todos los módulos integrados.
+
+*Documentación de la API:*  
+
+Se actualizaron los endpoints en OpenAPI/Swagger, reflejando todos los flujos reales de la aplicación, incluyendo usuarios, mascotas, citas, notificaciones y gestión de pacientes.
+
+*Optimización del rendimiento:*  
+
+Se revisaron y optimizaron consultas, endpoints y carga de frontend, asegurando una experiencia de usuario fluida y estable en la aplicación.
+
+El resultado del *Sprint 4* es una versión completamente funcional y estable de DogiMax, con todos los flujos de usuario integrados, módulos validados y documentación actualizada, lista para despliegue y uso en un entorno real.
+
+A continuación se presentan las evidencias visuales de los módulos implementados y validados en el backend durante el Sprint 4, mostrando las operaciones CRUD completas disponibles para cada bounded context:
+
+**Módulo de Autenticación (IAM):**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Authentication.jpg)
+
+**Módulo de Usuarios:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Users.jpg)
+
+**Módulo de Gestión de Mascotas:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_pets.jpg)
+
+**Módulo de Appointments (Citas):**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Appointment.jpg)
+
+**Módulo de Notificaciones:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Notifications.jpg)
+
+**Módulo de Veterinarios:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Veterinarians.jpg)
+
+**Módulo de Registros Médicos:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Medicals.jpg)
+
+**Módulo de Recomendaciones:**
+![img](file:///C:/Users/PC-%20Usuario/report/images/Back_Recommendations.jpg)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el *Sprint 4*, el equipo Reignite consolidó y actualizó la documentación de los Web Services para la aplicación DogiMax, asegurando que reflejara todos los flujos reales implementados y validados. El enfoque se centró en los módulos de autenticación (IAM), gestión de mascotas, appointments, notifications y gestión de pacientes para veterinarios. Esta documentación se creó y mantuvo utilizando **OpenAPI (Swagger)**, estandarizando la descripción de los endpoints y su interacción con los distintos componentes del sistema.
+
+El objetivo principal fue garantizar que los desarrolladores del frontend y colaboradores externos pudieran consultar, probar e integrar fácilmente las funcionalidades de la API. Como resultado, se generaron especificaciones detalladas para cada endpoint cubierto durante el Sprint 4, incluyendo verbos HTTP, rutas, parámetros, respuestas esperadas y ejemplos de uso interactivos, facilitando así la colaboración y asegurando la trazabilidad del desarrollo técnico.
+
+A continuación se presenta una tabla con los endpoints documentados durante el Sprint 4:
+
+Módulo|Endpoint|Método HTTP|Descripción|Parámetros|Ejemplo de Request|Ejemplo de Response|
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+|IAM|/api/v1/authentication/sign-up|POST|Registra un nuevo usuario|body: { email, password, nombre, apellido }|POST /api/v1/authentication/sign-up|201 Created - Usuario registrado|
+|IAM|/api/v1/authentication/sign-in|POST|Inicia sesión y genera token JWT|body: { email, password }|POST /api/v1/authentication/sign-in|200 OK - Token JWT|
+|Gestión de Mascotas|/api/v1/mascotas|POST|Crea un nuevo perfil de mascota|body: { nombre, raza, fechaNacimiento, peso, userId }|POST /api/v1/mascotas|201 Created - Mascota creada|
+|Gestión de Mascotas|/api/v1/mascotas/user/{userId}|GET|Obtiene todas las mascotas de un usuario|:userId (Long)|GET /api/v1/mascotas/user/1|200 OK - Lista de mascotas|
+|Gestión de Mascotas|/api/v1/mascotas/{mascotaId}|GET|Obtiene el detalle de una mascota específica|:mascotaId (Long)|GET /api/v1/mascotas/1|200 OK - Detalle de la mascota|
+|Gestión de Mascotas|/api/v1/mascotas/{mascotaId}|PUT|Actualiza la información de una mascota|:mascotaId (Long), body: { nombre, raza, peso, ... }|PUT /api/v1/mascotas/1|200 OK - Mascota actualizada|
+|Gestión de Mascotas|/api/v1/mascotas/{mascotaId}|DELETE|Elimina el perfil de una mascota|:mascotaId (Long)|DELETE /api/v1/mascotas/1|200 OK - Mascota eliminada|
+|Appointments|/api/v1/appointments|POST|Agenda una nueva cita para una mascota|body: { mascotaId, fecha, motivo }|POST /api/v1/appointments|201 Created - Cita creada|
+|Appointments|/api/v1/appointments/{appointmentId}|GET|Consulta una cita específica|:appointmentId (Long)|GET /api/v1/appointments/1|200 OK - Detalle de la cita|
+|Appointments|/api/v1/appointments/{appointmentId}|PUT|Actualiza información de una cita|:appointmentId (Long), body: { fecha, motivo }|PUT /api/v1/appointments/1|200 OK - Cita actualizada|
+|Appointments|/api/v1/appointments/{appointmentId}|DELETE|Cancela una cita|:appointmentId (Long)|DELETE /api/v1/appointments/1|200 OK - Cita eliminada|
+|Notifications|/api/v1/notifications|GET|Obtiene todas las notificaciones de un usuario|:userId (Long)|GET /api/v1/notifications?userId=1|200 OK - Lista de notificaciones|
+|Notifications|/api/v1/notifications/{notificationId}|GET|Consulta detalle de una notificación|:notificationId (Long)|GET /api/v1/notifications/1|200 OK - Detalle de notificación|
+|Gestión de Pacientes (Veterinarios)|/api/v1/veterinarios/{vetId}/pacientes|GET|Lista de pacientes asignados a un veterinario|:vetId (Long)|GET /api/v1/veterinarios/1/pacientes|200 OK - Lista de pacientes|
+|Gestión de Pacientes (Veterinarios)|/api/v1/pacientes/{pacienteId}|GET|Detalle de un paciente|:pacienteId (Long)|GET /api/v1/pacientes/1|200 OK - Detalle de paciente|
+|Gestión de Pacientes (Veterinarios)|/api/v1/pacientes/{pacienteId}|PUT|Actualiza información de un paciente|:pacienteId (Long), body: {...}|PUT /api/v1/pacientes/1|200 OK - Paciente actualizado|
+|Gestión de Pacientes (Veterinarios)|/api/v1/pacientes/{pacienteId}|DELETE|Elimina un paciente|:pacienteId (Long)|DELETE /api/v1/pacientes/1|200 OK - Paciente eliminado|
+
+La documentación completa está disponible a través de la interfaz Swagger UI configurada en el proyecto, accesible en /swagger-ui.html cuando la aplicación está en ejecución.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el **Sprint 4**, el equipo configuró, validó y documentó el despliegue completo del sistema DogiMax, asegurando que tanto el backend como el frontend estuvieran integrados y operativos en un entorno de producción estable. Esta fase incluyó la preparación de todos los entornos, la verificación de la integración de los módulos y la actualización de la documentación de despliegue.
+
+La aplicación backend y frontend fue configurada para ejecutarse en producción con las siguientes características:
+
+- **Despliegue del Backend:** El backend desarrollado en Spring Boot fue desplegado en un servidor de aplicaciones compatible, garantizando la disponibilidad de los endpoints para todos los módulos: IAM, Gestión de Mascotas, Appointments, Notifications y Gestión de Pacientes.
+
+- **Despliegue del Frontend:** La aplicación web fue desplegada en Netlify, asegurando que todas las funcionalidades del frontend consuman correctamente los endpoints del backend en producción.
+
+- **Configuración de Base de Datos:** Se mantuvo la conexión a MySQL 8.0, validando que las operaciones CRUD de usuarios, mascotas, citas y pacientes funcionen correctamente en todos los entornos.
+
+- **Configuración de Seguridad:** Se verificó la correcta operación de Spring Security con JWT, asegurando autenticación y autorización seguras para todos los usuarios y veterinarios.
+
+- **Módulo Shared:** Se confirmó la correcta reutilización de clases base y configuraciones de seguridad en todos los bounded contexts (IAM, Gestión de Mascotas, Appointments, Notifications y Gestión de Pacientes).
+
+- **Arquitectura DDD:** La estructura basada en Domain-Driven Design fue validada en todos los módulos, garantizando escalabilidad, mantenibilidad y consistencia en la integración frontend-backend.
+
+- **Validación del Sistema:** Se realizaron pruebas finales de flujo completo, asegurando que los usuarios puedan registrarse, iniciar sesión, gestionar mascotas, agendar citas, recibir notificaciones y que los veterinarios gestionen pacientes sin errores.
+
+El resultado del Sprint 4 es un **entorno de producción completamente funcional y estable**, con backend y frontend desplegados, integración total entre ambos y todos los flujos de usuario validados.
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo Reignite consolidó el flujo completo de usuario en la aplicación DogiMax, integrando de manera efectiva el frontend con el backend y validando los módulos funcionales previamente desarrollados. La colaboración del equipo se reflejó en la distribución de responsabilidades según las áreas de especialización de cada miembro, garantizando la calidad y completitud de todas las funcionalidades implementadas.
+
+La colaboración se gestionó mediante GitHub, empleando ramas por feature, commits convencionales siguiendo Conventional Commits, y pull requests con descripciones detalladas. A continuación, se detallan las contribuciones individuales de cada miembro:
 
 **Brayan Roberto Ccarita Cruz (hallzyx)**
 
-Rol en Web Service: Líder en IAM Bounded Context, Appointments Bounded Context y Shared & API Deployment.
-
 Contribuciones destacadas:
-- Implementación y validación de endpoints de autenticación (sign-up y sign-in) con JWT.
-- Configuración de Spring Security y reglas de contraseña para el sistema de autenticación.
-- Configuración de OpenAPI (Swagger) para documentación de la API.
-- Configuración de la conexión a la base de datos MySQL y application.properties.
-- Creación de la estructura base (esqueleto) para el bounded context Appointments.
-- Liderazgo en el despliegue y configuración del módulo Shared con clases base y configuración de seguridad.
-
-**Juan David Saldaña De Souza (jndesouza)**
-
-Código: U20221F192  
-Carrera: Ingeniería de software
-
-Rol en Web Service: Líder en Notification Bounded Context y colaborador en Appointments Bounded Context.
-
-Contribuciones destacadas:
-- Creación de la estructura base (esqueleto) para el bounded context Notification siguiendo arquitectura DDD.
-- Implementación de la estructura DDD para el contexto de gestión de notificaciones.
-- Colaboración en la creación de la estructura base para el bounded context Appointments.
-- Desarrollo de la arquitectura de dominio para el sistema de notificaciones.
+- Desarrollo completo del backend del sistema.
+- Despliegue del backend en el entorno de producción.
 
 **Joseph Manuel Chavez Viera (u202314019-MrOsoPanda)**
 
-Código: U202314019  
-Carrera: Ingeniería de Software
+Contribuciones destacadas:
+- Modificación y actualización de la landing page.
+- Trabajo en la edición de componentes del frontend.
+- Encargado de la documentación del proyecto.
 
-Rol en Web Service: Líder en Gestión de Mascotas Bounded Context, colaborador en IAM Bounded Context y Shared & API Deployment.
+**Juan David Saldaña De Souza (jndesouza)**
 
 Contribuciones destacadas:
-- Implementación completa del agregado Mascota en el dominio (DDD).
-- Desarrollo de endpoints CRUD para gestión de mascotas (POST, GET, PUT, DELETE).
-- Implementación de servicios de query (CQRS) para obtener mascotas por usuario.
-- Creación del módulo shared con clases base y configuración de seguridad.
-- Implementación y validación de endpoints para operaciones de mascotas.
+- Revisión y corrección del documento del proyecto.
 
-![Team Collaboration Insights during Sprint.png](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+**Dueñas Canales Leonardo Manuel (Insonnio)**
+
+Contribuciones destacadas:
+- Revisión y corrección del documento del proyecto.
+
+A continuación se presentan las evidencias del trabajo colaborativo del equipo durante el Sprint 4:
+
+![img](file:///C:/Users/PC-%20Usuario/report/images/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
 ### 5.3. Validation Interviews
 
@@ -2978,7 +2294,7 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 1:**
 
-![entrevista 1 de validación.png](images/entrevista%201%20de%20validaci%C3%B3n.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%201%20de%20validaci%C3%B3n.png)
 
 **Nombre: Juan Pedro Manosalva Pérez**
 
@@ -2994,7 +2310,8 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 2:**
 
-![entrevista 2 de validación.png](images/entrevista%202%20de%20validaci%C3%B3n.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%202%20de%20validaci%C3%B3n.png)
+
 
 **Nombre: Fabrizio Chong**
 
@@ -3012,7 +2329,7 @@ Preguntas Clave para la Entrevista de Validación
 
 **Entrevista 3:**
 
-![entrevista 3 de validación.png](images/entrevista%203%20de%20validaci%C3%B3n.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%203%20de%20validaci%C3%B3n.png)
 
 **Nombre: Keyner Hancco**
 
@@ -3030,22 +2347,22 @@ Preguntas Clave para la Entrevista de Validación
 
 Link de las entrevistas: https://youtu.be/nq6YRT5oamk
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas
 
 Para evaluar la usabilidad de la aplicación DogiMax, se aplicaron las 10 heurísticas de usabilidad de Jakob Nielsen, que son principios fundamentales para el diseño de interfaces de usuario. A continuación se presenta la evaluación realizada:
 
-| Heurística | Descripción | Evaluación | Observaciones |
+Heurística|Descripción|Evaluación|Observaciones|
 | :---- | :---- | :---- | :---- |
-| **1. Visibilidad del estado del sistema** | El sistema debe mantener informado al usuario sobre lo que está ocurriendo. | ✅ Cumple | La aplicación muestra estados claros: carga de datos, confirmaciones de acciones (crear mascota, agendar cita), y mensajes de éxito o error. |
-| **2. Correspondencia entre el sistema y el mundo real** | El sistema debe hablar el lenguaje del usuario. | ✅ Cumple | Se utilizan términos familiares como "mascota", "cita", "veterinario", evitando jerga técnica. Los iconos y etiquetas son intuitivos. |
-| **3. Control y libertad del usuario** | Los usuarios necesitan una "salida de emergencia" para deshacer acciones. | ✅ Cumple | Existen botones de cancelar en formularios, opción de eliminar mascotas y cancelar citas. La navegación permite volver atrás fácilmente. |
-| **4. Consistencia y estándares** | No hacer que los usuarios se pregunten si palabras, situaciones o acciones diferentes significan lo mismo. | ✅ Cumple | Se mantiene consistencia en colores, tipografía, botones y patrones de navegación en toda la aplicación. |
-| **5. Prevención de errores** | Mejor que un buen mensaje de error es un diseño cuidadoso que previene que ocurra el problema. | ⚠️ Mejorable | Se implementan validaciones en formularios, pero podrían mejorarse con validaciones en tiempo real y sugerencias más claras. |
-| **6. Reconocimiento antes que recuerdo** | Hacer visibles objetos, acciones y opciones. | ✅ Cumple | Los menús de navegación están siempre visibles, los iconos son reconocibles, y la información importante (próximas citas, mascotas) se muestra en el dashboard. |
-| **7. Flexibilidad y eficiencia de uso** | Los aceleradores pueden aumentar la velocidad de interacción para usuarios expertos. | ⚠️ Mejorable | La aplicación es funcional para usuarios básicos, pero podría beneficiarse de atajos de teclado y acciones rápidas para usuarios avanzados. |
-| **8. Diseño estético y minimalista** | Los diálogos no deben contener información irrelevante o raramente necesaria. | ✅ Cumple | La interfaz es limpia y organizada, mostrando solo la información relevante. El dashboard principal ofrece un resumen conciso. |
-| **9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores** | Los mensajes de error deben expresarse en lenguaje claro. | ✅ Cumple | Los mensajes de error son claros y específicos (ej: "El email ya está registrado", "Fecha de cita inválida"). |
-| **10. Ayuda y documentación** | Aunque es mejor si el sistema puede usarse sin documentación. | ⚠️ Mejorable | Existe una sección de ayuda y preguntas frecuentes, pero podría expandirse con tutoriales interactivos para nuevos usuarios. |
+**1. Visibilidad del estado del sistema**|El sistema debe mantener informado al usuario sobre lo que está ocurriendo.|✅ Cumple|La aplicación muestra estados claros: carga de datos, confirmaciones de acciones (crear mascota, agendar cita), y mensajes de éxito o error.|
+**2. Correspondencia entre el sistema y el mundo real**|El sistema debe hablar el lenguaje del usuario.|✅ Cumple|Se utilizan términos familiares como "mascota", "cita", "veterinario", evitando jerga técnica. Los iconos y etiquetas son intuitivos.|
+**3. Control y libertad del usuario**|Los usuarios necesitan una "salida de emergencia" para deshacer acciones.|✅ Cumple|Existen botones de cancelar en formularios, opción de eliminar mascotas y cancelar citas. La navegación permite volver atrás fácilmente.|
+**4. Consistencia y estándares**|No hacer que los usuarios se pregunten si palabras, situaciones o acciones diferentes significan lo mismo.|✅ Cumple|Se mantiene consistencia en colores, tipografía, botones y patrones de navegación en toda la aplicación.|
+**5. Prevención de errores**|Mejor que un buen mensaje de error es un diseño cuidadoso que previene que ocurra el problema.|⚠️ Mejorable|Se implementan validaciones en formularios, pero podrían mejorarse con validaciones en tiempo real y sugerencias más claras.|
+**6. Reconocimiento antes que recuerdo**|Hacer visibles objetos, acciones y opciones.|✅ Cumple|Los menús de navegación están siempre visibles, los iconos son reconocibles, y la información importante (próximas citas, mascotas) se muestra en el dashboard.|
+**7. Flexibilidad y eficiencia de uso**|Los aceleradores pueden aumentar la velocidad de interacción para usuarios expertos.|⚠️ Mejorable|La aplicación es funcional para usuarios básicos, pero podría beneficiarse de atajos de teclado y acciones rápidas para usuarios avanzados.|
+**8. Diseño estético y minimalista**|Los diálogos no deben contener información irrelevante o raramente necesaria.|✅ Cumple|La interfaz es limpia y organizada, mostrando solo la información relevante. El dashboard principal ofrece un resumen conciso.|
+**9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores**|Los mensajes de error deben expresarse en lenguaje claro.|✅ Cumple|Los mensajes de error son claros y específicos (ej: "El email ya está registrado", "Fecha de cita inválida").|
+**10. Ayuda y documentación**|Aunque es mejor si el sistema puede usarse sin documentación.|⚠️ Mejorable|Existe una sección de ayuda y preguntas frecuentes, pero podría expandirse con tutoriales interactivos para nuevos usuarios.|
 
 **Resumen de la evaluación:**
 
@@ -3054,13 +2371,13 @@ Para evaluar la usabilidad de la aplicación DogiMax, se aplicaron las 10 heurí
 
 La aplicación DogiMax demuestra un buen nivel de usabilidad en la mayoría de los aspectos evaluados. Las áreas de mejora identificadas (prevención de errores, flexibilidad para usuarios avanzados, y ayuda/documentación) pueden ser abordadas en iteraciones futuras para elevar aún más la experiencia del usuario.
 
-### 5.4. Video About-the-Product.
+### 5.4. Video About-the-Product
 
 En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
 
 Video about the product: https://youtu.be/7kLxtACvOlM
 
-![video-about-the-product.png](images/video-about-the-product.png)
+![img](file:///C:/Users/PC-%20Usuario/report/images/video-about-the-product.png)
 
 ## 6. Conclusiones y Recomendaciones
 
