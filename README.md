@@ -2048,10 +2048,8 @@ Este sprint se orienta a unir el frontend con el backend de forma definitiva, va
 
 ### 5.2.4.1. Sprint Planning 4
 
-Sprint #|Sprint 4|
-
-
-|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+Sprint \#|Sprint 4|
+| :---: | :---: |
 Sprint Planning Background||
 Date|28 de noviembre del 2025|
 Time|17:00|
