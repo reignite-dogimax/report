@@ -2947,6 +2947,23 @@ Esta sección presenta la distribución de roles y responsabilidades del equipo 
 
 ### 5.2.4.3. Sprint Backlog 4.
 
+Esta sección contiene el backlog del Sprint 4, que incluye todas las historias de usuario y tareas planificadas para consolidar el flujo real de usuario en la aplicación, integrando frontend y backend, validando módulos existentes Appointments, Notifications, gestión de mascotas, la adición de el segmento objetivo de de veterinarios y con eso la adición de gestionando pacientes para veterinarios. Todas las tareas están completadas y validadas.
+
+
+| Sprint # | User Story                                                                                | Work-Item/TaskId | Title Description                                                                   | Estimation (Story Points) | Assigned To     | Status |
+| :------- | :---------------------------------------------------------------------------------------- | :--------------- | :---------------------------------------------------------------------------------- | :------------------------ | :-------------- | :----- |
+| US-32    | Como usuario registrado, quiero iniciar sesión para interactuar con la app.               | UT-32.1          | Validar integración frontend-backend del login                                      | 2                         | Brayan Ccarita  | Done   |
+| US-33    | Como usuario, quiero acceder a todas las funcionalidades de mis mascotas.                 | UT-33.1          | Validar CRUD de mascotas con integración de frontend                                | 3                         | Joseph Chavez   | Done   |
+| US-34    | Como usuario, quiero agendar, ver y cancelar citas.                                       | UT-34.1          | Validar módulo de Appointments con pruebas de flujo                                 | 3                         | Juan Saldaña    | Done   |
+| US-35    | Como usuario, quiero recibir notificaciones de eventos importantes.                       | UT-35.1          | Validar módulo de Notifications con integración                                     | 3                         | Leonardo Dueñas | Done   |
+| US-36    | Como veterinario, quiero ver la lista de pacientes asignados.                             | UT-36.1          | Implementar GET /api/v1/veterinarios/{vetId}/pacientes                              | 3                         | Brayan Ccarita  | Done   |
+| US-37    | Como veterinario, quiero ver el detalle de cada paciente.                                 | UT-37.1          | Implementar GET /api/v1/pacientes/{pacienteId}                                      | 2                         | Brayan Ccarita  | Done   |
+| US-38    | Como veterinario, quiero actualizar información de mis pacientes.                         | UT-38.1          | Implementar PUT /api/v1/pacientes/{pacienteId}                                      | 3                         | Brayan Ccarita  | Done   |
+| US-39    | Como veterinario, quiero eliminar información de pacientes.                               | UT-39.1          | Implementar DELETE /api/v1/pacientes/{pacienteId}                                   | 2                         | Brayan Ccarita  | Done   |
+| US-40    | Como veterinario, quiero que el flujo de pacientes esté integrado con el resto de la app. | UT-40.1          | Validar interacción completa del segmento veterinario con CRUD de pacientes y citas | 3                         | Brayan Ccarita  | Done   |
+| US-41    | Como desarrollador, necesito optimizar el rendimiento de la app.                          | UT-41.1          | Revisar y optimizar consultas, endpoints y carga de frontend                        | 3                         | Juan Saldaña    | Done   |
+| US-42    | Como desarrollador, necesito documentar los endpoints finales.                            | UT-42.1          | Actualizar OpenAPI/Swagger con todos los endpoints y flujos reales                  | 2                         | Leonardo Dueñas | Done   |
+
 
 ### 5.3. Validation Interviews
 
