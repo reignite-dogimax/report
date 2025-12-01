@@ -1137,7 +1137,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![Entrevista 1 - Segmento 1](images/Segmento1-Entrevista 1.png)
+![Entrevista 1 - Segmento 1](images/Segmento1-Entrevista%201.png)
 
 
 **Nombre: Eduardo Alonso Rojas Torres**
@@ -1174,7 +1174,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![Entrevista 2 - Segmento 1](images/Segmento1-Entrevista 2.png)
+![Entrevista 2 - Segmento 1](images/Segmento1-Entrevista%202.png)
 
 
 **Nombre: Frank Gen Saldaña Kannan**
@@ -1203,7 +1203,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![Entrevista 3 - Segmento 1](images/Segmento1-Entrevista 3.png)
+![Entrevista 3 - Segmento 1](images/Segmento1-Entrevista%203.png)
 
 
 **Nombre: Janet Linda Ramos Gomez**
@@ -1244,7 +1244,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![Entrevista 1 - Segmento 2](images/Segmento 2 - Entrevista 1.png)
+![Entrevista 1 - Segmento 2](images/Segmento%202%20-%20Entrevista%201.png)
 
 
 **Nombre: Fabrizio Chong.**
@@ -1697,7 +1697,7 @@ Veterinario:
 
 
 
-![Journey Map de Fabricio](images/Journey _Fabricio.png)
+![Journey Map de Fabricio](images/Journey%20_Fabricio.png)
 
 
 Cuidador de Perros:
@@ -1883,7 +1883,7 @@ Veterinario:
 
 
 
-![Impact Map de Fabricio Chong](images/Fabricio_Chong _impact_map.png)
+![Impact Map de Fabricio Chong](images/Fabricio_Chong%20_impact_map.png)
 
 
 Cuidador de Perros:
@@ -2406,7 +2406,7 @@ El diagrama de clases proporciona una representación visual de las clases del s
 
 
 
-![Diagrama de Clases](images/Diagrama de clases.png)
+![Diagrama de Clases](images/Diagrama%20de%20clases.png)
 
 
 ### 4.7.2. Class Dictionary
@@ -2415,7 +2415,6 @@ El diagrama de clases proporciona una representación visual de las clases del s
 
 | Clase | Nº | Nombre de atributo | Descripción | Tipo de dato |
 | :---- | :---- | :---- | :---- | :---- |
-
 | **Usuario** | 1 | id | Identificador único del usuario. | INT |
 | **Usuario** | 2 | nombre | Nombre completo del usuario. | VARCHAR |
 | **Usuario** | 3 | correo | Correo electrónico de contacto. | VARCHAR |
@@ -2437,28 +2436,28 @@ El diagrama de clases proporciona una representación visual de las clases del s
 | **Cita** | 1 | id | Identificador único de la cita. | INT |
 | **Cita** | 2 | mascotaId | Referencia a la mascota. | INT |
 | **Cita** | 3 | fechaHora | Fecha y hora programada de la cita. | DATETIME |
-**Cita**|4|veterinarioId|Referencia al veterinario asignado.|INT|
-**Cita**|5|estado|Estado actual de la cita.|VARCHAR|
-**Veterinario**|1|id|Identificador único del veterinario.|INT|
-**Veterinario**|2|nombre|Nombre completo del veterinario.|VARCHAR|
-**Veterinario**|3|especialidad|Área de especialización.|VARCHAR|
-**Disponibilidad**|1|id|Identificador único del bloque de disponibilidad.|INT|
-**Disponibilidad**|2|veterinarioId|Referencia al veterinario.|INT|
-**Disponibilidad**|3|fecha|Fecha disponible.|DATE|
-**Disponibilidad**|4|horaInicio|Hora de inicio del bloque.|TIME|
-**Disponibilidad**|5|horaFin|Hora de fin del bloque.|TIME|
-**PreferenciasUsuario**|1|usuarioId|Referencia al usuario (clave primaria).|INT|
-**PreferenciasUsuario**|2|canalPreferido|Canal preferido de notificación.|VARCHAR|
-**PreferenciasUsuario**|3|horarioPreferido|Horario preferido para recibir notificaciones.|TIME|
-**Notificacion**|1|id|Identificador único de la notificación.|INT|
-**Notificacion**|2|usuarioId|Referencia al usuario destinatario.|INT|
-**Notificacion**|3|tipo|Tipo de notificación.|VARCHAR|
-**Notificacion**|4|mensaje|Contenido del mensaje.|TEXT|
-**Notificacion**|5|fechaEnvio|Fecha y hora de envío.|DATETIME|
-**Notificacion**|6|canal|Canal de entrega utilizado.|VARCHAR|
-**Recordatorio**|1|id|Identificador único del recordatorio.|INT|
-**Recordatorio**|2|eventoRelacionado|Evento vinculado al recordatorio.|VARCHAR|
-**Recordatorio**|3|fechaProgramada|Fecha y hora programada para el recordatorio.|DATETIME|
+| **Cita** | 4 | veterinarioId | Referencia al veterinario asignado. | INT |
+| **Cita** | 5 | estado | Estado actual de la cita. | VARCHAR |
+| **Veterinario** | 1 | id | Identificador único del veterinario. | INT |
+| **Veterinario** | 2 | nombre | Nombre completo del veterinario. | VARCHAR |
+| **Veterinario** | 3 | especialidad | Área de especialización. | VARCHAR |
+| **Disponibilidad** | 1 | id | Identificador único del bloque de disponibilidad. | INT |
+| **Disponibilidad** | 2 | veterinarioId | Referencia al veterinario. | INT |
+| **Disponibilidad** | 3 | fecha | Fecha disponible. | DATE |
+| **Disponibilidad** | 4 | horaInicio | Hora de inicio del bloque. | TIME |
+| **Disponibilidad** | 5 | horaFin | Hora de fin del bloque. | TIME |
+| **PreferenciasUsuario** | 1 | usuarioId | Referencia al usuario (clave primaria). | INT |
+| **PreferenciasUsuario** | 2 | canalPreferido | Canal preferido de notificación. | VARCHAR |
+| **PreferenciasUsuario** | 3 | horarioPreferido | Horario preferido para recibir notificaciones. | TIME |
+| **Notificacion** | 1 | id | Identificador único de la notificación. | INT |
+| **Notificacion** | 2 | usuarioId | Referencia al usuario destinatario. | INT |
+| **Notificacion** | 3 | tipo | Tipo de notificación. | VARCHAR |
+| **Notificacion** | 4 | mensaje | Contenido del mensaje. | TEXT |
+| **Notificacion** | 5 | fechaEnvio | Fecha y hora de envío. | DATETIME |
+| **Notificacion** | 6 | canal | Canal de entrega utilizado. | VARCHAR |
+| **Recordatorio** | 1 | id | Identificador único del recordatorio. | INT |
+| **Recordatorio** | 2 | eventoRelacionado | Evento vinculado al recordatorio. | VARCHAR |
+| **Recordatorio** | 3 | fechaProgramada | Fecha y hora programada para el recordatorio. | DATETIME |
 
 
 ### 4.8. Database Design
@@ -2477,7 +2476,7 @@ El diagrama de base de datos ilustra gráficamente cómo se relacionan las tabla
 
 
 
-![Diagrama de Clases](images/Diagrama de clases.png)
+![Diagrama de Clases](images/Diagrama%20de%20clases.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -3170,19 +3169,19 @@ A continuación se muestran capturas de pantalla de las vistas más representati
 
 
 
-![Evidencia Frontend 1](images/evidence-frontend 1.png)
+![Evidencia Frontend 1](images/evidence-frontend%201.png)
 
 
-![Evidencia Frontend 2](images/evidence-frontend 2.png)
+![Evidencia Frontend 2](images/evidence-frontend%202.png)
 
 
-![Evidencia Frontend 3](images/evidence-frontend 3.png)
+![Evidencia Frontend 3](images/evidence-frontend%203.png)
 
 
-![Evidencia Frontend 4](images/evidence-frontend 4.png)
+![Evidencia Frontend 4](images/evidence-frontend%204.png)
 
 
-![Evidencia Frontend 5](images/evidence-frontend 5.png)
+![Evidencia Frontend 5](images/evidence-frontend%205.png)
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -3233,19 +3232,19 @@ Esta sección documenta el proceso de despliegue de la aplicación web desarroll
 
 
 
-![Evidencia Despliegue 1](images/evidence-deploy 1.png)
+![Evidencia Despliegue 1](images/evidence-deploy%201.png)
 
 
-![Evidencia Despliegue 2](images/evidence-deploy 2.png)
+![Evidencia Despliegue 2](images/evidence-deploy%202.png)
 
 
-![Evidencia Despliegue 3](images/evidence-deploy 3.png)
+![Evidencia Despliegue 3](images/evidence-deploy%203.png)
 
 
-![Evidencia Despliegue 4](images/evidence-deploy 4.png)
+![Evidencia Despliegue 4](images/evidence-deploy%204.png)
 
 
-![Evidencia Despliegue 5](images/evidence-deploy 5.png)
+![Evidencia Despliegue 5](images/evidence-deploy%205.png)
 
 
 URL de despliegue: https://dogimax.netlify.app/ 
@@ -3295,7 +3294,7 @@ La colaboración se gestionó mediante GitHub, empleando ramas por feature, comm
 ![Evidencia Colaboración del Equipo](images/evidence-teamcollab.png)
 
 
-![Evidencia Colaboración del Equipo 1](images/evidence-teamcollab 1.png)
+![Evidencia Colaboración del Equipo 1](images/evidence-teamcollab%201.png)
 
 
 ### 5.2.3. Sprint 3
@@ -3387,18 +3386,17 @@ Esta sección documenta la evidencia del desarrollo realizado durante el Sprint 
 
 
 
-Repository|Branch|Commit ID|Commit mensaje|Commit on Date|
+| Repository | Branch | Commit ID | Commit mensaje | Commit on Date |
 | :---- | ----- |------------|----------------------------------------------------------------------|-----------------|
-
-https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|chore: configure database connection and application properties|24/10/2025|
-https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate Shared module (domain base, security config)|26/10/2025|
-https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate IAM bounded context (sign-in, sign-up, jwt)|27/10/2025|
-https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
-https://github.com/reignite-dogimax/backend-app|feature/pet_management|87a08a6|feat(pets): Implement domain aggregate and POST endpoint|28/10/2025|
-https://github.com/reignite-dogimax/backend-app|feature/appointments-implementation|a2d21bd|feat(appoint): Add DDD structure for appointments context|02/11/2025|
-https://github.com/reignite-dogimax/backend-app|feature/notification_management|7e02998|feat(notif): Add DDD structure for notification management context|02/11/2025|
-https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|docs: Add OpenAPI (Swagger) configuration|03/11/2025|
-https://github.com/reignite-dogimax/backend-app|develop|b2f5aaf|merge: Integrate pet_management feature branch|04/11/2025|
+| https://github.com/reignite-dogimax/backend-app | develop | b2f5aaf | chore: configure database connection and application properties | 24/10/2025 |
+| https://github.com/reignite-dogimax/backend-app | develop | b2f5aaf | merge: Integrate Shared module (domain base, security config) | 26/10/2025 |
+| https://github.com/reignite-dogimax/backend-app | develop | b2f5aaf | merge: Integrate IAM bounded context (sign-in, sign-up, jwt) | 27/10/2025 |
+| https://github.com/reignite-dogimax/backend-app | feature/pet_management | 87a08a6 | feat(pets): Implement domain aggregate and POST endpoint | 28/10/2025 |
+| https://github.com/reignite-dogimax/backend-app | feature/pet_management | 87a08a6 | feat(pets): Implement domain aggregate and POST endpoint | 28/10/2025 |
+| https://github.com/reignite-dogimax/backend-app | feature/appointments-implementation | a2d21bd | feat(appoint): Add DDD structure for appointments context | 02/11/2025 |
+| https://github.com/reignite-dogimax/backend-app | feature/notification_management | 7e02998 | feat(notif): Add DDD structure for notification management context | 02/11/2025 |
+| https://github.com/reignite-dogimax/backend-app | develop | b2f5aaf | docs: Add OpenAPI (Swagger) configuration | 03/11/2025 |
+| https://github.com/reignite-dogimax/backend-app | develop | b2f5aaf | merge: Integrate pet_management feature branch | 04/11/2025 |
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
@@ -3540,21 +3538,20 @@ Este sprint se orienta a unir el frontend con el backend de forma definitiva, va
 
 
 
-Sprint #|Sprint 4|
+| Sprint # | Sprint 4 |
 |:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-Sprint Planning Background||
-Date|28 de noviembre del 2025|
-Time|17:00|
-Location|Remoto|
-Prepared By|Leonardo Manuel Dueñas Canales|
-Attendees (to planning meeting)|Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel, Joseph Manuel Chavez Viera|
-Sprint n – 3 Retrospective Summary|El Sprint 3 logró implementar el backend completo utilizando Spring Boot y arquitectura Domain-Driven Design, habilitando la API RESTful real e integrando bounded contexts clave como IAM y Gestión de Mascotas. Con esta base sólida, el equipo identificó la necesidad de conectar el backend con el frontend, validar los módulos de citas y notificaciones, optimizar el rendimiento y asegurar un flujo integral para el usuario.|
-Tech Stack|Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, React, Vite, Cypress, Docker, Netlify|
-Sprint Goal & User Stories||
-Sprint 4 Goal|Consolidar un flujo real de usuario **(registro → login → interacción → gestión)** mediante la integración completa del backend y frontend, validando los módulos ya implementados (appointments y notifications), ejecutando QA testing automatizado, optimizando el rendimiento e implementando un despliegue estable y funcional de DogiMax.|
-Sum of Story Points (Sprint 4)|30|
-Sprint 4 Velocity|34|
+| Sprint Planning Background | |
+| Date | 28 de noviembre del 2025 |
+| Time | 17:00 |
+| Location | Remoto |
+| Prepared By | Leonardo Manuel Dueñas Canales |
+| Attendees (to planning meeting) | Brayan Roberto Ccarita Cruz, Juan David Saldaña De Souza, Dueñas Canales Leonardo Manuel, Joseph Manuel Chavez Viera |
+| Sprint n – 3 Retrospective Summary | El Sprint 3 logró implementar el backend completo utilizando Spring Boot y arquitectura Domain-Driven Design, habilitando la API RESTful real e integrando bounded contexts clave como IAM y Gestión de Mascotas. Con esta base sólida, el equipo identificó la necesidad de conectar el backend con el frontend, validar los módulos de citas y notificaciones, optimizar el rendimiento y asegurar un flujo integral para el usuario. |
+| Tech Stack | Java 21, Spring Boot 3.5.7, Spring Data JPA, Spring Security, MySQL 8.0, JWT, React, Vite, Cypress, Docker, Netlify |
+| Sprint Goal & User Stories | |
+| Sprint 4 Goal | Consolidar un flujo real de usuario **(registro → login → interacción → gestión)** mediante la integración completa del backend y frontend, validando los módulos ya implementados (appointments y notifications), ejecutando QA testing automatizado, optimizando el rendimiento e implementando un despliegue estable y funcional de DogiMax. |
+| Sum of Story Points (Sprint 4) | 30 |
+| Sprint 4 Velocity | 34 |
 
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
@@ -3661,7 +3658,7 @@ Contribuciones destacadas:
 
 
 
-![Insights de Colaboración del Equipo durante el Sprint](images/Team Collaboration Insights during Sprint.png)
+![Insights de Colaboración del Equipo durante el Sprint](images/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
 
 ### 5.3. Validation Interviews
@@ -3722,7 +3719,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![Entrevista 1 de validación](images/entrevista 1 de validación.png)
+![Entrevista 1 de validación](images/entrevista%201%20de%20validaci%C3%B3n.png)
 
 
 **Nombre: Juan Pedro Manosalva Pérez**
@@ -3753,7 +3750,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![Entrevista 2 de validación](images/entrevista 2 de validación.png)
+![Entrevista 2 de validación](images/entrevista%202%20de%20validaci%C3%B3n.png)
 
 
 
@@ -3789,7 +3786,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![Entrevista 3 de validación](images/entrevista 3 de validación.png)
+![Entrevista 3 de validación](images/entrevista%203%20de%20validaci%C3%B3n.png)
 
 
 **Nombre: Keyner Hancco**
@@ -3832,19 +3829,18 @@ Para evaluar la usabilidad de la aplicación DogiMax, se aplicaron las 10 heurí
 
 
 
-Heurística|Descripción|Evaluación|Observaciones|
+| Heurística | Descripción | Evaluación | Observaciones |
 | :---- | :---- | :---- | :---- |
-
-**1. Visibilidad del estado del sistema**|El sistema debe mantener informado al usuario sobre lo que está ocurriendo.|✅ Cumple|La aplicación muestra estados claros: carga de datos, confirmaciones de acciones (crear mascota, agendar cita), y mensajes de éxito o error.|
-**2. Correspondencia entre el sistema y el mundo real**|El sistema debe hablar el lenguaje del usuario.|✅ Cumple|Se utilizan términos familiares como "mascota", "cita", "veterinario", evitando jerga técnica. Los iconos y etiquetas son intuitivos.|
-**3. Control y libertad del usuario**|Los usuarios necesitan una "salida de emergencia" para deshacer acciones.|✅ Cumple|Existen botones de cancelar en formularios, opción de eliminar mascotas y cancelar citas. La navegación permite volver atrás fácilmente.|
-**4. Consistencia y estándares**|No hacer que los usuarios se pregunten si palabras, situaciones o acciones diferentes significan lo mismo.|✅ Cumple|Se mantiene consistencia en colores, tipografía, botones y patrones de navegación en toda la aplicación.|
-**5. Prevención de errores**|Mejor que un buen mensaje de error es un diseño cuidadoso que previene que ocurra el problema.|⚠️ Mejorable|Se implementan validaciones en formularios, pero podrían mejorarse con validaciones en tiempo real y sugerencias más claras.|
-**6. Reconocimiento antes que recuerdo**|Hacer visibles objetos, acciones y opciones.|✅ Cumple|Los menús de navegación están siempre visibles, los iconos son reconocibles, y la información importante (próximas citas, mascotas) se muestra en el dashboard.|
-**7. Flexibilidad y eficiencia de uso**|Los aceleradores pueden aumentar la velocidad de interacción para usuarios expertos.|⚠️ Mejorable|La aplicación es funcional para usuarios básicos, pero podría beneficiarse de atajos de teclado y acciones rápidas para usuarios avanzados.|
-**8. Diseño estético y minimalista**|Los diálogos no deben contener información irrelevante o raramente necesaria.|✅ Cumple|La interfaz es limpia y organizada, mostrando solo la información relevante. El dashboard principal ofrece un resumen conciso.|
-**9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores**|Los mensajes de error deben expresarse en lenguaje claro.|✅ Cumple|Los mensajes de error son claros y específicos (ej: "El email ya está registrado", "Fecha de cita inválida").|
-**10. Ayuda y documentación**|Aunque es mejor si el sistema puede usarse sin documentación.|⚠️ Mejorable|Existe una sección de ayuda y preguntas frecuentes, pero podría expandirse con tutoriales interactivos para nuevos usuarios.|
+| **1. Visibilidad del estado del sistema** | El sistema debe mantener informado al usuario sobre lo que está ocurriendo. | ✅ Cumple | La aplicación muestra estados claros: carga de datos, confirmaciones de acciones (crear mascota, agendar cita), y mensajes de éxito o error. |
+| **2. Correspondencia entre el sistema y el mundo real** | El sistema debe hablar el lenguaje del usuario. | ✅ Cumple | Se utilizan términos familiares como "mascota", "cita", "veterinario", evitando jerga técnica. Los iconos y etiquetas son intuitivos. |
+| **3. Control y libertad del usuario** | Los usuarios necesitan una "salida de emergencia" para deshacer acciones. | ✅ Cumple | Existen botones de cancelar en formularios, opción de eliminar mascotas y cancelar citas. La navegación permite volver atrás fácilmente. |
+| **4. Consistencia y estándares** | No hacer que los usuarios se pregunten si palabras, situaciones o acciones diferentes significan lo mismo. | ✅ Cumple | Se mantiene consistencia en colores, tipografía, botones y patrones de navegación en toda la aplicación. |
+| **5. Prevención de errores** | Mejor que un buen mensaje de error es un diseño cuidadoso que previene que ocurra el problema. | ⚠️ Mejorable | Se implementan validaciones en formularios, pero podrían mejorarse con validaciones en tiempo real y sugerencias más claras. |
+| **6. Reconocimiento antes que recuerdo** | Hacer visibles objetos, acciones y opciones. | ✅ Cumple | Los menús de navegación están siempre visibles, los iconos son reconocibles, y la información importante (próximas citas, mascotas) se muestra en el dashboard. |
+| **7. Flexibilidad y eficiencia de uso** | Los aceleradores pueden aumentar la velocidad de interacción para usuarios expertos. | ⚠️ Mejorable | La aplicación es funcional para usuarios básicos, pero podría beneficiarse de atajos de teclado y acciones rápidas para usuarios avanzados. |
+| **8. Diseño estético y minimalista** | Los diálogos no deben contener información irrelevante o raramente necesaria. | ✅ Cumple | La interfaz es limpia y organizada, mostrando solo la información relevante. El dashboard principal ofrece un resumen conciso. |
+| **9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores** | Los mensajes de error deben expresarse en lenguaje claro. | ✅ Cumple | Los mensajes de error son claros y específicos (ej: "El email ya está registrado", "Fecha de cita inválida"). |
+| **10. Ayuda y documentación** | Aunque es mejor si el sistema puede usarse sin documentación. | ⚠️ Mejorable | Existe una sección de ayuda y preguntas frecuentes, pero podría expandirse con tutoriales interactivos para nuevos usuarios. |
 
 
 **Resumen de la evaluación:**
