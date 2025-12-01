@@ -4,7 +4,7 @@ Universidad Peruana de Ciencias Aplicadas
 
 
 
-![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX1K0yo4bAGOIBKRuUAeEqilP5F8tYJlkH49HOD3hAcG58Fv4UoPqcjsaAOrN5P3JvG4Pn-bS9vSwP1RpcMh8JDkVEj5Gd0Ve_cLd_vlw5pBx7i6UXLgtksUknmzNWAh_r5Sja?key=wLsuErVgqDz-qczrBI4kMctR)
+![Logo Universidad Peruana de Ciencias Aplicadas](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX1K0yo4bAGOIBKRuUAeEqilP5F8tYJlkH49HOD3hAcG58Fv4UoPqcjsaAOrN5P3JvG4Pn-bS9vSwP1RpcMh8JDkVEj5Gd0Ve_cLd_vlw5pBx7i6UXLgtksUknmzNWAh_r5Sja?key=wLsuErVgqDz-qczrBI4kMctR)
 
 
 
@@ -788,11 +788,11 @@ En DogiMax, creemos que una gestión organizada y personalizada del cuidado de m
 
 | Alumno | Descripción | Foto |
 |--------|-------------|------|
-| Brayan Roberto Ccarita Cruz <br/> Código: <br/> Carrera: | Apasionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![img](file:///C:/Users/PC-%20Usuario/report/images/member_u20221c218.png) |
-| Bryan Félix Martínez Ramos <br/> Código: u202316246 <br/> Carrera: Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Bryan.png) |
-| Juan David Saldaña De Souza <br/> Código: U20221F192 <br/> Carrera: Ingeniería de software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Juan_profile.jpeg) |
-| Joseph Manuel Chavez Viera <br/> Código: U202314019 <br/> Carrera: Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera disposición al desarrollo del proyecto. | ![img](file:///C:/Users/PC-%20Usuario/report/images/Joseph.jpeg) |
-| Dueñas Canales Leonardo Manuel <br/> Código: U202117475 <br/> Carrera: Ingeniería de software | | ![img](file:///C:/Users/PC-%20Usuario/report/images/image.png) |
+| Brayan Roberto Ccarita Cruz <br/> Código: <br/> Carrera: | Apasionado por la tecnología, desarrollador backend en proceso, amante de las automatizaciones y la inteligencia artificial. | ![Foto de Brayan Roberto Ccarita Cruz](images/member_u20221c218.png) |
+| Bryan Félix Martínez Ramos <br/> Código: u202316246 <br/> Carrera: Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Foto de Bryan Félix Martínez Ramos](images/Bryan.png) |
+| Juan David Saldaña De Souza <br/> Código: U20221F192 <br/> Carrera: Ingeniería de software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. | ![Foto de Juan David Saldaña De Souza](images/Juan_profile.jpeg) |
+| Joseph Manuel Chavez Viera <br/> Código: U202314019 <br/> Carrera: Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), entrego mi entera disposición al desarrollo del proyecto. | ![Foto de Joseph Manuel Chavez Viera](images/Joseph.jpeg) |
+| Dueñas Canales Leonardo Manuel <br/> Código: U202117475 <br/> Carrera: Ingeniería de software | | ![Foto de Dueñas Canales Leonardo Manuel](images/image.png) |
 
 
 ## 1.2. Solution Profile
@@ -1141,7 +1141,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%201.png)
+![Entrevista 1 - Segmento 1](images/Segmento1-Entrevista 1.png)
 
 
 **Nombre: Eduardo Alonso Rojas Torres**
@@ -1178,7 +1178,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%202.png)
+![Entrevista 2 - Segmento 1](images/Segmento1-Entrevista 2.png)
 
 
 **Nombre: Frank Gen Saldaña Kannan**
@@ -1207,7 +1207,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento1-Entrevista%203.png)
+![Entrevista 3 - Segmento 1](images/Segmento1-Entrevista 3.png)
 
 
 **Nombre: Janet Linda Ramos Gomez**
@@ -1248,7 +1248,7 @@ Realizar encuestas y entrevistas con dueños de perros para entender sus hábito
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Segmento%202%20-%20Entrevista%201.png)
+![Entrevista 1 - Segmento 2](images/Segmento 2 - Entrevista 1.png)
 
 
 **Nombre: Fabrizio Chong.**
@@ -1456,7 +1456,6 @@ Este segmento refleja a jóvenes veterinarios solteros que trabajan de manera in
 
 
 |                | DogiMax (startup)                                                                 | Dimu (Perú)                                                                                      | GoPetsApp (Perú)                                                                 | PetCard / MyPetCard (Perú)                                                             | QPet / iPets (Perú)                                                                                   |
-
 |----------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
 | **Overview**   | Plataforma digital (agenda para perros + IA de recomendaciones personalizadas según raza y necesidades). Enfoque integral: agenda + historial + IA + alianzas. | App peruana: cartilla digital, reservas de veterinarios, servicios a domicilio, tienda online. Ecosistema de servicios integrados. | Red social peruana para dueños de mascotas: cartilla virtual, recordatorios, comunidad, tienda, eventos. | Cartilla digital con QR; registro de vacunas e historial. Se usa como "carnet digital" para compartir con veterinarios. | Servicios de identificación (placas QR, microchip) + apps de ficha; algunos con recordatorio de vacunas y emergencias. |
@@ -1666,7 +1665,7 @@ Veterinario:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong.png)
+![Perfil de Fabricio Chong](images/Fabricio_Chong.png)
 
 
 Cuidador de Perros:
@@ -1675,7 +1674,7 @@ Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo_Torres.png)
+![Perfil de Eduardo Torres](images/Eduardo_Torres.png)
 
 
 ### 2.3.2. User Task Matrix.
@@ -1708,7 +1707,7 @@ Veterinario:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Journey%20_Fabricio.png)
+![Journey Map de Fabricio](images/Journey _Fabricio.png)
 
 
 Cuidador de Perros:
@@ -1717,7 +1716,7 @@ Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Journey_Eduardo.png)
+![Journey Map de Eduardo](images/Journey_Eduardo.png)
 
 
 ### 2.3.4. Empathy Mapping.
@@ -1732,7 +1731,7 @@ Veterinario:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio.png)
+![User Persona - Fabricio](images/Fabricio.png)
 
 
 
@@ -1743,7 +1742,7 @@ Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Eduardo.png)
+![User Persona - Eduardo](images/Eduardo.png)
 
 
 
@@ -1762,7 +1761,7 @@ Veterinario:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_VETERINARIOS.png)
+![Diagrama AS-IS Veterinarios](images/AS_IS_VETERINARIOS.png)
 
 
 
@@ -1773,7 +1772,7 @@ Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/AS_IS_Due%C3%B1os_de_Perros.png)
+![Diagrama AS-IS Dueños de Perros](images/AS_IS_Dueños_de_Perros.png)
 
 
 ###  2.4. Ubiquitous Language.
@@ -1808,14 +1807,14 @@ Veterinario:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_VETERINARIOS.png)
+![Diagrama TO-BE Veterinarios](images/TO_BE_VETERINARIOS.png)
 
 
 Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/TO_BE_DUE%C3%91O_DE_PERROS.png)
+![Diagrama TO-BE Dueño de Perros](images/TO_BE_DUEÑO_DE_PERROS.png)
 
 
 ###  3.2. User Stories.
@@ -1894,7 +1893,7 @@ Veterinario:
 
 
 
- ![img](file:///C:/Users/PC-%20Usuario/report/images/Fabricio_Chong%20_impact_map.png)
+![Impact Map de Fabricio Chong](images/Fabricio_Chong _impact_map.png)
 
 
 Cuidador de Perros:
@@ -1903,7 +1902,7 @@ Cuidador de Perros:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/IMPACT_Due%C3%B1o_de_Perro.png)
+![Impact Map Dueño de Perro](images/IMPACT_Dueño_de_Perro.png)
 
 
 ### 3.4. Product Backlog.
@@ -1959,7 +1958,7 @@ Un nombre que fusiona "Dogi" (relacionado con los perros) y "Max" (máximo, lo m
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Logo.png)
+![Logo de DogiMax](images/Logo.png)
 
 
 ** Misión: **
@@ -1986,7 +1985,7 @@ Ser la plataforma líder en gestión del cuidado de perros, proporcionando herra
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Colors.png)
+![Guía de Colores](images/Colors.png)
 
 
 -	 Color de Botones:
@@ -1997,7 +1996,7 @@ Ser la plataforma líder en gestión del cuidado de perros, proporcionando herra
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Buttons.png)
+![Guía de Botones](images/Buttons.png)
   
 
 ** Tipografía: ** 
@@ -2022,10 +2021,10 @@ Profesional y cercano, con un enfoque técnico pero accesible para todos los due
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/1.png)
+![Wireframe 1](images/1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/2.png)
+![Wireframe 2](images/2.png)
 
 
 
@@ -2224,13 +2223,13 @@ El wireframe de la página de aterrizaje está diseñado para ser simple y direc
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte1.png)
+![Landing Page - Parte 1](images/Parte1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte2.png)
+![Landing Page - Parte 2](images/Parte2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Parte3.png)
+![Landing Page - Parte 3](images/Parte3.png)
 
 
 
@@ -2243,19 +2242,19 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing1.png)
+![Landing Page - Vista 1](images/Landing1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing2.png)
+![Landing Page - Vista 2](images/Landing2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing3.png)
+![Landing Page - Vista 3](images/Landing3.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing4.png)
+![Landing Page - Vista 4](images/Landing4.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing5.png)
+![Landing Page - Vista 5](images/Landing5.png)
 
 
 ## 4.4. Web Applications UX/UI Design
@@ -2266,40 +2265,40 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe1.png)
+![Wireframe 1](images/wireframe1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe2.png)
+![Wireframe 2](images/wireframe2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe3.png)
+![Wireframe 3](images/wireframe3.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe4.png)
+![Wireframe 4](images/wireframe4.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe45.png)
+![Wireframe 4.5](images/wireframe45.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe5.png)
+![Wireframe 5](images/wireframe5.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe6.png)
+![Wireframe 6](images/wireframe6.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe7.png)
+![Wireframe 7](images/wireframe7.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe8.png)
+![Wireframe 8](images/wireframe8.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe9.png)
+![Wireframe 9](images/wireframe9.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe10.png)
+![Wireframe 10](images/wireframe10.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireframe11.png)
+![Wireframe 11](images/wireframe11.png)
 
 
 [wireframes en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
@@ -2308,7 +2307,7 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/wireflow.png)
+![Wireflow](images/wireflow.png)
 
 
 
@@ -2317,11 +2316,11 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup2.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup3.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup4.png)
+![Mockup - Login](images/login.png)
+![Mockup 1](images/mockup.png)
+![Mockup 2](images/mockup2.png)
+![Mockup 3](images/mockup3.png)
+![Mockup 4](images/mockup4.png)
 [Mockup en Figma](https://www.figma.com/design/k9zEJ4YCoqtTXUbZsc2fQy/FIgma-diagrams?node-id=0-1&p=f&t=RcurIJUL8IWaX1Zo-0)
 
 
@@ -2332,17 +2331,17 @@ El mock-up refleja la implementación completa de los elementos de diseño. La p
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/userflow.png)
+![User Flow](images/userflow.png)
 
 
 ### 4.5. Web Applications Prototyping
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/login.png)
+![Mockup - Login](images/login.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/mockup.png)
+![Mockup 1](images/mockup.png)
 
 
 ### 4.6. Domain Driven Software Architecture
@@ -2357,7 +2356,7 @@ Este diagrama muestra cómo interactúan los usuarios (Dueños de Perros y Veter
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.1..png)
+![Diagrama de Componentes 4.6.1](images/4.6.1..png)
 
 
 
@@ -2368,7 +2367,7 @@ Este diagrama ilustra los diferentes contenedores o componentes tecnológicos de
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.2..png)
+![Diagrama de Componentes 4.6.2](images/4.6.2..png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -2379,7 +2378,7 @@ Este diagrama representa los componentes encargados de la gestión de las mascot
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.3..png)
+![Diagrama de Componentes 4.6.3](images/4.6.3..png)
 
 
 
@@ -2390,7 +2389,7 @@ Este diagrama se centra en la gestión de las citas y la agenda de las mascotas.
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.33..png)
+![Diagrama de Componentes 4.6.33](images/4.6.33..png)
 
 
 
@@ -2401,7 +2400,7 @@ Este diagrama describe los componentes que gestionan las notificaciones, esencia
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/4.6.333..png)
+![Diagrama de Componentes 4.6.333](images/4.6.333..png)
 
 
 
@@ -2418,7 +2417,7 @@ El diagrama de clases proporciona una representación visual de las clases del s
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
+![Diagrama de Clases](images/Diagrama de clases.png)
 
 
 ### 4.7.2. Class Dictionary
@@ -2489,7 +2488,7 @@ El diagrama de base de datos ilustra gráficamente cómo se relacionan las tabla
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Diagrama%20de%20clases.png)
+![Diagrama de Clases](images/Diagrama de clases.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -2848,35 +2847,35 @@ A continuación se presentan las capturas de pantalla que ilustran el proceso de
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_1.png)
+![Configuración de Despliegue 1](images/Software_Deployment_Configuration_1.png)
 
 
 * Ilustración GitHub Software Deployment Configuration 2
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_2.png)
+![Configuración de Despliegue 2](images/Software_Deployment_Configuration_2.png)
 
 
 * Ilustración GitHub Software Deployment Configuration 3
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_3.png)
+![Configuración de Despliegue 3](images/Software_Deployment_Configuration_3.png)
 
 
 * Ilustración GitHub Software Deployment Configuration 4
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_4.png)
+![Configuración de Despliegue 4](images/Software_Deployment_Configuration_4.png)
 
 
 * Ilustración GitHub Software Deployment Configuration 5
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Software_Deployment_Configuration_5.png)
+![Configuración de Despliegue 5](images/Software_Deployment_Configuration_5.png)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -3004,16 +3003,16 @@ A continuación, se presentan capturas de las vistas más relevantes implementad
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage1.png)
+![Evidencia Landing Page 1](images/evidence-LandingPage1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage2.png)
+![Evidencia Landing Page 2](images/evidence-LandingPage2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage3.png)
+![Evidencia Landing Page 3](images/evidence-LandingPage3.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-LandingPage4.png)
+![Evidencia Landing Page 4](images/evidence-LandingPage4.png)
     
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -3072,16 +3071,16 @@ A continuación se presentan los aportes y evidencias del trabajo grupal de los 
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Contributors.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/Landing-Network.png)
+![Contribuciones Landing Page](images/Landing-Contributors.png)
+![Red de Colaboración Landing Page](images/Landing-Network.png)
 
 
 * READ.ME 
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Read-Contributors.png)
-![img](file:///C:/Users/PC-%20Usuario/report/images/read-Network.png)
+![Contribuciones README](images/Read-Contributors.png)
+![Red de Colaboración README](images/read-Network.png)
 
 
 ### 5.2.2. Sprint 2
@@ -3190,19 +3189,19 @@ A continuación se muestran capturas de pantalla de las vistas más representati
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%201.png)
+![Evidencia Frontend 1](images/evidence-frontend 1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%202.png)
+![Evidencia Frontend 2](images/evidence-frontend 2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%203.png)
+![Evidencia Frontend 3](images/evidence-frontend 3.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%204.png)
+![Evidencia Frontend 4](images/evidence-frontend 4.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-frontend%205.png)
+![Evidencia Frontend 5](images/evidence-frontend 5.png)
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -3253,19 +3252,19 @@ Esta sección documenta el proceso de despliegue de la aplicación web desarroll
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%201.png)
+![Evidencia Despliegue 1](images/evidence-deploy 1.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%202.png)
+![Evidencia Despliegue 2](images/evidence-deploy 2.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%203.png)
+![Evidencia Despliegue 3](images/evidence-deploy 3.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%204.png)
+![Evidencia Despliegue 4](images/evidence-deploy 4.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-deploy%205.png)
+![Evidencia Despliegue 5](images/evidence-deploy 5.png)
 
 
 URL de despliegue: https://dogimax.netlify.app/ 
@@ -3312,10 +3311,10 @@ La colaboración se gestionó mediante GitHub, empleando ramas por feature, comm
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab.png)
+![Evidencia Colaboración del Equipo](images/evidence-teamcollab.png)
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/evidence-teamcollab%201.png)
+![Evidencia Colaboración del Equipo 1](images/evidence-teamcollab 1.png)
 
 
 ### 5.2.3. Sprint 3
@@ -3685,7 +3684,7 @@ Contribuciones destacadas:
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/Team%20Collaboration%20Insights%20during%20Sprint.png)
+![Insights de Colaboración del Equipo durante el Sprint](images/Team Collaboration Insights during Sprint.png)
 
 
 ### 5.3. Validation Interviews
@@ -3746,7 +3745,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%201%20de%20validaci%C3%B3n.png)
+![Entrevista 1 de validación](images/entrevista 1 de validación.png)
 
 
 **Nombre: Juan Pedro Manosalva Pérez**
@@ -3777,7 +3776,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%202%20de%20validaci%C3%B3n.png)
+![Entrevista 2 de validación](images/entrevista 2 de validación.png)
 
 
 
@@ -3813,7 +3812,7 @@ Preguntas Clave para la Entrevista de Validación
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/entrevista%203%20de%20validaci%C3%B3n.png)
+![Entrevista 3 de validación](images/entrevista 3 de validación.png)
 
 
 **Nombre: Keyner Hancco**
@@ -3897,7 +3896,7 @@ Video about the product: https://youtu.be/7kLxtACvOlM
 
 
 
-![img](file:///C:/Users/PC-%20Usuario/report/images/video-about-the-product.png)
+![Video sobre el Producto](images/video-about-the-product.png)
 
 
 ## 6. Conclusiones y Recomendaciones
